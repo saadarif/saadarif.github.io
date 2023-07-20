@@ -1,5 +1,19 @@
 ---
-title: "saadarif.github.io"
+title: "Saad Arif"
+image: ./assets/saad.jpg
+about: 
+  template: trestles
+  image-shape: round
+  image-width: 23em
+  links:
+    - text: "{{< fa brands google size=2x >}}"
+      href: https://scholar.google.co.uk/citations?user=svTW0-wAAAAJ&hl=en
+    - text: "{{< fa brands twitter size=2x >}}"
+      href: https://twitter.com/saadarif81
+    - text: "{{< fa brands github size=2x >}}"
+      href: https://github.com/saadarif
+    - text: "{{< fa envelope size=2x >}}"
+      href: mailto:sarif@brookes.ac.uk
 ---
 
 This is a Quarto website.
