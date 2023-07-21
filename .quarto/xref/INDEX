@@ -13,5 +13,14 @@
   },
   "posts.qmd": {
     "posts.html": "0a31ef5d"
+  },
+  "Resources.qmd": {
+    "Resources.html": "c3d386bd"
+  },
+  "Lab.qmd": {
+    "Lab.html": "bd8e0f82"
+  },
+  "Publications.qmd": {
+    "Publications.html": "a2c8bad2"
   }
 }
