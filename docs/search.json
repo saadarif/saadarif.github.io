@@ -4,48 +4,6 @@
     "href": "index.html",
     "title": "Saad Arif",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
-  },
-  {
-    "objectID": "research.html",
-    "href": "research.html",
-    "title": "research",
-    "section": "",
-    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
-  },
-  {
-    "objectID": "research.html#quarto",
-    "href": "research.html#quarto",
-    "title": "research",
-    "section": "",
-    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
-  },
-  {
-    "objectID": "research.html#running-code",
-    "href": "research.html#running-code",
-    "title": "research",
-    "section": "Running Code",
-    "text": "Running Code\nWhen you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n1 + 1\n\n[1] 2\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed)."
-  },
-  {
-    "objectID": "posts.html",
-    "href": "posts.html",
-    "title": "blog",
-    "section": "",
-    "text": "No matching items"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site"
-  },
-  {
-    "objectID": "teaching.html",
-    "href": "teaching.html",
-    "title": "teaching",
-    "section": "",
-    "text": "About this site"
+    "text": "I am a senior lecturer at the Department of Biological and Medical Science at the Oxford Brookes University. I am also associated with Centre for Functional Genomics at Brookes, serving as its first scientific director from 2019-2021. I received a PhD in Genetics from Oxford Brookes University in 2013.\nI am an evolutionary biologist studying the genetics and genomics of ecology, evolution, development and conservation. I received an Alexander von Humboldt Post-doctoral research fellowship in 2014. I use genomic and genetic tools to research the biology and conservation of invertebrates (mostly 🦋 these days).\nI teach courses at various levels including undergraduate and postgraduate. My teaching includes data science, statistical inference, bioinformatics and reproducibility in biology and the environmental sciences - concepts and approaches that are crucial to my own research. I also teach courses on reproducibility and programming and data science in R aimed at researchers."
   }
 ]

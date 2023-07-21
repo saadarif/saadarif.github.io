@@ -5,19 +5,10 @@ about:
   template: trestles
   image-shape: round
   image-width: 23em
-  links:
-    - text: "{{< ai google-scholar size=2x >}}"
-      href: https://scholar.google.co.uk/citations?user=svTW0-wAAAAJ&hl=en
-    - text: "{{< ai orcid size=2x >}}"
-      href: https://orcid.org/0000-0003-0811-8604
-    - text: "{{< fa brands twitter size=2x >}}"
-      href: https://twitter.com/saadarif81
-    - text: "{{< fa brands github size=2x >}}"
-      href: https://github.com/saadarif
-    - text: "{{< fa envelope size=2x >}}"
-      href: mailto:sarif@brookes.ac.uk
 ---
 
-This is a Quarto website.
+I am a senior lecturer at the [Department of Biological and Medical Science](https://www.brookes.ac.uk/bms) at the [Oxford Brookes University](https://www.brookes.ac.uk/). I am also associated with [Centre for Functional Genomics](https://www.brookes.ac.uk/research/units/hls/centres/centre-for-functional-genomics#) at Brookes, serving as its first scientific director from 2019-2021. I received a PhD in Genetics from Oxford Brookes University in 2013. 
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+I am an evolutionary biologist studying the genetics and genomics of ecology, evolution, development and conservation. I received an [Alexander von Humboldt Post-doctoral research fellowship](https://www.humboldt-foundation.de/bewerben/foerderprogramme/humboldt-forschungsstipendium) in 2014. I use genomic and genetic tools to research the biology and conservation of invertebrates (mostly 🦋 these days).
+
+I teach courses at various levels including undergraduate and postgraduate. My teaching includes data science, statistical inference, bioinformatics and reproducibility in biology and the environmental sciences - concepts and approaches that are crucial to my own research. I also teach courses on reproducibility and programming and data science in R aimed at researchers.
