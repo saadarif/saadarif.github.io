@@ -33,11 +33,13 @@ website:
     - icon: envelope  
       aria-label: email
       href: mailto:sarif@brookes.ac.uk
+  
+  page-footer: "Copyright 2023 &copy; Saad Arif"
 
 format:
   html:
     theme: 
-      light: minty
+      light: yeti
       dark: slate
     css: styles.css
     #page-layout: full
