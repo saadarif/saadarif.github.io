@@ -6,7 +6,7 @@ year: "2021"
 publication: "Molecular Ecology"
 preprint: "https://doi.org/10.1101/2020.09.03.267203"
 doi: " https://doi.org/10.1111/mec.16126"
-materials: "https://github.com/saadarif/CommonBlue-UKPhylogeography"
+github: "https://github.com/saadarif/CommonBlue-UKPhylogeography"
 toc: false
 categories:
   - butterflies

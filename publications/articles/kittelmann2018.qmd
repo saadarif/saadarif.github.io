@@ -6,7 +6,7 @@ year: "2018"
 publication: "PLoS Genetics"
 preprint: "https://doi.org/10.1101/219337"
 doi: "https://doi.org/10.1371/journal.pgen.1007375"
-materials: ""
+github: ""
 toc: false
 categories:
   - drosophila

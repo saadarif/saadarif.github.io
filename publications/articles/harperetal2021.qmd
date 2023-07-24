@@ -6,7 +6,7 @@ year: "2021"
 publication: "G3 Genes|Genomes|Genetics"
 preprint: "https://doi.org/10.1101/2020.07.10.177725"
 doi: "https://doi.org/10.1093/g3journal/jkab299"
-materials: ""
+github: ""
 toc: false
 categories:
   - spiders

@@ -6,7 +6,7 @@ year: "2012"
 publication: "PLoS ONE"
 preprint: ""
 doi: "https://doi.org/10.1371/journal.pone.0037346"
-materials: ""
+github: ""
 toc: false
 categories:
   - drosophila

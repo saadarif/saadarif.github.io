@@ -6,7 +6,7 @@ year: "2013"
 publication: "Genetics"
 preprint: ""
 doi: "https://doi.org/10.1534/genetics.113.156463"
-materials: ""
+github: ""
 toc: false
 categories:
   - genome-editing

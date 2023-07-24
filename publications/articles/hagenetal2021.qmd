@@ -6,7 +6,7 @@ year: "2021"
 publication: "Molecular Biology & Evolution"
 preprint: "https://doi.org/10.1101/2020.06.19.161018"
 doi: "https://doi.org/10.1093/molbev/msaa232"
-materials: ""
+github: ""
 toc: false
 categories:
   - drosophila

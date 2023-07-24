@@ -6,7 +6,7 @@ year: "2015"
 publication: "Evolution & Development"
 preprint: ""
 doi: "https://doi.org/10.1111/ede.12113"
-materials: ""
+github: ""
 toc: false
 categories:
   - drosophila

@@ -6,7 +6,7 @@ year: "2020"
 publication: "G3 Genes|Genomes|Genetics"
 preprint: "https://doi.org/10.1101/555698"
 doi: "https://doi.org/10.1534/g3.119.400877"
-materials: ""
+github: "https://github.com/saadarif/PedroEyeShape"
 toc: false
 categories:
   - drosophila

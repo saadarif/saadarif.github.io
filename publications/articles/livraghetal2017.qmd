@@ -6,7 +6,7 @@ year: "2018"
 publication: "Advances in Insect Physiology"
 preprint: ""
 doi: "https://doi.org/10.1016/bs.aiip.2017.11.001"
-materials: ""
+github: ""
 toc: false
 categories:
   - butterflies

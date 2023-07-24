@@ -6,7 +6,7 @@ year: "2022"
 publication: "Wellcome Open Research"
 preprint: ""
 doi: "https://doi.org/10.12688/wellcomeopenres.17709.1"
-materials: ""
+github: ""
 toc: false
 categories:
   - butterflies

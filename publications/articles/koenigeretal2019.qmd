@@ -2,11 +2,11 @@
 title: "Three Quantitative Trait Loci Explain More than 60% of Variation for Chill Coma Recovery Time in a Natural Population of <em>Drosophila ananassae</em>"
 type: "article"
 author: "Koeniger, Arif, Garth"
-year: "2018"
+year: "2019"
 publication: "G3 Genes|Genomes|Genetics"
 preprint: "https://doi.org/10.1101/555698"
 doi: "https://doi.org/10.1534/g3.119.400453"
-materials: "https://github.com/saadarif/chillaComaQTL"
+github: "https://github.com/saadarif/chillaComaQTL"
 toc: false
 categories:
   - drosophila
