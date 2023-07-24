@@ -1,0 +1,24 @@
+---
+title: "Pervasive microRNA Duplication in Chelicerates: Insights from the Embryonic microRNA Repertoire of the Spider *Parasteatoda tepidariorum*"
+type: "article"
+author: "Leite, Ninova, Hilbrant, et al."
+year: "2016"
+publication: "Molecular Biology & Evolution"
+preprint: ""
+doi: "https://doi.org/10.1093/gbe/evw143"
+materials: ""
+toc: false
+categories:
+  - spiders
+  - transcriptomics
+  - microRNAs
+  - evo-devo
+---
+
+## Citation
+
+> Leite, D. J., Ninova, M., Hilbrant, M., Arif, S., Griffiths-Jones, S., Ronshaugen, M., & McGregor, A. P. (2016). Pervasive microRNA Duplication in Chelicerates: Insights from the Embryonic microRNA Repertoire of the Spider Parasteatoda tepidariorum. *Genome Biology and Evolution*, 8(7), 2133–2144. https://doi.org/10.1093/gbe/evw143
+
+## Abstract
+
+MicroRNAs are small (∼22 nt) noncoding RNAs that repress translation and therefore regulate the production of proteins from specific target mRNAs. microRNAs have been found to function in diverse aspects of gene regulation within animal development and many other processes. Among invertebrates, both conserved and novel, lineage specific, microRNAs have been extensively studied predominantly in holometabolous insects such as Drosophila melanogaster . However little is known about microRNA repertoires in other arthropod lineages such as the chelicerates. To understand the evolution of microRNAs in this poorly sampled subphylum, we characterized the microRNA repertoire expressed during embryogenesis of the common house spider Parasteatoda tepidariorum . We identified a total of 148 microRNAs in P. tepidariorum representing 66 families. Approximately half of these microRNA families are conserved in other metazoans, while the remainder are specific to this spider. Of the 35 conserved microRNAs families 15 had at least two copies in the P. tepidariorum genome. A BLAST-based approach revealed a similar pattern of duplication in other spiders and a scorpion, but not among other chelicerates and arthropods, with the exception of a horseshoe crab. Among the duplicated microRNAs we found examples of lineage-specific tandem duplications, and the duplication of entire microRNA clusters in three spiders, a scorpion, and in a horseshoe crab. Furthermore, we found that paralogs of many P. tepidariorum microRNA families exhibit arm switching, which suggests that duplication was often followed by sub- or neofunctionalization. Our work shows that understanding the evolution of microRNAs in the chelicerates has great potential to provide insights into the process of microRNA duplication and divergence and the evolution of animal development.

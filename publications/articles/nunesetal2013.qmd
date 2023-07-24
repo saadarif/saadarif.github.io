@@ -1,0 +1,23 @@
+---
+title: " Perspective on Micro-Evo-Devo: Progress and Potential"
+type: "article"
+author: "Nunes, Arif, Schlötterer, et al."
+year: "2013"
+publication: "Genetics"
+preprint: ""
+doi: "https://doi.org/10.1534/genetics.113.156463"
+materials: ""
+toc: false
+categories:
+  - genome-editing
+  - evo-devo
+  - perspective
+---
+
+## Citation
+
+> Nunes, M. D. S., Arif, S., Schlötterer, C., & McGregor, A. P. (2013). A Perspective on Micro-Evo-Devo: Progress and Potential. Genetics, 195(3), 625–634. https://doi.org/10.1534/genetics.113.156463
+
+## Abstract
+
+The term “micro-evo-devo” refers to the combined study of the genetic and developmental bases of natural variation in populations and the evolutionary forces that have shaped this variation. It thus represents a synthesis of the fields of evolutionary developmental biology and population genetics. As has been pointed out by several others, this synthesis can provide insights into the evolution of organismal form and function that have not been possible within these individual disciplines separately. Despite a number of important successes in micro-evo-devo, however, it appears that evo devo and population genetics remain largely separate spheres of research, limiting their ability to address evolutionary questions. This also risks pushing contemporary evo devo to the fringes of evolutionary biology because it does not describe the causative molecular changes underlying evolution or the evolutionary forces involved. Here we reemphasize the theoretical and practical importance of micro-evo-devo as a strategy for understanding phenotypic evolution, review the key recent insights that it has provided, and present a perspective on both the potential and the remaining challenges of this exciting interdisciplinary field.

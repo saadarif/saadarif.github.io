@@ -1,0 +1,24 @@
+---
+title: "Evolutionary diversification of opercle shape in Cook Inlet threespine stickleback"
+type: "article"
+author: "Arif, Aguirre, Bell"
+year: "2009"
+publication: "Biological Journal of the Linnean Society"
+preprint: ""
+doi: "https://doi.org/10.1111/j.1095-8312.2009.01258.x"
+materials: ""
+toc: false
+categories:
+  - fish
+  - geometric morphometrics
+  - opercle
+---
+
+## Citation
+
+> Arif, S., Aguirre, W. E., & Bell, M. A. (2009). Evolutionary diversification of opercle shape in Cook Inlet threespine stickleback. *Biological Journal of the Linnean Society*, 97, 832–844.
+
+
+## Abstract
+
+We investigated the evolution of a large facial bone, the opercle (OP), in lake populations of the threespine stickleback that were founded by anadromous ancestors, in Cook Inlet, Alaska. Recent studies characterized OP variation among marine and lake populations and mapped a quantitative trait locus with a large influence on OP shape. Using populations from diverse environments and independent evolutionary histories, we examined divergence of OP shape from that of the anadromous ancestor. We report preliminary evidence for divergence between benthic and generalist lake ecotypes, necessitating further investigation. Furthermore, rapid divergence of OP shape has occurred in a lake population that was founded by anadromous stickleback in the 1980s, which is consistent with divergence of other phenotypic traits and with OP diversification in other lake populations. By contrast, there has been limited evolution of OP shape in a second lake population that may have experienced a genetic bottleneck early in its history and lacks genetic variation for OP divergence. Taken together, the results obtained from these two populations are consistent with studies of other stickleback phenotypic traits that implicate ancestral variation in postglacial adaptive radiation of threespine stickleback in fresh water.

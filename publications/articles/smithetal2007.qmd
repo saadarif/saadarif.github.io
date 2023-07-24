@@ -1,0 +1,26 @@
+---
+title: "A Phylogenetic Hot Spot for Evolutionary Novelty in Middle American Treefrogs"
+type: "article"
+author: "Smith, Arif, Adams, Oca, et al."
+year: "2007"
+publication: "Evolution"
+preprint: ""
+doi: "https://doi.org/10.1111/j.1558-5646.2007.00173.x"
+materials: ""
+toc: false
+categories:
+  - amphibians
+  - phylogeny
+  - novelty
+  - skull morphology
+---
+
+## Citation
+
+> Smith, S. A., Arif, S., Oca, A. N. M. D., & Wiens, J. J. (2007). A Phylogenetic Hot Spot for Evolutionary Novelty in Middle American Treefrogs. *Evolution*, 61(9), 2075–2085. https://doi.org/10.1111/j.1558-5646.2007.00173.x
+
+
+## Abstract
+
+Among the various types of evolutionary changes in morphology, the origin of novel structures may be the most rare and intriguing. Here we show statistically that the origins of different novel structures may be correlated and phylogenetically clustered into “hot spots” of evolutionary novelty, in a case study involving skull elements in treefrogs. We reconstruct phylogenetic relationships within a clade of Middle American treefrogs based on data from 10 nuclear and four mitochondrial genes and then analyze morphological evolution across this tree. New cranial elements are rare among anurans and tetrapods in general, but three novel elements have evolved within this clade, with a 40% increase in the number of skull roof elements in some species. Two of these elements also evolved in a related clade of treefrogs, and these two novel elements may have each evolved repeatedly within one or both clades. The molecular phylogeny suggests striking homoplasy in cranial morphology and shows that parsimony and Bayesian analyses of the morphological data have produced misleading results with strong statistical support. The origins of the novel elements are associated with an overall increase in the ossification of dermal skull roof elements (suggesting peramorphosis) and with the evolution of a novel adaptive behavior. Our study may be the first to statistically document significant phylogenetic clustering and correlation in the origins of novel structures, and to demonstrate the strongly misleading effects of peramorphosis on phylogenetic analysis.
+

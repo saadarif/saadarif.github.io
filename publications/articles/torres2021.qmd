@@ -1,0 +1,27 @@
+---
+title: "Differences in orthodenticle expression promote ommatidial size variation between <em>Drosophila</em> species"
+type: "article"
+author: "Torres-Olivia, Buchberger, Buffry, et al."
+year: "2021"
+publication: ""
+preprint: "https://doi.org/10.1101/2021.03.17.435774"
+doi: ""
+materials: ""
+toc: false
+categories:
+  - drosophila
+  - transcriptomics
+  - evo-devo
+  - compound eyes
+  - ATAC-seq
+  - fine-mapping
+---
+
+## Citation
+
+This is still a preprint!
+
+
+## Abstract
+
+The compound eyes of insects exhibit extensive variation in ommatidia number and size, which affects how they see and underlies adaptations in their vision to different environments and lifestyles. However, very little is known about the genetic and developmental bases underlying differences in compound eye size. We previously showed that the larger eyes of Drosophila mauritiana compared to D. simulans is caused by differences in ommatidia size rather than number. Furthermore, we identified an X-linked chromosomal region in D. mauritiana that results in larger eyes when introgressed into D. simulans. Here, we used a combination of fine-scale mapping and gene expression analysis to further investigate positional candidate genes on the X chromosome. We found that orthodenticle is expressed earlier in D. mauritiana than in D. simulans during ommatidial maturation in third instar larvae, and we further show that this gene is required for the correct organisation and size of ommatidia in D. melanogaster. Using ATAC-seq, we have identified several candidate eye enhancers of otd as well as potential direct targets of this transcription factor that are differentially expressed between D. mauritiana and D. simulans. Taken together, our results suggest that differential timing of otd expression contributes to natural variation in ommatidia size between D. mauritiana and D. simulans, which provides new insights into the mechanisms underlying the regulation and evolution of compound eye size in insects.

@@ -22,5 +22,68 @@
   },
   "Publications.qmd": {
     "Publications.html": "a2c8bad2"
+  },
+  "publications.qmd": {
+    "publications.html": "b56b5d8e"
+  },
+  "publications/articles/wiensetal2010.qmd": {
+    "wiensetal2010.html": "30398e60"
+  },
+  "publications/articles/smithetal2007.qmd": {
+    "smithetal2007.html": "e50966a0"
+  },
+  "publications/articles/arifetal2013b.qmd": {
+    "arifetal2013b.html": "d3b79fe1"
+  },
+  "publications/articles/arifetal2021.qmd": {
+    "arifetal2021.html": "11452779"
+  },
+  "publications/articles/arifetal2013a.qmd": {
+    "arifetal2013a.html": "7b80cccf"
+  },
+  "publications/articles/arifetal2007.qmd": {
+    "arifetal2007.html": "86ef5114"
+  },
+  "publications/articles/arifetal2009.qmd": {
+    "arifetal2009.html": "9ed44d3b"
+  },
+  "publications/articles/livraghetal2017.qmd": {
+    "livraghetal2017.html": "807be63e"
+  },
+  "publications/articles/kittelmann2018.qmd": {
+    "kittelmann2018.html": "3b9a38b7"
+  },
+  "publications/articles/posnienetal2012.qmd": {
+    "posnienetal2012.html": "dca8c185"
+  },
+  "publications/articles/hagenetal2021.qmd": {
+    "hagenetal2021.html": "473a8d95"
+  },
+  "publications/articles/koenigeretal2019.qmd": {
+    "koenigeretal2019.html": "4efcc83e"
+  },
+  "publications/articles/nunesetal2013.qmd": {
+    "nunesetal2013.html": "f2393bec"
+  },
+  "publications/articles/arifetal2015.qmd": {
+    "arifetal2015.html": "a7ad6fa9"
+  },
+  "publications/articles/baudouinetal2021.qmd": {
+    "baudouinetal2021.html": "4c5471a5"
+  },
+  "publications/articles/leiteetal2016.qmd": {
+    "leiteetal2016.html": "295c0a31"
+  },
+  "publications/articles/harperetal2021.qmd": {
+    "harperetal2021.html": "9232b3d6"
+  },
+  "publications/articles/gasparetal2019.qmd": {
+    "gasparetal2019.html": "fed7c566"
+  },
+  "publications/articles/torres2021.qmd": {
+    "torres2021.html": "fe58458c"
+  },
+  "publications/articles/ebdon2022.qmd": {
+    "ebdon2022.html": "d9ae8e4c"
   }
 }

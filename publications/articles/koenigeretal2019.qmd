@@ -1,0 +1,24 @@
+---
+title: "Three Quantitative Trait Loci Explain More than 60% of Variation for Chill Coma Recovery Time in a Natural Population of <em>Drosophila ananassae</em>"
+type: "article"
+author: "Koeniger, Arif, Garth"
+year: "2018"
+publication: "G3 Genes|Genomes|Genetics"
+preprint: "https://doi.org/10.1101/555698"
+doi: "https://doi.org/10.1534/g3.119.400453"
+materials: "https://github.com/saadarif/chillaComaQTL"
+toc: false
+categories:
+  - drosophila
+  - cold adaptation
+  - QTL mapping
+ 
+---
+
+## Citation
+
+> Königer, A., Arif, S., & Grath, S. (2019). Three Quantitative Trait Loci Explain More than 60% of Variation for Chill Coma Recovery Time in a Natural Population of Drosophila ananassae. *G3: Genes, Genomes, Genetics*, 9(11), 3715–3725. https://doi.org/10.1534/g3.119.400453
+
+## Abstract
+
+Ectothermic species such as insects are particularly vulnerable to climatic fluctuations. Nevertheless, many insects that evolved and diversified in the tropics have successfully colonized temperate regions all over the globe. To shed light on the genetic basis of cold tolerance in such species, we conducted a quantitative trait locus (QTL) mapping experiment for chill coma recovery time (CCRT) in Drosophila ananassae, a cosmopolitan species that has expanded its range from tropical to temperate regions. We created a mapping population of recombinant inbred advanced intercross lines (RIAILs) from two founder strains with diverging CCRT phenotypes. The RIAILs were phenotyped for their CCRT and, together with the founder strains, genotyped for polymorphic markers with double-digest restriction site-associated DNA (ddRAD) sequencing. Using a hierarchical mapping approach that combined standard interval mapping and a multiple-QTL model, we mapped three QTL which altogether explained 64% of the phenotypic variance. For two of the identified QTL, we found evidence of epistasis. To narrow down the list of cold tolerance candidate genes, we cross-referenced the QTL intervals with genes that we previously identified as differentially expressed in response to cold in D. ananassae, and with thermotolerance candidate genes of D. melanogaster. Among the 58 differentially expressed genes that were contained within the QTL, GF15058 showed a significant interaction of the CCRT phenotype and gene expression. Further, we identified the orthologs of four D. melanogaster thermotolerance candidate genes, MtnA, klarsicht, CG5246 (D.ana/GF17132) and CG10383 (D.ana/GF14829) as candidates for cold tolerance in D. ananassae.

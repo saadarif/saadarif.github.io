@@ -1,0 +1,24 @@
+---
+title: "Widespread retention of ohnologs in key developmental gene families following whole genome duplication in arachnopulmona"
+type: "article"
+author: "Harper, Gonzalez, Schoenauer, et al."
+year: "2021"
+publication: "G3 Genes|Genomes|Genetics"
+preprint: "https://doi.org/10.1101/2020.07.10.177725"
+doi: "https://doi.org/10.1093/g3journal/jkab299"
+materials: ""
+toc: false
+categories:
+  - spiders
+  - transcriptomics
+  - evo-devo
+  - student publication
+---
+
+## Citation
+
+> Harper, A., Gonzalez, L. B., Schönauer, A., Seiter, M., Holzem, M., Arif, S., McGregor, A. P., & Sumner-Rooney, L. (2020). Widespread retention of ohnologs in key developmental gene families following whole genome duplication in arachnopulmonates. BioRxiv, 2020.07.10.177725. https://doi.org/10.1101/2020.07.10.177725
+
+## Abstract
+
+Whole-genome duplications (WGDs) have occurred multiple times during animal evolution, including in lineages leading to vertebrates, teleosts, horseshoe crabs, and arachnopulmonates. These dramatic events initially produce a wealth of new genetic material, generally followed by extensive gene loss. It appears, however, that developmental genes such as homeobox genes, signaling pathway components and microRNAs are frequently retained as duplicates (so-called ohnologs) following WGD. These not only provide the best evidence for WGD, but an opportunity to study its evolutionary consequences. Although these genes are well studied in the context of vertebrate WGD, similar comparisons across the extant arachnopulmonate orders are patchy. We sequenced embryonic transcriptomes from two spider species and two amblypygid species and surveyed three important gene families, Hox, Wnt, and frizzled, across these and 12 existing transcriptomic and genomic resources for chelicerates. We report extensive retention of putative ohnologs, further supporting the ancestral arachnopulmonate WGD. We also found evidence of consistent evolutionary trajectories in Hox and Wnt gene repertoires across three of the six arachnopulmonate orders, with interorder variation in the retention of specific paralogs. We identified variation between major clades in spiders and are better able to reconstruct the chronology of gene duplications and losses in spiders, amblypygids, and scorpions. These insights shed light on the evolution of the developmental toolkit in arachnopulmonates, highlight the importance of the comparative approach within lineages, and provide substantial new transcriptomic data for future study.

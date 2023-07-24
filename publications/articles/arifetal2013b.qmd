@@ -1,0 +1,33 @@
+---
+title: "Evolution of mir-92a underlies natural morphological variation in <em>Drosophila melanogaster</em>"
+type: "article"
+author: "Arif, Murat, Almudi, et al."
+year: "2013"
+publication: "Current Biology"
+preprint: ""
+doi: "https://doi.org/10.1016/j.cub.2013.02.018"
+materials: ""
+toc: false
+categories:
+  - drosophila
+  - trichomes
+  - fine-mapping
+  - evo-devo
+  - microRNAs
+---
+
+## Citation
+
+> Arif, S., Murat, S., Almudi, I., Nunes, M. D., Bortolamiol-Becet, D., McGregor, N. S., Currie, J. M., Hughes, H., Ronshaugen, M., Sucena, E., Lai, E. C., Schlotterer, C., & McGregor, A. P. (2013). Evolution of mir-92a underlies natural morphological variation in Drosophila melanogaster. *Curr Biol*, 23, 523–528. https://doi.org/10.1016/j.cub.2013.02.018
+
+
+## Summary
+
+Identifying the genetic mechanisms underlying phenotypic change is essential to understanding how gene regulatory networks and ultimately the genotype-to-phenotype map evolve. It is recognized that microRNAs (miRNAs) have the potential to facilitate evolutionary change [1, 2, 3]; however, there are no known examples of natural morphological variation caused by evolutionary changes in miRNA expression. Therefore, the contribution of miRNAs to evolutionary change remains unknown [1, 4]. Drosophila melanogaster subgroup species display a portion of trichome-free cuticle on the femur of the second leg called the “naked valley.” It was previously shown that Ultrabithorax (Ubx) is involved in naked valley variation between D. melanogaster and D. simulans [5, 6]. However, naked valley size also varies among populations of D. melanogaster, ranging from 1,000 up to 30,000 μm2. We investigated the genetic basis of intraspecific differences in the naked valley in D. melanogaster and found that neither Ubx nor shavenbaby (svb) [7, 8] contributes to this morphological difference. Instead, we show that changes in mir-92a expression underlie the evolution of naked valley size in D. melanogaster through repression of shavenoid (sha) [9]. Therefore, our results reveal a novel mechanism for morphological evolution and suggest that modulation of the expression of miRNAs potentially plays a prominent role in generating organismal diversity.
+
+## Highlights
+
+* mir-92a represses shavenoid in the posterior femur to modulate naked valley size
+* cis-regulatory changes in mir-92a cause the evolution of morphology in Drosophila
+* Trichome pattern changes are caused by different regulatory factors
+* Changes in miRNA expression might play a prominent role in phenotypic change

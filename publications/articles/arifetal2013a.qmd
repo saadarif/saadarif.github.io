@@ -1,0 +1,26 @@
+---
+title: "Genetic and developmental analysis of differences in eye and face morphology between <em>Drosophila simulans</em> and <em>Drosophila mauritiana</em>"
+type: "article"
+author: "Arif, Hilbrant, Hopfen, et al."
+year: "2013"
+publication: "Evolution & Development"
+preprint: ""
+doi: "https://doi.org/10.1111/ede.12027"
+materials: ""
+toc: false
+categories:
+  - drosophila
+  - geometric morphometrics
+  - QTL mapping
+  - evo-devo
+  - compound eyes
+---
+
+## Citation
+
+> Arif, S., Hilbrant, M., Hopfen, C., Almudi, I., Nunes, M. D., Posnien, N., Kuncheria, L., Tanaka, K., Mitteroecker, P., Schlotterer, C., & McGregor, A. P. (2013). Genetic and developmental analysis of differences in eye and face morphology between Drosophila simulans and Drosophila mauritiana. *Evol Dev*, 15, 257–267.
+
+
+## Abstract
+
+Eye and head morphology vary considerably among insects and even between closely related species of Drosophila. Species of the D. melanogaster subgroup, and other Drosophila species, exhibit a negative correlation between eye size and face width (FW); for example, D. mauritiana generally has bigger eyes composed of larger ommatidia and conversely a narrower face than its sibling species. To better understand the evolution of eye and head morphology, we investigated the genetic and developmental basis of differences in eye size and FW between male D. mauritiana and D. simulans. QTL mapping of eye size and FW showed that the major loci responsible for the interspecific variation in these traits are localized to different genomic regions. Introgression of the largest effect QTL underlying the difference in eye size resulted in flies with larger eyes but no significant difference in FW. Moreover, introgression of a QTL region on the third chromosome that contributes to the FW difference between these species affected FW, but not eye size. We also observed that this difference in FW is detectable earlier in the development of the eye-antennal disc than the difference in the size of the retinal field. Our results suggest that different loci that act at different developmental stages underlie changes in eye size and FW. Therefore, while there is a negative correlation between these traits in Drosophila, we show genetically that they also have the potential to evolve independently and this may help to explain the evolution of these traits in other insects

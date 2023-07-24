@@ -1,0 +1,44 @@
+---
+title: "Bioclimatic modelling, morphology, and behaviour reveal alternative mechanisms regulating the distributions of two parapatric salamander species"
+type: "article"
+author: "Arif, Adams, Wicknick"
+year: "2007"
+publication: "Evolutionary Ecology Research"
+preprint: ""
+doi: ""
+materials: ""
+toc: false
+categories:
+  - amphibians
+  - geometric morphometrics
+  - skull morphology
+---
+
+## Citation
+
+> Arif, S., Adams, D. C., & Wicknick, J. A. (2007). Bioclimatic modelling, morphology, and behaviour reveal alternative mechanisms regulating the distributions of two parapatric salamander species. *Evolutionary Ecology Research*, 9, 843–854.
+
+
+## Abstract
+
+**Question**: What ecological and evolutionary processes are important in maintaining
+parapatric distributions of sibling species?
+
+**Hypotheses**: Previous research has suggested that competition is a likely factor limiting
+species distributions and maintaining parapatric distributions. Alternatively, abiotic restrictions
+such as climatic factors and local adaptation can also limit species’ ranges.
+
+**Organisms**: Plethodon hubrichti, a mountaintop endemic salamander, has an extremely
+limited geographic range that is entirely surrounded by the widespread Plethodon cinereus.
+Previous studies have suggested that P. hubrichti may be geographically restricted as a result of
+interspecific competition with P. cinereus.
+
+**Methods**: We studied the relationship between trophic morphology and diet in allopatric
+and sympatric populations to examine the effect of exploitative competition on geographic
+distribution. Behavioural experiments were conducted in the laboratory to determine the effects
+of interference competition. We complemented these analyses with bioclimatic modelling of
+species’ ranges and climate–phenotype correlations to examine the abiotic impact.
+
+**Results**: Our results suggest that aggressive interactions with P. hubrichti restrict the
+distribution of P. cinereus
+

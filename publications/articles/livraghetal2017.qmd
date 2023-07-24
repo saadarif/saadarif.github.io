@@ -1,0 +1,24 @@
+---
+title: "CRISPR/Cas9 as the Key to Unlocking the Secrets of Butterfly Wing Pattern Development and Its Evolution"
+type: "article"
+author: "Livragi, Martin, Gibbs, et al."
+year: "2018"
+publication: "Advances in Insect Physiology"
+preprint: ""
+doi: "https://doi.org/10.1016/bs.aiip.2017.11.001"
+materials: ""
+toc: false
+categories:
+  - butterflies
+  - genome-editing
+  - book chapter
+  - review
+---
+
+## Citation
+
+> Livraghi, L., Martin, A., Gibbs, M., Braak, N., Arif, S., & Breuker, C. J. (2018). CRISPR/Cas9 as the Key to Unlocking the Secrets of Butterfly Wing Pattern Development and Its Evolution. In R. H. ffrench-Constant (Ed.), Advances in Insect Physiology (Vol. 54, pp. 85–115). Academic Press. https://doi.org/10.1016/bs.aiip.2017.11.001
+
+## Abstract
+
+With the exception of a few moth and butterfly species, gene-editing tools in Lepidoptera have been lagging behind other well-studied insects. In order to elucidate gene function across the order, it is necessary to establish tools that enable such gene manipulation. CRISPR/Cas9 is a promising technique and here we review the recent progress made in implementing the technique in butterflies; from broad patterning of the wing, to the development of specific colours in particular wing sections, to eyespot formation. The often species-specific responses to the CRISPR/Cas9-induced mutations in candidate genes, underscore the significance of these genes in the wide evolutionary diversification of butterfly wing patterns. We further discuss potential caveats in the interpretation of the resulting mutant phenotypes obtained through CRISPR/Cas9 gene editing. Finally, we discuss the possibilities CRISPR/Cas9 offers beyond mere knockout of candidate genes, including the potential for the generation of transgenics that will further elucidate the developmental genetic basis for wing pattern evolution.

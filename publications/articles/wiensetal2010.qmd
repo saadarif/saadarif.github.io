@@ -1,0 +1,25 @@
+---
+title: "Phylogenetic relationships of phrynosomatid lizards based on nuclear and mitochondrial data, and a revised phylogeny for <em>Sceloporus</em>"
+type: "article"
+author: "Wiens, Kuczynski, Arif, et al."
+year: "2010"
+publication: "Molecular Phylogenetics and Evolution"
+preprint: ""
+doi: "https://doi.org/10.1016/j.ympev.2009.09.008"
+materials: ""
+toc: false
+categories:
+  - reptiles
+  - phylogeny
+  
+---
+
+## Citation
+
+> Wiens, J. J., Kuczynski, C. A., Arif, S., & Reeder, T. W. (2010). Phylogenetic relationships of phrynosomatid lizards based on nuclear and mitochondrial data, and a revised phylogeny for Sceloporus. *Molecular Phylogenetics and Evolution*, 54(1), 150–161. https://doi.org/10.1016/j.ympev.2009.09.008
+
+
+## Abstract
+
+Phrynosomatid lizards are among the most common and diverse groups of reptiles in western North America, Mexico, and Central America. Phrynosomatidae includes 136 species in 10 genera. Phrynosomatids are used as model systems in many research programs in evolution and ecology, and much of this research has been undertaken in a comparative phylogenetic framework. However, relationships among many phrynosomatid genera are poorly supported and in conflict between recent studies. Further, previous studies based on mitochondrial DNA sequences suggested that the most species-rich genus (Sceloporus) is possibly paraphyletic with respect to as many as four other genera (Petrosaurus, Sator, Urosaurus, and Uta). Here, we collect new sequence data from five nuclear genes and combine them with published data from one additional nuclear gene and five mitochondrial gene regions. We compare trees from nuclear and mitochondrial data from 37 phrynosomatid taxa, including a “species tree” (from BEST) for the nuclear data. We also present a phylogeny for 122 phrynosomatid species based on maximum likelihood analysis of the combined data, which provides a strongly-supported hypothesis for relationships among most phrynosomatid genera and includes most phrynosomatid species. Our results strongly support the monophyly of Sceloporus (including Sator) and many of the relationships within it. We present a new classification for phrynosomatid lizards and the genus Sceloporus, and offer a new tree with branch lengths for use in comparative studies.n item to its correct category without guessing. Whereas Van Oest showed this interpretation for unweighted agreement, we generalize to weighted agreement. 
+

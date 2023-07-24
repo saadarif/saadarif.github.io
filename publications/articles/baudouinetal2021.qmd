@@ -1,0 +1,24 @@
+---
+title: "The evolution of Sox gene repertoires and regulation of segmentation in arachnids"
+type: "article"
+author: "Baudouin-Gonzalez, Schoenauer, Harper, et al."
+year: "2021"
+publication: "Molecular Biology & Evolution"
+preprint: "https://doi.org/10.1101/2020.09.03.267203"
+doi: "https://doi.org/10.1101/2020.06.04.133389"
+materials: ""
+toc: false
+categories:
+  - spiders
+  - transcriptomics
+  - evo-devo
+  - student publication
+---
+
+## Citation
+
+> Baudouin-Gonzalez, L., Schoenauer, A., Harper, A., Blakeley, G., Seiter, M., Arif, S., Sumner-Rooney, L., Russell, S., Sharma, P. P., & McGregor, A. P. (2020). The evolution of Sox gene repertoires and regulation of segmentation in arachnids. *BioRxiv*, 2020.06.04.133389. https://doi.org/10.1101/2020.06.04.133389
+
+## Abstract
+
+The Sox family of transcription factors regulates many processes during metazoan development, including stem cell maintenance and nervous system specification. Characterizing the repertoires and roles of these genes can therefore provide important insights into animal evolution and development. We further characterized the Sox repertoires of several arachnid species with and without an ancestral whole-genome duplication and compared their expression between the spider Parasteatoda tepidariorum and the harvestman Phalangium opilio. We found that most Sox families have been retained as ohnologs after whole-genome duplication and evidence for potential subfunctionalization and/or neofunctionalization events. Our results also suggest that Sox21b-1 likely regulated segmentation ancestrally in arachnids, playing a similar role to the closely related SoxB gene, Dichaete, in insects. We previously showed that Sox21b-1 is required for the simultaneous formation of prosomal segments and sequential addition of opisthosomal segments in P. tepidariorum. We studied the expression and function of Sox21b-1 further in this spider and found that although this gene regulates the generation of both prosomal and opisthosomal segments, it plays different roles in the formation of these tagmata reflecting their contrasting modes of segmentation and deployment of gene regulatory networks with different architectures.

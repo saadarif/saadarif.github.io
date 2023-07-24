@@ -1,0 +1,23 @@
+---
+title: "The genome sequence of the black-veined white butterfly, <em>Aporia crataegi</em> (Linnaeus, 1758)"
+type: "article"
+author: "Ebdon, MacKintosh, Lohse, et al."
+year: "2022"
+publication: "Wellcome Open Research"
+preprint: ""
+doi: "https://doi.org/10.12688/wellcomeopenres.17709.1"
+materials: ""
+toc: false
+categories:
+  - butterflies
+  - genome note
+  - student publication
+---
+
+## Citation
+
+> Ebdon S, Mackintosh A, Lohse K et al. The genome sequence of the black-veined white butterfly, Aporia crataegi (Linnaeus, 1758) [version 1; peer review: 1 approved, 1 not approved]. Wellcome Open Res 2022, 7:81 (https://doi.org/10.12688/wellcomeopenres.17709.1)
+
+## Abstract
+
+We present a genome assembly from an individual male Aporia crataegi (the black-veined white; Arthropoda; Insecta; Lepidoptera; Pieridae). The genome sequence is 230 megabases in span. The complete assembly is scaffolded into 26 chromosomal pseudomolecules, with the Z sex chromosome assembled. Gene annotation of this assembly on Ensembl has identified 10,860 protein coding genes.

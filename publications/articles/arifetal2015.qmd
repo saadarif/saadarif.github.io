@@ -1,0 +1,25 @@
+---
+title: " From shavenbaby to the naked valley: Trichome formation as a model for evolutionary developmental biology"
+type: "article"
+author: "Arif, Kittelmann, McGregor"
+year: "2015"
+publication: "Evolution & Development"
+preprint: ""
+doi: "https://doi.org/10.1111/ede.12113"
+materials: ""
+toc: false
+categories:
+  - drosophila
+  - evo-devo
+  - trichomes
+  - review
+---
+
+## Citation
+
+> Arif, S., Kittelmann, S., & McGregor, A. P. (2015). From shavenbaby to the naked valley: Trichome formation as a model for evolutionary developmental biology. *Evolution & Development*, 17(1), 120–126. https://doi.org/10.1111/ede.12113
+
+
+## Abstract
+
+Microtrichia or trichomes are non-sensory actin protrusions produced by the epidermal cells of many insects. Studies of trichome formation in Drosophila have over the last 30 years provided key insights towards our understanding of gene regulation, gene regulatory networks (GRNs), development, the genotype to phenotype map, and the evolution of these processes. Here we review classic studies that have used trichome formation as a model to shed light on Drosophila development as well as recent research on the architecture of the GRN underlying trichome formation. This includes the findings that both small peptides and microRNAs play important roles in the regulation and evolution of this network. In addition, we review research on the evolution of trichome patterns that has provided novel insights into the function and architecture of cis-regulatory modules, and into the genetic basis of morphological change. We conclude that further research on these apparently simple and often functionally enigmatic structures will continue to provide new and important knowledge about development and evolution.

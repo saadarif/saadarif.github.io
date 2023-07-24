@@ -1,8 +1,0 @@
----
-title: "Publications"
----
-
-
-this is some new text
-some more
-

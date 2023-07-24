@@ -1,0 +1,24 @@
+---
+title: " Unraveling the Genetic Basis for the Rapid Diversification of Male Genitalia between Drosophila Species"
+type: "article"
+author: "Hagen, Mended, Booth, et al."
+year: "2021"
+publication: "Molecular Biology & Evolution"
+preprint: "https://doi.org/10.1101/2020.06.19.161018"
+doi: "https://doi.org/10.1093/molbev/msaa232"
+materials: ""
+toc: false
+categories:
+  - drosophila
+  - transcriptomics
+  - evo-devo
+  - fine-mapping
+---
+
+## Citation
+
+> Hagen, J. F. D., Mendes, C. C., Booth, S. R., Figueras Jimenez, J., Tanaka, K. M., Franke, F. A., Baudouin-Gonzalez, L., Ridgway, A. M., Arif, S., Nunes, M. D. S., & McGregor, A. P. (2021). Unraveling the Genetic Basis for the Rapid Diversification of Male Genitalia between Drosophila Species. Molecular Biology and Evolution, 38(2), 437–448. https://doi.org/10.1093/molbev/msaa232
+
+## Abstract
+
+In the last 240,000 years, males of the Drosophila simulans species clade have evolved striking differences in the morphology of their epandrial posterior lobes and claspers (surstyli). These appendages are used for grasping the female during mating and so their divergence is most likely driven by sexual selection. Mapping studies indicate a highly polygenic and generally additive genetic basis for these morphological differences. However, we have limited understanding of the gene regulatory networks that control the development of genital structures and how they evolved to result in this rapid phenotypic diversification. Here, we used new D. simulans/D. mauritiana introgression lines on chromosome arm 3L to generate higher resolution maps of posterior lobe and clasper differences between these species. We then carried out RNA-seq on the developing genitalia of both species to identify the expressed genes and those that are differentially expressed between the two species. This allowed us to test the function of expressed positional candidates during genital development in D. melanogaster. We identified several new genes involved in the development and possibly the evolution of these genital structures, including the transcription factors Hairy and Grunge. Furthermore, we discovered that during clasper development Hairy negatively regulates tartan (trn), a gene known to contribute to divergence in clasper morphology. Taken together, our results provide new insights into the regulation of genital development and how this has evolved between species.
