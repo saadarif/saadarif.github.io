@@ -85,5 +85,11 @@
   },
   "publications/articles/ebdon2022.qmd": {
     "ebdon2022.html": "d9ae8e4c"
+  },
+  "contact.qmd": {
+    "contact.html": "2de51d88"
+  },
+  "labmembers.qmd": {
+    "labmembers.html": "d88f8297"
   }
 }

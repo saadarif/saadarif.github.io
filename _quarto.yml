@@ -8,12 +8,16 @@ website:
     left:
       - href: index.qmd
         text: home
+      - href: research.qmd
+        text: research
+      - href: labmembers.qmd
+        text: lab members
       - href: publications.qmd
         text: publications
       - href: Resources.qmd
         text: resources
-      - href: Lab.qmd
-        text: lab 
+      - href: contact.qmd
+        text: contact
       - href: posts.qmd
         text: blog
 
@@ -39,7 +43,7 @@ website:
 format:
   html:
     theme: 
-      light: yeti
+      light: minty
       dark: slate
     css: styles.css
     #page-layout: full
