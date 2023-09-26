@@ -40,7 +40,9 @@ website:
   
   page-footer: "Copyright 2023 &copy; Saad Arif"
   google-analytics: "G-0BT27VTKJN"
-
+  site-url: https://saadarif.github.io
+  repo-url: https://github.com/saadarif/saadarif.github.io
+  
 format:
   html:
     theme: 
