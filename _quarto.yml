@@ -39,6 +39,7 @@ website:
       href: mailto:sarif@brookes.ac.uk
   
   page-footer: "Copyright 2023 &copy; Saad Arif"
+  google-analytics: "G-0BT27VTKJN"
 
 format:
   html:

@@ -4,7 +4,21 @@
     "href": "index.html",
     "title": "The Insect Genomics lab @Brookes",
     "section": "",
-    "text": "We study the population, conservation and functional genomics of insects and other arthropods. We are based in the department of Biological and Medical Sciences at Oxford Brookes University. We use genomics (and other genetic tools) to understand the dynamics of genetic diversity in the wild and the implications for organismal ecology, evolution and conservation."
+    "text": "We study the population, conservation and functional genomics of insects and other arthropods. We are based in the department of Biological and Medical Sciences at Oxford Brookes University. We use genomics (and other genetic tools) to understand dynamics of genetic diversity in the wild and the implications for organismal ecology, evolution and conservation."
+  },
+  {
+    "objectID": "Resources.html",
+    "href": "Resources.html",
+    "title": "InsectOmics Lab",
+    "section": "",
+    "text": "This page is a work in progress…"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "InsectOmics Lab",
+    "section": "",
+    "text": "This page is a work in progress…"
   },
   {
     "objectID": "posts.html",
@@ -455,6 +469,13 @@
     "text": "Abstract\nPhrynosomatid lizards are among the most common and diverse groups of reptiles in western North America, Mexico, and Central America. Phrynosomatidae includes 136 species in 10 genera. Phrynosomatids are used as model systems in many research programs in evolution and ecology, and much of this research has been undertaken in a comparative phylogenetic framework. However, relationships among many phrynosomatid genera are poorly supported and in conflict between recent studies. Further, previous studies based on mitochondrial DNA sequences suggested that the most species-rich genus (Sceloporus) is possibly paraphyletic with respect to as many as four other genera (Petrosaurus, Sator, Urosaurus, and Uta). Here, we collect new sequence data from five nuclear genes and combine them with published data from one additional nuclear gene and five mitochondrial gene regions. We compare trees from nuclear and mitochondrial data from 37 phrynosomatid taxa, including a “species tree” (from BEST) for the nuclear data. We also present a phylogeny for 122 phrynosomatid species based on maximum likelihood analysis of the combined data, which provides a strongly-supported hypothesis for relationships among most phrynosomatid genera and includes most phrynosomatid species. Our results strongly support the monophyly of Sceloporus (including Sator) and many of the relationships within it. We present a new classification for phrynosomatid lizards and the genus Sceloporus, and offer a new tree with branch lengths for use in comparative studies.n item to its correct category without guessing. Whereas Van Oest showed this interpretation for unweighted agreement, we generalize to weighted agreement."
   },
   {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "InsectOmics Lab",
+    "section": "",
+    "text": "This page is a work in progress…"
+  },
+  {
     "objectID": "people/staff/saadarif.html",
     "href": "people/staff/saadarif.html",
     "title": "Saad Arif",
@@ -487,7 +508,7 @@
     "href": "people/staff/saadarif.html#education",
     "title": "Saad Arif",
     "section": "Education",
-    "text": "Education\n\n**Oxford Brookes University* | Oxford, UK PhD in Genetics | 2010–2013\nIowa State University | Ames, IA, USA MSc in Ecology, Evolution and Organismal Biology | 2003–2005\nDrake University | Des Moines, IA, USA BSc in Biology | 1999-2003"
+    "text": "Education\n\nOxford Brookes University | Oxford, UK PhD in Genetics | 2010–2013\nIowa State University | Ames, IA, USA MSc in Ecology, Evolution and Organismal Biology | 2003–2005\nDrake University | Des Moines, IA, USA BSc in Biology | 1999-2003"
   },
   {
     "objectID": "people/staff/rebeccaWhitla.html",
