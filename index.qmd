@@ -9,7 +9,7 @@ about:
 ---
 
 ::: lead
-We study the population, conservation and functional genomics of insects and other arthropods. We are based in the department of [Biological and Medical Sciences at Oxford Brookes University](https://www.brookes.ac.uk/bms). We use genomics (and other genetic tools) to understand the dynamics of genetic diversity in the wild and the implications for organismal ecology, evolution and conservation.
+We study the population, conservation and functional genomics of insects and other arthropods. We are based in the department of [Biological and Medical Sciences at Oxford Brookes University](https://www.brookes.ac.uk/bms). We use **genomics** (and other genetic tools) to understand dynamics of **genetic diversity in the wild** and the implications for **organismal ecology**, **evolution** and **conservation**.
 :::
 
 ![](./img/buttgen4.jpg){.hero width="600"}
