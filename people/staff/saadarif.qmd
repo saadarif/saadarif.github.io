@@ -42,8 +42,42 @@ about:
 :::{#person-profile}
 :::
 
+## Biography
+
 I am a senior lecturer at the [Department of Biological and Medical Science](https://www.brookes.ac.uk/bms) at the [Oxford Brookes University](https://www.brookes.ac.uk/). I am also associated with [Centre for Functional Genomics](https://www.brookes.ac.uk/research/units/hls/centres/centre-for-functional-genomics#) at Brookes, serving as its first scientific director from 2019-2021. I received a PhD in Genetics from Oxford Brookes University in 2013. 
 
 I am an evolutionary biologist studying the genetics and genomics of ecology, evolution, development and conservation. I received an [Alexander von Humboldt Post-doctoral research fellowship](https://www.humboldt-foundation.de/bewerben/foerderprogramme/humboldt-forschungsstipendium) in 2014. I use genomic and genetic tools to research the biology and conservation of invertebrates (mostly 🦋 these days).
 
 I teach courses at various levels including undergraduate and postgraduate. My teaching includes data science, statistical inference, bioinformatics and reproducibility (particularly literate programming and version control/colloboration) in biology and the environmental sciences - concepts and approaches that are crucial to my own research. I also teach courses on reproducibility and programming and data science in R aimed at researchers.
+
+## Experience
+
+- **Oxford Brookes University** | Oxford, UK<br />
+  Senior Lecturer in Genetics and Genomics | 2019–Current<br />
+  Lecturer in Genetics and Genomics | 2015-2019<br />
+  Scientific Director of the [Centre for Functional Genomics](https://www.brookes.ac.uk/research/units/hls/centres/centre-for-functional-genomics#)) | 2019-2021
+
+- **Friedrich Mesicher Laboratory at the Max Planck Institute for Developmental Biology** | Tuebingen, Germany<br />
+  Postdoctoral Researcher| 2013–2015
+
+- **Stony Brook University** | Stony Brook, NY, USA<br />
+  Research Assisant on the [Deep Scaly project](http://archive.fieldmuseum.org/deepscaly/about.html) | 2005–2007
+
+## Awards and Grants
+
+- **NERC-NBAF** | 2021 <br />Using genomics to explore a potential case of *Wolbachia*-mediated
+feminization in the Polyommatus icarus butterfly 
+
+- **Alexander von Humboldt Post-doctoral research fellowship** | 2014-2016 <br />
+   
+
+## Education
+
+- **Oxford Brookes University** | Oxford, UK<br />
+  PhD in Genetics | 2010–2013
+
+- **Iowa State University** | Ames, IA, USA<br />
+  MSc in Ecology, Evolution and Organismal Biology | 2003–2005
+
+- **Drake University** | Des Moines, IA, USA<br />
+  BSc in Biology | 1999-2003 
