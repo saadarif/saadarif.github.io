@@ -13,9 +13,9 @@
       "/publications/articles/hagenetal2021.html",
       "/publications/articles/harperetal2021.html",
       "/publications/articles/gasparetal2019.html",
+      "/publications/articles/koenigeretal2019.html",
       "/publications/articles/livraghetal2017.html",
       "/publications/articles/kittelmann2018.html",
-      "/publications/articles/koenigeretal2019.html",
       "/publications/articles/leiteetal2016.html",
       "/publications/articles/arifetal2015.html",
       "/publications/articles/arifetal2013b.html",
@@ -26,6 +26,13 @@
       "/publications/articles/arifetal2009.html",
       "/publications/articles/smithetal2007.html",
       "/publications/articles/arifetal2007.html"
+    ]
+  },
+  {
+    "listing": "/labmembers.html",
+    "items": [
+      "/people/staff/saadarif.html",
+      "/people/staff/rebeccaWhitla.html"
     ]
   }
 ]

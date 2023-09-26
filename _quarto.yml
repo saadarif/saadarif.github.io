@@ -3,7 +3,7 @@ project:
   output-dir: docs
   
 website:
-  title: "Saad Arif"
+  title: "InsectOmics Lab"
   navbar:
     left:
       - href: index.qmd

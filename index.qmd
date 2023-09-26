@@ -1,14 +1,24 @@
 ---
-title: "Saad Arif"
-image: ./assets/saad.jpg
+pagetitle: "InsectOmics Lab"
+title: "The Insect Genomics lab @Brookes"
+toc: false
 about: 
   template: trestles
   image-shape: round
   image-width: 23em
 ---
 
-I am a senior lecturer at the [Department of Biological and Medical Science](https://www.brookes.ac.uk/bms) at the [Oxford Brookes University](https://www.brookes.ac.uk/). I am also associated with [Centre for Functional Genomics](https://www.brookes.ac.uk/research/units/hls/centres/centre-for-functional-genomics#) at Brookes, serving as its first scientific director from 2019-2021. I received a PhD in Genetics from Oxford Brookes University in 2013. 
+::: {.lead}
+We study the population, conservation and functional genomics of insects and other arthropods. We are based in the department of [Biological and Medical Sciences at Oxford Brookes University](https://www.brookes.ac.uk/bms). We use genomics (and other genetic tools) to understand the dynamics of genetic diversity in the wild and the implications for organismal ecology, evolution and conservation.
+:::
 
-I am an evolutionary biologist studying the genetics and genomics of ecology, evolution, development and conservation. I received an [Alexander von Humboldt Post-doctoral research fellowship](https://www.humboldt-foundation.de/bewerben/foerderprogramme/humboldt-forschungsstipendium) in 2014. I use genomic and genetic tools to research the biology and conservation of invertebrates (mostly 🦋 these days).
+![](./img/buttgen4.jpg){.hero width=600}
 
-I teach courses at various levels including undergraduate and postgraduate. My teaching includes data science, statistical inference, bioinformatics and reproducibility in biology and the environmental sciences - concepts and approaches that are crucial to my own research. I also teach courses on reproducibility and programming and data science in R aimed at researchers.
+<!-- ::: {.callout-note} -->
+<!-- ## We are currently recruiting! -->
+
+<!-- If you are interested in joining the lab as a Psychology PhD student, please consider applying.<br /> -->
+<!-- You can find more information about this recruitment cycle at [this blog post](./posts/recruitment2023) (or under News). -->
+<!-- ::: -->
+
+
