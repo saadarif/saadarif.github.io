@@ -68,6 +68,8 @@ listing:
 
 ## Undergraduates
 
+Current undergraduates working on Projects involving butterfly/invertebrate genetics/genomics are listed here.
+
 :::{#undergrads}
 :::
 
