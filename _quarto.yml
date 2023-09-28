@@ -14,12 +14,12 @@ website:
         text: lab members
       - href: publications.qmd
         text: publications
-      - href: Resources.qmd
-        text: resources
-      - href: contact.qmd
-        text: contact
-      - href: posts.qmd
-        text: blog
+#      - href: Resources.qmd
+#        text: resources
+#      - href: contact.qmd
+#        text: contact
+#      - href: posts.qmd
+#        text: blog
 
     right:
     - text: "{{< ai google-scholar size=1x >}}"
