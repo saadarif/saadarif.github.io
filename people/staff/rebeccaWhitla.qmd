@@ -2,7 +2,7 @@
 title: "Rebecca Whitla"
 sortby: "2"
 subtitle: "PhD Student"
-#image: saadArif.jpg
+image: rwhitla.jpg
 toc: false
 started: "Jan 2021"
 ended: "Current"
