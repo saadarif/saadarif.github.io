@@ -1,7 +1,7 @@
 ---
 title: "Saad Arif"
 sortby: "1"
-subtitle: "Grop Leader/PI"
+subtitle: "Group Leader/PI"
 image: saadArif.jpg
 toc: false
 #resources: 
