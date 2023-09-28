@@ -1,4 +1,4 @@
---
+---
 title: "Edy Russo"
 sortby: "Russo, Edy"
 subtitle: "Undergrad Project Student"
