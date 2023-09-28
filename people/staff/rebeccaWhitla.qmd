@@ -9,6 +9,10 @@ ended: "Current"
 about:
   id: person-profile
   template: jolla
+  links:
+    - icon: twitter
+      text: twitter
+      href: https://www.twitter.com/rebeccawhitla
 ---
 
 

@@ -5,7 +5,7 @@ subtitle: "Grop Leader/PI"
 image: saadArif.jpg
 toc: false
 #resources: 
-#  - "girard_cv.pdf"
+#  - "saad_cv.pdf"
 about:
   id: person-profile
   template: jolla
