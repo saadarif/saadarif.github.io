@@ -8,7 +8,7 @@ ended: "Spring 2019"
 toc: false
 about:
   id: person-profile
-template: jolla
+  template: jolla
 ---
   
 ```{=html}
