@@ -1,1 +1,16 @@
 /* css styles */
+
+/* figure spacing */
+
+.outer {
+    text-align: justify;
+}
+.outer img {
+    display: inline-block;
+    vertical-align: center;
+}
+.outer .fix {
+    width: 100%;
+    height: 0;
+    display: inline-block;
+}

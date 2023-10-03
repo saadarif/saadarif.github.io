@@ -1,2 +1,46 @@
+---
+pagetitle: "Research | InsectOmics Lab"
+toc: true
+---
 
-This page is a work in progress...
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="index.html">Home</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Research</li>
+  </ol>
+</nav>
+```
+
+## Scope
+
+We welcome research in all areas of invertebrate biology including ecology, evolution, development and conservation. Research in the lab is primarily curiosity-driven and usually within the confines of [basic research](https://en.wikipedia.org/wiki/Basic_research). However, some of our work particularly in the area of conservation genomics, hopes to give something back to the organisms we work with but evaluating the application of genomic research in conservation. 
+
+Methodologically, our focus is on using genomics data, particularly [population genomics](https://en.wikipedia.org/wiki/Population_genomics#:~:text=Population%20genomics%20is%20a%20neologism,and%20demography%20of%20a%20population.) and [functional genomic](https://en.wikipedia.org/wiki/Functional_genomics) approaches. However, where relevant I also use genome-editing and collaborate with ecologists and developmental biologists that work with various different tool.
+
+## Current Projects
+
+Current projects in the lab focus around the biology of UK butterflies. There are two main strands to this research:
+
+- **Extinction Genomics** - We use genomic data from museum samples of extirpated UK butterflies. We are interested in understanding if genomic data can reveal something about the regional extinction of these species. We complement our analysis of extirpated species, with the analyses of currently declining or stable species. All these species should share a similar demographic history over the last 10K years, but other, including ecological and life history traits, have influenced thier fate after the (re)colonisation of the British Isles. Large scale genomic comparisons, of extirpated, declinging and stable (or expanding) species should help shed some light on the factors influencing insect genetic diversity within the British Isles. Additionally, this work helps evaluate [genomic erosion](https://www.frontiersin.org/articles/10.3389/fgene.2022.960958/full) in species with differing ecology and population sizes, helping us understand how to make sense of conservation genomics for insects.   
+
+- **Reproductive manipulation by *Wolbachia*** - Our work on the [population genomics of *Polyommatus icarus*](https://onlinelibrary.wiley.com/doi/abs/10.1111/mec.16126) revealed patterns off *Wolbachia* (an obligate bacterial endosymbiont common in arthropods) infection which may be suggestive of reproductive manipulation. Current work on this project is involved in determining exactly which mode (if any) of *Wolbachia*-mediated reproductive manipulation may be at play in *P. icarus* populations of northern Scotland or the western Isles. Understanding the modes and mechanisms of reproductive manipulation by endosymionts has applications for biocontrol of artrhropod pest species.
+
+<div class="outer">
+  <img src="img/IMG_0954.jpg" width="275"/>
+  <img src="img/IMG_8707.jpg" width="225"/>
+  <img src="img/IMG_9650.jpg" width="200"/>
+  <span class="fix"></span>
+</div>
+
+
+## Colloborations
+
+I routinely collaborate with ecologists and developmental biologits from the department of Biological and Medical Sciences at Oxford Brookes and elsewhere. Past and current collaborators include:
+
+- [Prof. Tim Shreeve](https://www.brookes.ac.uk/profiles/staff/tim-shreeve)
+- [Dr. Casper Breuker](https://www.brookes.ac.uk/profiles/staff/casper-breuker)
+- [The Centre for Funtional Genomics](https://www.brookes.ac.uk/research/units/hls/centres/centre-for-functional-genomics)
+- [Prof. Alistair McGregor](http://www.mcgregor-evo-devo-lab.net/), Dept. of Biology, Durham University, UK (also my PhD supervisor)
+- [Dr. Matt Bulbert](https://conflictecology.com/)
+- [Dr. Michael Gerth](https://www.michaelgerth.net), German Centre for Integrative Biodiversity Research , Germany

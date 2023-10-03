@@ -7,13 +7,15 @@ website:
   navbar:
     left:
       - href: index.qmd
-        text: home
+        text: Home
       - href: research.qmd
-        text: research
+        text: Research
       - href: labmembers.qmd
-        text: lab members
+        text: Lab members
       - href: publications.qmd
-        text: publications
+        text: Publications
+      - href: oppurtunities.qmd
+        text: Oppurtunities
 #      - href: Resources.qmd
 #        text: resources
 #      - href: contact.qmd
