@@ -2,7 +2,7 @@
 title: "Sara Hrdalo"
 sortby: "Hrdalo, Sara"
 subtitle: "Undergrad Project Student"
-#image: 
+image: sarahrdal.jpg
 started: "Fall 2022"
 ended: "Spring 2023"
 toc: false
@@ -23,5 +23,10 @@ about:
 ```
 
 :::{#person-profile}
+
+I am currently applying for jobs to gain experience in laboratory. Next year I am planning to do Masters in Bioinformatics or Genomic Medicine. In my free time I like to read Sci-Fi books and go to gym.
+
+**Undergrad Project Title:** Analysis of Chromosomal Aberrations Found in Polyommatus icarus and Investigation of Feminization
+
 :::
 
