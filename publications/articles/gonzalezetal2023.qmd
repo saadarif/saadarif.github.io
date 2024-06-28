@@ -1,0 +1,26 @@
+---
+title: "Development and patterning of a highly versatile visual system in spiders"
+type: "article"
+author: "Gonzalez, Schoenauer, Harper, et al."
+year: "2023"
+publication: ""
+preprint: "https://doi.org/10.1101/2023.12.22.572789"
+doi: ""
+github: ""
+toc: false
+categories:
+  - spiders
+  - transcriptomics
+  - evo-devo
+  - eye morpology
+
+---
+
+## Citation
+
+This is still a preprint!
+
+
+## Abstract
+
+Visual systems provide a key interface between organisms and their surroundings, and have evolved in many forms to perform diverse functions across the animal kingdom. Spiders exhibit a range of visual abilities and ecologies, the diversity of which is underpinned by a highly versatile, modular visual system architecture. This typically includes eight eyes of two developmentally distinct types, but the number, size, location, and function of the eyes can vary dramatically between lineages. Previous studies of visual system development in spiders have confirmed that many components of the retinal determination gene (RDG) network are conserved with other arthropods, but so far, comparative studies among spiders are lacking. We characterised visual system development in eight species of spiders representing a range of morphologies, visual ecologies, and phylogenetic positions, to determine how these diverse configurations are formed, and how they might evolve. Combining synchrotron radiation tomography, transcriptomics, in situ hybridisation, and selection analyses, we characterise the repertoires and expression of key RDGs in relation to adult morphology. We identify key molecular players, timepoints, and developmental events that may contribute to adult diversity, in particular the molecular and developmental underpinnings of eye size, number, position, and identity across spiders.

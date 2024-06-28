@@ -115,5 +115,20 @@
   },
   "oppurtunities.qmd": {
     "oppurtunities.html": "71772578"
+  },
+  "people/alumni/edyrusso.qmd": {
+    "edyrusso.html": "0f8a689a"
+  },
+  "people/undergrad/rebeccajones.qmd": {
+    "rebeccajones.html": "f7478d61"
+  },
+  "people/undergrad/diskhapadwal.qmd": {
+    "diskhapadwal.html": "4baea469"
+  },
+  "publications/articles/gonzalezetal2023.qmd": {
+    "gonzalezetal2023.html": "62198d7f"
+  },
+  "publications/articles/whitlaetal2023.qmd": {
+    "whitlaetal2023.html": "a7ee75f6"
   }
 }

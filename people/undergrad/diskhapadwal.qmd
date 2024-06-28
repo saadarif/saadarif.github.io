@@ -1,0 +1,29 @@
+---
+title: "Diksha Padwal"
+sortby: "Padwal, Diskha"
+subtitle: "Undergrad Project Student"
+image: DikshaPadwal.jpg
+started: "Summer 2024"
+ended: "current"
+toc: false
+about:
+  id: person-profile
+  template: jolla
+---
+  
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+  <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+  <li class="breadcrumb-item"><a href="../../people.html">People</a></li>
+  <li class="breadcrumb-item active">Alumni</li>
+  <li class="breadcrumb-item active" aria-current="page">{{< meta title >}}</li>
+  </ol>
+  </nav>
+```
+
+:::{#person-profile}
+
+I am Diksha Padwal, a 3rd year student studying Biological Sciences, Genetics, and Genomics. I am passionate about learning bioinformatics techniques and currently researching about Genomic Erosion in Butterfly Species in the United Kingdom for my research project.
+
+:::
