@@ -11,7 +11,7 @@ toc: false
 categories:
   - butterflies
   - phylogeography
-  - popualtion genomics
+  - population genomics
   - wolbachia
 
 ---
