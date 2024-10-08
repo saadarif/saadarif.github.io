@@ -10,9 +10,9 @@ github: ""
 toc: false
 categories:
   - amphibians
-  - phylogeny
+  - phylogenetics
   - novelty
-  - skull morphology
+
 ---
 
 ## Citation

@@ -10,11 +10,10 @@ github: ""
 toc: false
 categories:
   - drosophila
-  - trichomes
   - microRNAs
   - transcriptomics
   - evo-devo
-  - ATAC-seq
+
 ---
 
 ## Citation

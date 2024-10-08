@@ -9,9 +9,9 @@ doi: "https://doi.org/10.1534/genetics.113.156463"
 github: ""
 toc: false
 categories:
-  - genome-editing
   - evo-devo
-  - perspective
+  - population genomics
+
 ---
 
 ## Citation

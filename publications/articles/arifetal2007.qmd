@@ -11,7 +11,7 @@ toc: false
 categories:
   - amphibians
   - geometric morphometrics
-  - skull morphology
+
 ---
 
 ## Citation

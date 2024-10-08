@@ -11,8 +11,7 @@ toc: false
 categories:
   - drosophila
   - evo-devo
-  - trichomes
-  - review
+
 ---
 
 ## Citation

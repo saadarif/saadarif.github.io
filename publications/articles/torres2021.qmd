@@ -12,9 +12,7 @@ categories:
   - drosophila
   - transcriptomics
   - evo-devo
-  - compound eyes
-  - ATAC-seq
-  - fine-mapping
+
 ---
 
 ## Citation

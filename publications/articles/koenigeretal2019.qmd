@@ -11,7 +11,7 @@ toc: false
 categories:
   - drosophila
   - cold adaptation
-  - QTL mapping
+  - quantitative genetics
  
 ---
 

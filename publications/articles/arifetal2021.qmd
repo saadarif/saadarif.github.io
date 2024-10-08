@@ -13,7 +13,7 @@ categories:
   - phylogeography
   - popualtion genomics
   - wolbachia
-  - student publication
+
 ---
 
 ## Citation

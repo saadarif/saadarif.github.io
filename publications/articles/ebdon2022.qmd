@@ -10,8 +10,7 @@ github: ""
 toc: false
 categories:
   - butterflies
-  - genome note
-  - student publication
+
 ---
 
 ## Citation

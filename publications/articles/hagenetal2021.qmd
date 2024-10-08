@@ -12,7 +12,7 @@ categories:
   - drosophila
   - transcriptomics
   - evo-devo
-  - fine-mapping
+
 ---
 
 ## Citation

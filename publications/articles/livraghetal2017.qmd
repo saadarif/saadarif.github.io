@@ -11,8 +11,7 @@ toc: false
 categories:
   - butterflies
   - genome-editing
-  - book chapter
-  - review
+
 ---
 
 ## Citation

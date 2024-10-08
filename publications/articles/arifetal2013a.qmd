@@ -11,9 +11,9 @@ toc: false
 categories:
   - drosophila
   - geometric morphometrics
-  - QTL mapping
+  - quantitative genetics
   - evo-devo
-  - compound eyes
+
 ---
 
 ## Citation

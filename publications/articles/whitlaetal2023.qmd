@@ -2,24 +2,25 @@
 title: "The last days of <em>Aporia crataegi</em> (L.) in Britain: evaluating genomic erosion in an extirpated butterfly"
 type: "article"
 author: "Whitla, Hens, Hogan, et al."
-year: "2023"
-publication: ""
+year: "2024"
+publication: "Molecular Ecology"
 preprint: "https://doi.org/10.1101/2023.12.19.572305"
-doi: ""
+doi: "https://doi.org/10.1111/mec.17518"
 github: ""
 toc: false
 categories:
   - conservation genomics
-  - extirpation
+  - population genomics
+  - museomics
   - butterflies
 
 ---
 
 ## Citation
 
-This is still a preprint!
+Whitla, R., Hens, K., Hogan, J., Martin, G., Breuker, C., Shreeve, T. G., & Arif, S. (2024). The last days of Aporia crataegi (L.) in Britain: Evaluating genomic erosion in an extirpated butterfly. *Molecular Ecology*, **33**, e17518. https://doi.org/10.1111/mec.17518
 
 
 ## Abstract
 
-Current rates of habitat degradation and climate change are causing unprecedented declines in global biodiversity. Studies on vertebrates highlight how conservation genomics can be an effective tool to identify and manage threatened populations, but it is unclear how vertebrate derived metrics of genomic erosion translate to invertebrate species, with their markedly different population sizes and life histories. The Black-veined White butterfly (Aporia crataegi) was extirpated from Britain in the 1920s. Here, we sequenced historical DNA from 17 museum specimens collected between 1854-1924 to reconstruct demography and compare levels of genomic erosion between extirpated British and extant European mainland populations. We contrast these results using modern samples of the Common Blue butterfly (Polyommatus icarus); a species with relatively stable demographic trends in Great Britain. We provide evidence for bottlenecks in both these species around the period of post-glacial colonisation of the British Isles. Our results reveal different demographic histories and Ne for both species, consistent with their fates in Britain, likely driven by differences in life history, ecology, genome lengths and body size. Despite a difference, by an order of magnitude, in historical effective population sizes (N~e~), reduction in genome-wide heterozygosity in A. crataegi was comparable to that in P. icarus. Symptomatic of A. crataegi’s disappearance were marked increases in runs-of-homozygosity (RoH), potentially indicative of recent inbreeding, and accumulation of putatively mildly and weakly deleterious variants. Our results support the idea that metrics of inbreeding and accumulation of deleterious mutations could be more informative markers of population or species in decline.
+Current rates of habitat degradation and climate change are causing unprecedented declines in global biodiversity. Studies on vertebrates highlight how conservation genomics can be effective in identifying and managing threatened populations, but it is unclear how vertebrate-derived metrics of genomic erosion translate to invertebrates, with their markedly different population sizes and life histories. The Black-veined White butterfly (*Aporia crataegi*) was extirpated from Britain in the 1920s. Here, we sequenced historical DNA from 17 specimens collected between 1854 and 1924 to reconstruct demography and compare levels of genomic erosion between extirpated British and extant European mainland populations. We contrast these results using modern samples of the Common Blue butterfly (*Polyommatus icarus*); a species with relatively stable demographic trends in Great Britain. We provide evidence for bottlenecks in both these species around the period of post-glacial colonization of the British Isles. Our results reveal different demographic histories and Ne for both species, consistent with their fates in Britain, likely driven by differences in life history, ecology and genome size. Despite a difference, by an order of magnitude, in historical effective population sizes (Ne), reduction in genome-wide heterozygosity in *A. crataegi* was comparable to that in *P. icarus*. Symptomatic of *A. crataegi*'s disappearance were marked increases in runs-of-homozygosity (RoH), potentially indicative of recent inbreeding, and accumulation of putatively mildly and weakly deleterious variants. Our results provide a rare glimpse of genomic erosion in a regionally extinct insect and support the potential use of genomic erosion metrics in identifying invertebrate populations or species in decline.

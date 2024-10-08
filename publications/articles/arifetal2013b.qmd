@@ -11,7 +11,7 @@ toc: false
 categories:
   - drosophila
   - trichomes
-  - fine-mapping
+  - quantitative genetics
   - evo-devo
   - microRNAs
 ---
