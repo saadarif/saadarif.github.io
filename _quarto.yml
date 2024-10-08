@@ -21,6 +21,8 @@ website:
         text: Opportunities
       - href: presentations.qmd
         text: Presentations
+      - href: teaching.qmd
+        text: Teaching
 #      - href: contact.qmd
 #        text: contact
 #      - href: posts.qmd

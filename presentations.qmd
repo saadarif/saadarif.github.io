@@ -1,5 +1,5 @@
 ---
-pagetitle: "Research | InsectOmics Lab"
+pagetitle: "Presentations | InsectOmics Lab"
 toc: true
 ---
 
@@ -7,7 +7,7 @@ toc: true
 <nav aria-label="breadcrumb">
   <ol class="breadcrumb">
     <li class="breadcrumb-item"><a href="index.html">Home</a></li>
-    <li class="breadcrumb-item active" aria-current="page">Research</li>
+    <li class="breadcrumb-item active" aria-current="page">Presentations</li>
   </ol>
 </nav>
 ```

@@ -1,0 +1,31 @@
+---
+pagetitle: "Teaching | InsectOmics Lab"
+toc: true
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="index.html">Home</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Teaching</li>
+  </ol>
+</nav>
+```
+
+
+## Undergraduate courses
+
+As a lecturer at I teach a fair bit at the undergraduate level. However, the most important of these are following two modules I developed and lead:
+
+-   **Data Carpentry**: Introduction R programming, reproducible research and linear models for 2nd-year Biology Undergraduates
+-   **Interrogating Genomes**: an introduction to genomics and bioinformatics for 2nd-year Biology Undergraduates
+
+## Graduate courses
+
+I have previously taught **introduction to linear models** and **multivariate statistics** at the University of Oxford's BBSRC-funded Doctoral training programme. Material for these courses can be found [here](https://github.com/saadarif/DTCTeaching) and [here]().
+
+## Beyond
+
+- I teach **data wrangling and visualization with the tidyverse in R** to staff and students as part of the training programme of the [Centre for Functional Genomics](https://www.brookes.ac.uk/research/units/hls/centres/centre-for-functional-genomics) at Oxford Brookes University.
+
+- I helped developed a course on [**Literate Programming in R**](https://elixir-europe-training.github.io/ELIXIR-TrP-LiterateProgrammingR-CodeRep/) for [Elixir's Code Reproducibility](https://elixir-europe-training.github.io/CodeReproducibility/) initiative.
