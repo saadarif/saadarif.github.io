@@ -1,0 +1,29 @@
+---
+pagetitle: "Research | InsectOmics Lab"
+toc: true
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="index.html">Home</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Research</li>
+  </ol>
+</nav>
+```
+
+
+## Conference presentations
+
+[**Biodiversity Genomics, 2024 (BG2024)**](https://www.biodiversitygenomicsconference.org/) - *Talk title*: The last days of *Aporia crataegi* L. in Britain: Evaluating genomic erosion in an extirpated butterfly. [Slides](https://saadarif.github.io/BG2024/)
+
+
+## Science communication and data visualisation
+
+I like to dabble in alternative science communication and data viz. approaches when I can. You can find outputs of those projects here.
+
+-   [Scrollytelling experience](https://saadarif.github.io/BVW-LastDays/) for Last Days of *Aporia crataegi* project (best enjoyed on a desktop/laptop).
+
+## Seminars
+
+-    **Aidan Seminar Series, Oxford Brookes, March 2024** - *Talk title*: Using R etc. in teaching and research. [Slides]()

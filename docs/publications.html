@@ -2,12 +2,12 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.3.353">
+<meta name="generator" content="quarto-1.5.57">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Publications</title>
+<title>Publications – InsectOmics Lab</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -49,7 +49,13 @@ ul.task-list li input[type="checkbox"] {
   "collapse-after": 3,
   "panel-placement": "end",
   "type": "overlay",
-  "limit": 20,
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
   "language": {
     "search-no-results-text": "No results",
     "search-matching-documents-text": "matching documents",
@@ -58,8 +64,10 @@ ul.task-list li input[type="checkbox"] {
     "search-more-match-text": "more match in this document",
     "search-more-matches-text": "more matches in this document",
     "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
     "search-detached-cancel-button-title": "Cancel",
-    "search-submit-button-title": "Submit"
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
   }
 }</script>
 <script>
@@ -72,7 +80,7 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-project','listing-execute','listing-website','listing-format','listing-language','listing-title','listing-type','listing-author','listing-year','listing-publication','listing-preprint','listing-doi','listing-github','listing-toc','listing-categories','listing-path','listing-outputHref','listing-description','listing-filename','listing-file-modified','listing-reading-time','listing-github:',{ data: ['index'] },{ data: ['categories'] }],
+      valueNames: ['listing-project','listing-execute','listing-website','listing-format','listing-language','listing-title','listing-type','listing-author','listing-year','listing-publication','listing-preprint','listing-doi','listing-github','listing-toc','listing-categories','listing-path','listing-outputHref','listing-description','listing-filename','listing-file-modified','listing-reading-time','listing-word-count','listing-github:',{ data: ['index'] },{ data: ['categories'] }],
       page: 10,
     pagination: { item: "<li class='page-item'><a class='page page-link' href='#'></a></li>" },
       searchColumns: ["listing-title","listing-author","listing-publication","listing-year"],
@@ -102,8 +110,35 @@ gtag('js', new Date());
 gtag('config', 'G-0BT27VTKJN', { 'anonymize_ip': true});
 </script>
 
-  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
   <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="styles.css">
 </head>
@@ -112,51 +147,55 @@ gtag('config', 'G-0BT27VTKJN', { 'anonymize_ip': true});
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
-    <nav class="navbar navbar-expand-lg navbar-dark ">
+    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
-      <div class="navbar-brand-container">
+      <div class="navbar-brand-container mx-auto">
     <a class="navbar-brand" href="./index.html">
     <span class="navbar-title">InsectOmics Lab</span>
     </a>
   </div>
             <div id="quarto-search" class="" title="Search"></div>
-          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
   <span class="navbar-toggler-icon"></span>
 </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./index.html" rel="" target="">
- <span class="menu-text">Home</span></a>
+    <a class="nav-link" href="./index.html"> 
+<span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./research.html" rel="" target="">
- <span class="menu-text">Research</span></a>
+    <a class="nav-link" href="./research.html"> 
+<span class="menu-text">Research</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./labmembers.html" rel="" target="">
- <span class="menu-text">Lab members</span></a>
+    <a class="nav-link" href="./labmembers.html"> 
+<span class="menu-text">Lab members</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./publications.html" rel="" target="" aria-current="page">
- <span class="menu-text">Publications</span></a>
+    <a class="nav-link active" href="./publications.html" aria-current="page"> 
+<span class="menu-text">Publications</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./oppurtunities.html" rel="" target="">
- <span class="menu-text">Opportunities</span></a>
+    <a class="nav-link" href="./oppurtunities.html"> 
+<span class="menu-text">Opportunities</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./presentations.html"> 
+<span class="menu-text">Presentations</span></a>
   </li>  
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item compact">
-    <a class="nav-link" href="mailto:sarif@brookes.ac.uk" rel="" target=""><i class="bi bi-envelope" role="img" aria-label="email">
+    <a class="nav-link" href="mailto:sarif@brookes.ac.uk"> <i class="bi bi-envelope" role="img" aria-label="email">
 </i> 
- <span class="menu-text"></span></a>
+<span class="menu-text"></span></a>
   </li>  
 </ul>
+          </div> <!-- /navcollapse -->
             <div class="quarto-navbar-tools">
   <a href="" class="quarto-color-scheme-toggle quarto-navigation-tool  px-1" onclick="window.quartoToggleColorScheme(); return false;" title="Toggle dark mode"><i class="bi"></i></a>
 </div>
-          </div> <!-- /navcollapse -->
       </div> <!-- /container-fluid -->
     </nav>
 </header>
@@ -165,9 +204,10 @@ gtag('config', 'G-0BT27VTKJN', { 'anonymize_ip': true});
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(22)</span></div><div class="category" data-category="ATAC-seq">ATAC-seq <span class="quarto-category-count">(2)</span></div><div class="category" data-category="QTL mapping">QTL mapping <span class="quarto-category-count">(3)</span></div><div class="category" data-category="amphibians">amphibians <span class="quarto-category-count">(2)</span></div><div class="category" data-category="book chapter">book chapter <span class="quarto-category-count">(1)</span></div><div class="category" data-category="butterflies">butterflies <span class="quarto-category-count">(4)</span></div><div class="category" data-category="cold adaptation">cold adaptation <span class="quarto-category-count">(1)</span></div><div class="category" data-category="compound eyes">compound eyes <span class="quarto-category-count">(4)</span></div><div class="category" data-category="conservation genomics">conservation genomics <span class="quarto-category-count">(1)</span></div><div class="category" data-category="drosophila">drosophila <span class="quarto-category-count">(9)</span></div><div class="category" data-category="evo-devo">evo-devo <span class="quarto-category-count">(13)</span></div><div class="category" data-category="extirpation">extirpation <span class="quarto-category-count">(1)</span></div><div class="category" data-category="eye morpology">eye morpology <span class="quarto-category-count">(1)</span></div><div class="category" data-category="fine-mapping">fine-mapping <span class="quarto-category-count">(3)</span></div><div class="category" data-category="fish">fish <span class="quarto-category-count">(1)</span></div><div class="category" data-category="genome note">genome note <span class="quarto-category-count">(1)</span></div><div class="category" data-category="genome-editing">genome-editing <span class="quarto-category-count">(2)</span></div><div class="category" data-category="geometric morphometrics">geometric morphometrics <span class="quarto-category-count">(5)</span></div><div class="category" data-category="microRNAs">microRNAs <span class="quarto-category-count">(3)</span></div><div class="category" data-category="novelty">novelty <span class="quarto-category-count">(1)</span></div><div class="category" data-category="opercle">opercle <span class="quarto-category-count">(1)</span></div><div class="category" data-category="perspective">perspective <span class="quarto-category-count">(1)</span></div><div class="category" data-category="phylogeny">phylogeny <span class="quarto-category-count">(2)</span></div><div class="category" data-category="phylogeography">phylogeography <span class="quarto-category-count">(1)</span></div><div class="category" data-category="popualtion genomics">popualtion genomics <span class="quarto-category-count">(1)</span></div><div class="category" data-category="reptiles">reptiles <span class="quarto-category-count">(1)</span></div><div class="category" data-category="review">review <span class="quarto-category-count">(2)</span></div><div class="category" data-category="skull morphology">skull morphology <span class="quarto-category-count">(2)</span></div><div class="category" data-category="spiders">spiders <span class="quarto-category-count">(4)</span></div><div class="category" data-category="student publication">student publication <span class="quarto-category-count">(4)</span></div><div class="category" data-category="transcriptomics">transcriptomics <span class="quarto-category-count">(7)</span></div><div class="category" data-category="trichomes">trichomes <span class="quarto-category-count">(3)</span></div><div class="category" data-category="wolbachia">wolbachia <span class="quarto-category-count">(1)</span></div></div></div>
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(22)</span></div><div class="category" data-category="amphibians">amphibians <span class="quarto-category-count">(2)</span></div><div class="category" data-category="butterflies">butterflies <span class="quarto-category-count">(4)</span></div><div class="category" data-category="cold adaptation">cold adaptation <span class="quarto-category-count">(1)</span></div><div class="category" data-category="conservation genomics">conservation genomics <span class="quarto-category-count">(1)</span></div><div class="category" data-category="drosophila">drosophila <span class="quarto-category-count">(9)</span></div><div class="category" data-category="evo-devo">evo-devo <span class="quarto-category-count">(13)</span></div><div class="category" data-category="fish">fish <span class="quarto-category-count">(1)</span></div><div class="category" data-category="genome-editing">genome-editing <span class="quarto-category-count">(1)</span></div><div class="category" data-category="geometric morphometrics">geometric morphometrics <span class="quarto-category-count">(5)</span></div><div class="category" data-category="microRNAs">microRNAs <span class="quarto-category-count">(3)</span></div><div class="category" data-category="museomics">museomics <span class="quarto-category-count">(1)</span></div><div class="category" data-category="novelty">novelty <span class="quarto-category-count">(1)</span></div><div class="category" data-category="phylogenetics">phylogenetics <span class="quarto-category-count">(1)</span></div><div class="category" data-category="phylogeny">phylogeny <span class="quarto-category-count">(1)</span></div><div class="category" data-category="phylogeography">phylogeography <span class="quarto-category-count">(1)</span></div><div class="category" data-category="population genomics">population genomics <span class="quarto-category-count">(3)</span></div><div class="category" data-category="quantitative genetics">quantitative genetics <span class="quarto-category-count">(4)</span></div><div class="category" data-category="reptiles">reptiles <span class="quarto-category-count">(1)</span></div><div class="category" data-category="spiders">spiders <span class="quarto-category-count">(4)</span></div><div class="category" data-category="transcriptomics">transcriptomics <span class="quarto-category-count">(7)</span></div><div class="category" data-category="trichomes">trichomes <span class="quarto-category-count">(1)</span></div><div class="category" data-category="wolbachia">wolbachia <span class="quarto-category-count">(1)</span></div></div></div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
+
 
 
 
@@ -204,7 +244,29 @@ gtag('config', 'G-0BT27VTKJN', { 'anonymize_ip': true});
     </div>
 </div>
 <ul class="pub-list list">
-  <li data-index="0" data-categories="spiders,transcriptomics,evo-devo,eye morpology" data-listing-file-modified-sort="1719576491521" data-listing-reading-time-sort="2">
+
+  <li data-index="0" data-categories="conservation genomics,population genomics,museomics,butterflies" data-listing-file-modified-sort="1728398517142" data-listing-reading-time-sort="2" data-listing-word-count-sort="289">
+    <span class="listing-title lead">The last days of <em>Aporia crataegi</em> (L.) in Britain: evaluating genomic erosion in an extirpated butterfly</span><br>
+    <span class="listing-author">Whitla, Hens, Hogan, et al.</span><br>
+    <span class="listing-publication fst-italic ">Molecular Ecology</span>
+    <span class="listing-year">(2024)</span><br>
+    <a href="./publications/articles/whitlaetal2023.html" class="btn btn-primary">
+      Details
+    </a>
+    
+    <a href="https://doi.org/10.1111/mec.17518" class="btn btn-secondary" target="_blank" rel="noopener noreferrer">
+      DOI
+    </a>
+    
+    
+    <a href="https://doi.org/10.1101/2023.12.19.572305" class="btn btn-light" target="_blank" rel="noopener noreferrer">
+      <i class="bi bi-file-earmark-text"></i> Preprint
+    </a>
+    
+    
+  </li>
+
+  <li data-index="1" data-categories="spiders,transcriptomics,evo-devo" data-listing-file-modified-sort="1728398532066" data-listing-reading-time-sort="2" data-listing-word-count-sort="201">
     <span class="listing-title lead">Development and patterning of a highly versatile visual system in spiders</span><br>
     <span class="listing-author">Gonzalez, Schoenauer, Harper, et al.</span><br>
     <span class="listing-publication fst-italic "></span>
@@ -212,23 +274,16 @@ gtag('config', 'G-0BT27VTKJN', { 'anonymize_ip': true});
     <a href="./publications/articles/gonzalezetal2023.html" class="btn btn-primary">
       Details
     </a>
+    
+    
     <a href="https://doi.org/10.1101/2023.12.22.572789" class="btn btn-light" target="_blank" rel="noopener noreferrer">
       <i class="bi bi-file-earmark-text"></i> Preprint
     </a>
+    
+    
   </li>
-  <li data-index="1" data-categories="conservation genomics,extirpation,butterflies" data-listing-file-modified-sort="1719576491521" data-listing-reading-time-sort="2">
-    <span class="listing-title lead">The last days of <em>Aporia crataegi</em> (L.) in Britain: evaluating genomic erosion in an extirpated butterfly</span><br>
-    <span class="listing-author">Whitla, Hens, Hogan, et al.</span><br>
-    <span class="listing-publication fst-italic "></span>
-    <span class="listing-year">(2023)</span><br>
-    <a href="./publications/articles/whitlaetal2023.html" class="btn btn-primary">
-      Details
-    </a>
-    <a href="https://doi.org/10.1101/2023.12.19.572305" class="btn btn-light" target="_blank" rel="noopener noreferrer">
-      <i class="bi bi-file-earmark-text"></i> Preprint
-    </a>
-  </li>
-  <li data-index="2" data-categories="butterflies,genome note,student publication" data-listing-file-modified-sort="1719576491521" data-listing-reading-time-sort="1">
+
+  <li data-index="2" data-categories="butterflies" data-listing-file-modified-sort="1728398585050" data-listing-reading-time-sort="1" data-listing-word-count-sort="90">
     <span class="listing-title lead">The genome sequence of the black-veined white butterfly, <em>Aporia crataegi</em> (Linnaeus, 1758)</span><br>
     <span class="listing-author">Ebdon, MacKintosh, Lohse, et al.</span><br>
     <span class="listing-publication fst-italic ">Wellcome Open Research</span>
@@ -236,11 +291,16 @@ gtag('config', 'G-0BT27VTKJN', { 'anonymize_ip': true});
     <a href="./publications/articles/ebdon2022.html" class="btn btn-primary">
       Details
     </a>
+    
     <a href="https://doi.org/10.12688/wellcomeopenres.17709.1" class="btn btn-secondary" target="_blank" rel="noopener noreferrer">
       DOI
     </a>
+    
+    
+    
   </li>
-  <li data-index="3" data-categories="drosophila,transcriptomics,evo-devo,compound eyes,ATAC-seq,fine-mapping" data-listing-file-modified-sort="1719576491521" data-listing-reading-time-sort="2">
+
+  <li data-index="3" data-categories="drosophila,transcriptomics,evo-devo" data-listing-file-modified-sort="1728398440130" data-listing-reading-time-sort="2" data-listing-word-count-sort="231">
     <span class="listing-title lead">Differences in orthodenticle expression promote ommatidial size variation between <em>Drosophila</em> species</span><br>
     <span class="listing-author">Torres-Olivia, Buchberger, Buffry, et al.</span><br>
     <span class="listing-publication fst-italic "></span>
@@ -248,11 +308,16 @@ gtag('config', 'G-0BT27VTKJN', { 'anonymize_ip': true});
     <a href="./publications/articles/torres2021.html" class="btn btn-primary">
       Details
     </a>
+    
+    
     <a href="https://doi.org/10.1101/2021.03.17.435774" class="btn btn-light" target="_blank" rel="noopener noreferrer">
       <i class="bi bi-file-earmark-text"></i> Preprint
     </a>
+    
+    
   </li>
-  <li data-index="4" data-categories="butterflies,phylogeography,popualtion genomics,wolbachia,student publication" data-listing-file-modified-sort="1719576491521" data-listing-reading-time-sort="2">
+
+  <li data-index="4" data-categories="butterflies,phylogeography,population genomics,wolbachia" data-listing-file-modified-sort="1728398766143" data-listing-reading-time-sort="2" data-listing-word-count-sort="289">
     <span class="listing-title lead">Evidence for multiple colonisations and Wolbachia infections shaping the genetic structure of the widespread butterfly <em>Polyommatus icarus</em> in the British Isles</span><br>
     <span class="listing-author">Arif, Hone-Millard, Gerth, et al.</span><br>
     <span class="listing-publication fst-italic ">Molecular Ecology</span>
@@ -260,14 +325,20 @@ gtag('config', 'G-0BT27VTKJN', { 'anonymize_ip': true});
     <a href="./publications/articles/arifetal2021.html" class="btn btn-primary">
       Details
     </a>
+    
     <a href=" https://doi.org/10.1111/mec.16126" class="btn btn-secondary" target="_blank" rel="noopener noreferrer">
       DOI
     </a>
+    
+    
     <a href="https://doi.org/10.1101/2020.09.03.267203" class="btn btn-light" target="_blank" rel="noopener noreferrer">
       <i class="bi bi-file-earmark-text"></i> Preprint
     </a>
+    
+    
   </li>
-  <li data-index="5" data-categories="spiders,transcriptomics,evo-devo,student publication" data-listing-file-modified-sort="1719576491521" data-listing-reading-time-sort="2">
+
+  <li data-index="5" data-categories="spiders,transcriptomics,evo-devo" data-listing-file-modified-sort="1728398596882" data-listing-reading-time-sort="2" data-listing-word-count-sort="231">
     <span class="listing-title lead">The evolution of Sox gene repertoires and regulation of segmentation in arachnids</span><br>
     <span class="listing-author">Baudouin-Gonzalez, Schoenauer, Harper, et al.</span><br>
     <span class="listing-publication fst-italic ">Molecular Biology &amp; Evolution</span>
@@ -275,14 +346,20 @@ gtag('config', 'G-0BT27VTKJN', { 'anonymize_ip': true});
     <a href="./publications/articles/baudouinetal2021.html" class="btn btn-primary">
       Details
     </a>
+    
     <a href="https://doi.org/10.1101/2020.06.04.133389" class="btn btn-secondary" target="_blank" rel="noopener noreferrer">
       DOI
     </a>
+    
+    
     <a href="https://doi.org/10.1101/2020.09.03.267203" class="btn btn-light" target="_blank" rel="noopener noreferrer">
       <i class="bi bi-file-earmark-text"></i> Preprint
     </a>
+    
+    
   </li>
-  <li data-index="6" data-categories="drosophila,transcriptomics,evo-devo,fine-mapping" data-listing-file-modified-sort="1719576491521" data-listing-reading-time-sort="2">
+
+  <li data-index="6" data-categories="drosophila,transcriptomics,evo-devo" data-listing-file-modified-sort="1728398542982" data-listing-reading-time-sort="2" data-listing-word-count-sort="284">
     <span class="listing-title lead">Unraveling the Genetic Basis for the Rapid Diversification of Male Genitalia between Drosophila Species</span><br>
     <span class="listing-author">Hagen, Mended, Booth, et al.</span><br>
     <span class="listing-publication fst-italic ">Molecular Biology &amp; Evolution</span>
@@ -290,14 +367,20 @@ gtag('config', 'G-0BT27VTKJN', { 'anonymize_ip': true});
     <a href="./publications/articles/hagenetal2021.html" class="btn btn-primary">
       Details
     </a>
+    
     <a href="https://doi.org/10.1093/molbev/msaa232" class="btn btn-secondary" target="_blank" rel="noopener noreferrer">
       DOI
     </a>
+    
+    
     <a href="https://doi.org/10.1101/2020.06.19.161018" class="btn btn-light" target="_blank" rel="noopener noreferrer">
       <i class="bi bi-file-earmark-text"></i> Preprint
     </a>
+    
+    
   </li>
-  <li data-index="7" data-categories="spiders,transcriptomics,evo-devo,student publication" data-listing-file-modified-sort="1719576491521" data-listing-reading-time-sort="2">
+
+  <li data-index="7" data-categories="spiders,transcriptomics,evo-devo" data-listing-file-modified-sort="1728398524090" data-listing-reading-time-sort="2" data-listing-word-count-sort="272">
     <span class="listing-title lead">Widespread retention of ohnologs in key developmental gene families following whole genome duplication in arachnopulmona</span><br>
     <span class="listing-author">Harper, Gonzalez, Schoenauer, et al.</span><br>
     <span class="listing-publication fst-italic ">G3 Genes|Genomes|Genetics</span>
@@ -305,14 +388,20 @@ gtag('config', 'G-0BT27VTKJN', { 'anonymize_ip': true});
     <a href="./publications/articles/harperetal2021.html" class="btn btn-primary">
       Details
     </a>
+    
     <a href="https://doi.org/10.1093/g3journal/jkab299" class="btn btn-secondary" target="_blank" rel="noopener noreferrer">
       DOI
     </a>
+    
+    
     <a href="https://doi.org/10.1101/2020.07.10.177725" class="btn btn-light" target="_blank" rel="noopener noreferrer">
       <i class="bi bi-file-earmark-text"></i> Preprint
     </a>
+    
+    
   </li>
-  <li data-index="8" data-categories="drosophila,geometric morphometrics,QTL mapping,evo-devo,compound eyes" data-listing-file-modified-sort="1719576491521" data-listing-reading-time-sort="2">
+
+  <li data-index="8" data-categories="drosophila,geometric morphometrics,quantitative genetics,evo-devo" data-listing-file-modified-sort="1728398567546" data-listing-reading-time-sort="2" data-listing-word-count-sort="311">
     <span class="listing-title lead">Characterization of the Genetic Architecture Underlying Eye Size Variation Within <em>Drosophila melanogaster</em> and <em>Drosophila simulans</em></span><br>
     <span class="listing-author">Gaspar, Arif, Sumner-Rooney et al.</span><br>
     <span class="listing-publication fst-italic ">G3 Genes|Genomes|Genetics</span>
@@ -320,14 +409,20 @@ gtag('config', 'G-0BT27VTKJN', { 'anonymize_ip': true});
     <a href="./publications/articles/gasparetal2019.html" class="btn btn-primary">
       Details
     </a>
+    
     <a href="https://doi.org/10.1534/g3.119.400877" class="btn btn-secondary" target="_blank" rel="noopener noreferrer">
       DOI
     </a>
+    
+    
     <a href="https://doi.org/10.1101/555698" class="btn btn-light" target="_blank" rel="noopener noreferrer">
       <i class="bi bi-file-earmark-text"></i> Preprint
     </a>
+    
+    
   </li>
-  <li data-index="9" data-categories="drosophila,cold adaptation,QTL mapping" data-listing-file-modified-sort="1719576491521" data-listing-reading-time-sort="2">
+
+  <li data-index="9" data-categories="drosophila,cold adaptation,quantitative genetics" data-listing-file-modified-sort="1728398576778" data-listing-reading-time-sort="2" data-listing-word-count-sort="283">
     <span class="listing-title lead">Three Quantitative Trait Loci Explain More than 60% of Variation for Chill Coma Recovery Time in a Natural Population of <em>Drosophila ananassae</em></span><br>
     <span class="listing-author">Koeniger, Arif, Garth</span><br>
     <span class="listing-publication fst-italic ">G3 Genes|Genomes|Genetics</span>
@@ -335,14 +430,20 @@ gtag('config', 'G-0BT27VTKJN', { 'anonymize_ip': true});
     <a href="./publications/articles/koenigeretal2019.html" class="btn btn-primary">
       Details
     </a>
+    
     <a href="https://doi.org/10.1534/g3.119.400453" class="btn btn-secondary" target="_blank" rel="noopener noreferrer">
       DOI
     </a>
+    
+    
     <a href="https://doi.org/10.1101/555698" class="btn btn-light" target="_blank" rel="noopener noreferrer">
       <i class="bi bi-file-earmark-text"></i> Preprint
     </a>
+    
+    
   </li>
-  <li data-index="10" data-categories="butterflies,genome-editing,book chapter,review" data-listing-file-modified-sort="1719576491521" data-listing-reading-time-sort="2">
+
+  <li data-index="10" data-categories="butterflies,genome-editing" data-listing-file-modified-sort="1728398439014" data-listing-reading-time-sort="2" data-listing-word-count-sort="204">
     <span class="listing-title lead">CRISPR/Cas9 as the Key to Unlocking the Secrets of Butterfly Wing Pattern Development and Its Evolution</span><br>
     <span class="listing-author">Livragi, Martin, Gibbs, et al.</span><br>
     <span class="listing-publication fst-italic ">Advances in Insect Physiology</span>
@@ -350,11 +451,16 @@ gtag('config', 'G-0BT27VTKJN', { 'anonymize_ip': true});
     <a href="./publications/articles/livraghetal2017.html" class="btn btn-primary">
       Details
     </a>
+    
     <a href="https://doi.org/10.1016/bs.aiip.2017.11.001" class="btn btn-secondary" target="_blank" rel="noopener noreferrer">
       DOI
     </a>
+    
+    
+    
   </li>
-  <li data-index="11" data-categories="drosophila,trichomes,microRNAs,transcriptomics,evo-devo,ATAC-seq" data-listing-file-modified-sort="1719576491521" data-listing-reading-time-sort="3">
+
+  <li data-index="11" data-categories="drosophila,microRNAs,transcriptomics,evo-devo" data-listing-file-modified-sort="1728398479122" data-listing-reading-time-sort="3" data-listing-word-count-sort="431">
     <span class="listing-title lead">Gene regulatory network architecture in different developmental contexts influences the genetic basis of morphological evolution</span><br>
     <span class="listing-author">Kittelmann, Buffry, Franke et al.</span><br>
     <span class="listing-publication fst-italic ">PLoS Genetics</span>
@@ -362,14 +468,20 @@ gtag('config', 'G-0BT27VTKJN', { 'anonymize_ip': true});
     <a href="./publications/articles/kittelmann2018.html" class="btn btn-primary">
       Details
     </a>
+    
     <a href="https://doi.org/10.1371/journal.pgen.1007375" class="btn btn-secondary" target="_blank" rel="noopener noreferrer">
       DOI
     </a>
+    
+    
     <a href="https://doi.org/10.1101/219337" class="btn btn-light" target="_blank" rel="noopener noreferrer">
       <i class="bi bi-file-earmark-text"></i> Preprint
     </a>
+    
+    
   </li>
-  <li data-index="12" data-categories="spiders,transcriptomics,microRNAs,evo-devo" data-listing-file-modified-sort="1719576491521" data-listing-reading-time-sort="2">
+
+  <li data-index="12" data-categories="spiders,transcriptomics,microRNAs,evo-devo" data-listing-file-modified-sort="1719576491521" data-listing-reading-time-sort="2" data-listing-word-count-sort="309">
     <span class="listing-title lead">Pervasive microRNA Duplication in Chelicerates: Insights from the Embryonic microRNA Repertoire of the Spider *Parasteatoda tepidariorum*</span><br>
     <span class="listing-author">Leite, Ninova, Hilbrant, et al.</span><br>
     <span class="listing-publication fst-italic ">Molecular Biology &amp; Evolution</span>
@@ -377,11 +489,16 @@ gtag('config', 'G-0BT27VTKJN', { 'anonymize_ip': true});
     <a href="./publications/articles/leiteetal2016.html" class="btn btn-primary">
       Details
     </a>
+    
     <a href="https://doi.org/10.1093/gbe/evw143" class="btn btn-secondary" target="_blank" rel="noopener noreferrer">
       DOI
     </a>
+    
+    
+    
   </li>
-  <li data-index="13" data-categories="drosophila,evo-devo,trichomes,review" data-listing-file-modified-sort="1719576491521" data-listing-reading-time-sort="1">
+
+  <li data-index="13" data-categories="drosophila,evo-devo" data-listing-file-modified-sort="1728398615306" data-listing-reading-time-sort="1" data-listing-word-count-sort="195">
     <span class="listing-title lead">From shavenbaby to the naked valley: Trichome formation as a model for evolutionary developmental biology</span><br>
     <span class="listing-author">Arif, Kittelmann, McGregor</span><br>
     <span class="listing-publication fst-italic ">Evolution &amp; Development</span>
@@ -389,11 +506,16 @@ gtag('config', 'G-0BT27VTKJN', { 'anonymize_ip': true});
     <a href="./publications/articles/arifetal2015.html" class="btn btn-primary">
       Details
     </a>
+    
     <a href="https://doi.org/10.1111/ede.12113" class="btn btn-secondary" target="_blank" rel="noopener noreferrer">
       DOI
     </a>
+    
+    
+    
   </li>
-  <li data-index="14" data-categories="drosophila,trichomes,fine-mapping,evo-devo,microRNAs" data-listing-file-modified-sort="1719576491521" data-listing-reading-time-sort="2">
+
+  <li data-index="14" data-categories="drosophila,trichomes,quantitative genetics,evo-devo,microRNAs" data-listing-file-modified-sort="1728398627174" data-listing-reading-time-sort="2" data-listing-word-count-sort="302">
     <span class="listing-title lead">Evolution of mir-92a underlies natural morphological variation in <em>Drosophila melanogaster</em></span><br>
     <span class="listing-author">Arif, Murat, Almudi, et al.</span><br>
     <span class="listing-publication fst-italic ">Current Biology</span>
@@ -401,11 +523,16 @@ gtag('config', 'G-0BT27VTKJN', { 'anonymize_ip': true});
     <a href="./publications/articles/arifetal2013b.html" class="btn btn-primary">
       Details
     </a>
+    
     <a href="https://doi.org/10.1016/j.cub.2013.02.018" class="btn btn-secondary" target="_blank" rel="noopener noreferrer">
       DOI
     </a>
+    
+    
+    
   </li>
-  <li data-index="15" data-categories="drosophila,geometric morphometrics,QTL mapping,evo-devo,compound eyes" data-listing-file-modified-sort="1719576491521" data-listing-reading-time-sort="2">
+
+  <li data-index="15" data-categories="drosophila,geometric morphometrics,quantitative genetics,evo-devo" data-listing-file-modified-sort="1728398644346" data-listing-reading-time-sort="2" data-listing-word-count-sort="297">
     <span class="listing-title lead">Genetic and developmental analysis of differences in eye and face morphology between <em>Drosophila simulans</em> and <em>Drosophila mauritiana</em></span><br>
     <span class="listing-author">Arif, Hilbrant, Hopfen, et al.</span><br>
     <span class="listing-publication fst-italic ">Evolution &amp; Development</span>
@@ -413,11 +540,16 @@ gtag('config', 'G-0BT27VTKJN', { 'anonymize_ip': true});
     <a href="./publications/articles/arifetal2013a.html" class="btn btn-primary">
       Details
     </a>
+    
     <a href="https://doi.org/10.1111/ede.12027" class="btn btn-secondary" target="_blank" rel="noopener noreferrer">
       DOI
     </a>
+    
+    
+    
   </li>
-  <li data-index="16" data-categories="genome-editing,evo-devo,perspective" data-listing-file-modified-sort="1719576491521" data-listing-reading-time-sort="2">
+
+  <li data-index="16" data-categories="evo-devo,population genomics" data-listing-file-modified-sort="1728398442062" data-listing-reading-time-sort="2" data-listing-word-count-sort="201">
     <span class="listing-title lead">Perspective on Micro-Evo-Devo: Progress and Potential</span><br>
     <span class="listing-author">Nunes, Arif, Schlötterer, et al.</span><br>
     <span class="listing-publication fst-italic ">Genetics</span>
@@ -425,11 +557,16 @@ gtag('config', 'G-0BT27VTKJN', { 'anonymize_ip': true});
     <a href="./publications/articles/nunesetal2013.html" class="btn btn-primary">
       Details
     </a>
+    
     <a href="https://doi.org/10.1534/genetics.113.156463" class="btn btn-secondary" target="_blank" rel="noopener noreferrer">
       DOI
     </a>
+    
+    
+    
   </li>
-  <li data-index="17" data-categories="drosophila,geometric morphometrics,evo-devo,compound eyes" data-listing-file-modified-sort="1719576491521" data-listing-reading-time-sort="2">
+
+  <li data-index="17" data-categories="drosophila,geometric morphometrics,evo-devo" data-listing-file-modified-sort="1728398440994" data-listing-reading-time-sort="2" data-listing-word-count-sort="297">
     <span class="listing-title lead">Evolution of Eye Morphology and Rhodopsin Expression in the <em>Drosophila melanogaster</em> Species Subgroup</span><br>
     <span class="listing-author">Posnien, Hopfen, Hilbrant, et al.</span><br>
     <span class="listing-publication fst-italic ">PLoS ONE</span>
@@ -437,11 +574,16 @@ gtag('config', 'G-0BT27VTKJN', { 'anonymize_ip': true});
     <a href="./publications/articles/posnienetal2012.html" class="btn btn-primary">
       Details
     </a>
+    
     <a href="https://doi.org/10.1371/journal.pone.0037346" class="btn btn-secondary" target="_blank" rel="noopener noreferrer">
       DOI
     </a>
+    
+    
+    
   </li>
-  <li data-index="18" data-categories="reptiles,phylogeny" data-listing-file-modified-sort="1719576491525" data-listing-reading-time-sort="2">
+
+  <li data-index="18" data-categories="reptiles,phylogeny" data-listing-file-modified-sort="1719576491525" data-listing-reading-time-sort="2" data-listing-word-count-sort="285">
     <span class="listing-title lead">Phylogenetic relationships of phrynosomatid lizards based on nuclear and mitochondrial data, and a revised phylogeny for <em>Sceloporus</em></span><br>
     <span class="listing-author">Wiens, Kuczynski, Arif, et al.</span><br>
     <span class="listing-publication fst-italic ">Molecular Phylogenetics and Evolution</span>
@@ -449,11 +591,16 @@ gtag('config', 'G-0BT27VTKJN', { 'anonymize_ip': true});
     <a href="./publications/articles/wiensetal2010.html" class="btn btn-primary">
       Details
     </a>
+    
     <a href="https://doi.org/10.1016/j.ympev.2009.09.008" class="btn btn-secondary" target="_blank" rel="noopener noreferrer">
       DOI
     </a>
+    
+    
+    
   </li>
-  <li data-index="19" data-categories="fish,geometric morphometrics,opercle" data-listing-file-modified-sort="1719576491521" data-listing-reading-time-sort="2">
+
+  <li data-index="19" data-categories="fish,geometric morphometrics" data-listing-file-modified-sort="1728398650818" data-listing-reading-time-sort="2" data-listing-word-count-sort="220">
     <span class="listing-title lead">Evolutionary diversification of opercle shape in Cook Inlet threespine stickleback</span><br>
     <span class="listing-author">Arif, Aguirre, Bell</span><br>
     <span class="listing-publication fst-italic ">Biological Journal of the Linnean Society</span>
@@ -461,11 +608,16 @@ gtag('config', 'G-0BT27VTKJN', { 'anonymize_ip': true});
     <a href="./publications/articles/arifetal2009.html" class="btn btn-primary">
       Details
     </a>
+    
     <a href="https://doi.org/10.1111/j.1095-8312.2009.01258.x" class="btn btn-secondary" target="_blank" rel="noopener noreferrer">
       DOI
     </a>
+    
+    
+    
   </li>
-  <li data-index="20" data-categories="amphibians,phylogeny,novelty,skull morphology" data-listing-file-modified-sort="1719576491521" data-listing-reading-time-sort="2">
+
+  <li data-index="20" data-categories="amphibians,phylogenetics,novelty" data-listing-file-modified-sort="1728398361281" data-listing-reading-time-sort="2" data-listing-word-count-sort="265">
     <span class="listing-title lead">A Phylogenetic Hot Spot for Evolutionary Novelty in Middle American Treefrogs</span><br>
     <span class="listing-author">Smith, Arif, Adams, Oca, et al.</span><br>
     <span class="listing-publication fst-italic ">Evolution</span>
@@ -473,11 +625,16 @@ gtag('config', 'G-0BT27VTKJN', { 'anonymize_ip': true});
     <a href="./publications/articles/smithetal2007.html" class="btn btn-primary">
       Details
     </a>
+    
     <a href="https://doi.org/10.1111/j.1558-5646.2007.00173.x" class="btn btn-secondary" target="_blank" rel="noopener noreferrer">
       DOI
     </a>
+    
+    
+    
   </li>
-  <li data-index="21" data-categories="amphibians,geometric morphometrics,skull morphology" data-listing-file-modified-sort="1719576491521" data-listing-reading-time-sort="1">
+
+  <li data-index="21" data-categories="amphibians,geometric morphometrics" data-listing-file-modified-sort="1728398662118" data-listing-reading-time-sort="1" data-listing-word-count-sort="180">
     <span class="listing-title lead">Bioclimatic modelling, morphology, and behaviour reveal alternative mechanisms regulating the distributions of two parapatric salamander species</span><br>
     <span class="listing-author">Arif, Adams, Wicknick</span><br>
     <span class="listing-publication fst-italic ">Evolutionary Ecology Research</span>
@@ -485,8 +642,13 @@ gtag('config', 'G-0BT27VTKJN', { 'anonymize_ip': true});
     <a href="./publications/articles/arifetal2007.html" class="btn btn-primary">
       Details
     </a>
+    
+    
+    
   </li>
+
 </ul>
+
 <div class="listing-no-matching d-none">
 No matching items
 </div>
@@ -540,6 +702,33 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       } else {
         el.classList.add('notransition');
       }
+    }
+  }
+  const toggleGiscusIfUsed = (isAlternate, darkModeDefault) => {
+    const baseTheme = document.querySelector('#giscus-base-theme')?.value ?? 'light';
+    const alternateTheme = document.querySelector('#giscus-alt-theme')?.value ?? 'dark';
+    let newTheme = '';
+    if(darkModeDefault) {
+      newTheme = isAlternate ? baseTheme : alternateTheme;
+    } else {
+      newTheme = isAlternate ? alternateTheme : baseTheme;
+    }
+    const changeGiscusTheme = () => {
+      // From: https://github.com/giscus/giscus/issues/336
+      const sendMessage = (message) => {
+        const iframe = document.querySelector('iframe.giscus-frame');
+        if (!iframe) return;
+        iframe.contentWindow.postMessage({ giscus: message }, 'https://giscus.app');
+      }
+      sendMessage({
+        setConfig: {
+          theme: newTheme
+        }
+      });
+    }
+    const isGiscussLoaded = window.document.querySelector('iframe.giscus-frame') !== null;
+    if (isGiscussLoaded) {
+      changeGiscusTheme();
     }
   }
   const toggleColorMode = (alternate) => {
@@ -608,13 +797,15 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       return localAlternateSentinel;
     }
   }
-  let localAlternateSentinel = 'default';
+  const darkModeDefault = false;
+  let localAlternateSentinel = darkModeDefault ? 'alternate' : 'default';
   // Dark / light mode switch
   window.quartoToggleColorScheme = () => {
     // Read the current dark / light value 
     let toAlternate = !hasAlternateSentinel();
     toggleColorMode(toAlternate);
     setStyleSentinel(toAlternate);
+    toggleGiscusIfUsed(toAlternate, darkModeDefault);
   };
   // Ensure there is a toggle, if there isn't float one in the top right
   if (window.document.querySelector('.quarto-color-scheme-toggle') === null) {
@@ -649,18 +840,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
     return false;
   }
-  const clipboard = new window.ClipboardJS('.code-copy-button', {
-    text: function(trigger) {
-      const codeEl = trigger.previousElementSibling.cloneNode(true);
-      for (const childEl of codeEl.children) {
-        if (isCodeAnnotation(childEl)) {
-          childEl.remove();
-        }
-      }
-      return codeEl.innerText;
-    }
-  });
-  clipboard.on('success', function(e) {
+  const onCopySuccess = function(e) {
     // button target
     const button = e.trigger;
     // don't keep focus
@@ -692,11 +872,50 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }, 1000);
     // clear code selection
     e.clearSelection();
+  }
+  const getTextToCopy = function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+  }
+  const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+    text: getTextToCopy
   });
-  function tippyHover(el, contentFn) {
+  clipboard.on('success', onCopySuccess);
+  if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+    // For code content inside modals, clipBoardJS needs to be initialized with a container option
+    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
+    const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+      text: getTextToCopy,
+      container: window.document.getElementById('quarto-embedded-source-code-modal')
+    });
+    clipboardModal.on('success', onCopySuccess);
+  }
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+    var mailtoRegex = new RegExp(/^mailto:/);
+      var filterRegex = new RegExp("https:\/\/saadarif\.github\.io");
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+    }
+    // Inspect non-navigation links and adorn them if external
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+        // undo the damage that might have been done by quarto-nav.js in the case of
+        // links that we want to consider external
+        if (link.dataset.originalHref !== undefined) {
+          link.href = link.dataset.originalHref;
+        }
+      }
+    }
+  function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
     const config = {
       allowHTML: true,
-      content: contentFn,
       maxWidth: 500,
       delay: 100,
       arrow: false,
@@ -706,8 +925,17 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       interactive: true,
       interactiveBorder: 10,
       theme: 'quarto',
-      placement: 'bottom-start'
+      placement: 'bottom-start',
     };
+    if (contentFn) {
+      config.content = contentFn;
+    }
+    if (onTriggerFn) {
+      config.onTrigger = onTriggerFn;
+    }
+    if (onUntriggerFn) {
+      config.onUntrigger = onUntriggerFn;
+    }
     window.tippy(el, config); 
   }
   const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
@@ -719,7 +947,130 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       try { href = new URL(href).hash; } catch {}
       const id = href.replace(/^#\/?/, "");
       const note = window.document.getElementById(id);
-      return note.innerHTML;
+      if (note) {
+        return note.innerHTML;
+      } else {
+        return "";
+      }
+    });
+  }
+  const xrefs = window.document.querySelectorAll('a.quarto-xref');
+  const processXRef = (id, note) => {
+    // Strip column container classes
+    const stripColumnClz = (el) => {
+      el.classList.remove("page-full", "page-columns");
+      if (el.children) {
+        for (const child of el.children) {
+          stripColumnClz(child);
+        }
+      }
+    }
+    stripColumnClz(note)
+    if (id === null || id.startsWith('sec-')) {
+      // Special case sections, only their first couple elements
+      const container = document.createElement("div");
+      if (note.children && note.children.length > 2) {
+        container.appendChild(note.children[0].cloneNode(true));
+        for (let i = 1; i < note.children.length; i++) {
+          const child = note.children[i];
+          if (child.tagName === "P" && child.innerText === "") {
+            continue;
+          } else {
+            container.appendChild(child.cloneNode(true));
+            break;
+          }
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(container);
+        }
+        return container.innerHTML
+      } else {
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        return note.innerHTML;
+      }
+    } else {
+      // Remove any anchor links if they are present
+      const anchorLink = note.querySelector('a.anchorjs-link');
+      if (anchorLink) {
+        anchorLink.remove();
+      }
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(note);
+      }
+      // TODO in 1.5, we should make sure this works without a callout special case
+      if (note.classList.contains("callout")) {
+        return note.outerHTML;
+      } else {
+        return note.innerHTML;
+      }
+    }
+  }
+  for (var i=0; i<xrefs.length; i++) {
+    const xref = xrefs[i];
+    tippyHover(xref, undefined, function(instance) {
+      instance.disable();
+      let url = xref.getAttribute('href');
+      let hash = undefined; 
+      if (url.startsWith('#')) {
+        hash = url;
+      } else {
+        try { hash = new URL(url).hash; } catch {}
+      }
+      if (hash) {
+        const id = hash.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note !== null) {
+          try {
+            const html = processXRef(id, note.cloneNode(true));
+            instance.setContent(html);
+          } finally {
+            instance.enable();
+            instance.show();
+          }
+        } else {
+          // See if we can fetch this
+          fetch(url.split('#')[0])
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.getElementById(id);
+            if (note !== null) {
+              const html = processXRef(id, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      } else {
+        // See if we can fetch a full url (with no hash to target)
+        // This is a special case and we should probably do some content thinning / targeting
+        fetch(url)
+        .then(res => res.text())
+        .then(html => {
+          const parser = new DOMParser();
+          const htmlDoc = parser.parseFromString(html, "text/html");
+          const note = htmlDoc.querySelector('main.content');
+          if (note !== null) {
+            // This should only happen for chapter cross references
+            // (since there is no id in the URL)
+            // remove the first header
+            if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+              note.children[0].remove();
+            }
+            const html = processXRef(null, note);
+            instance.setContent(html);
+          } 
+        }).finally(() => {
+          instance.enable();
+          instance.show();
+        });
+      }
+    }, function(instance) {
     });
   }
       let selectedAnnoteEl;
@@ -763,6 +1114,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
             }
             div.style.top = top - 2 + "px";
             div.style.height = height + 4 + "px";
+            div.style.left = 0;
             let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
             if (gutterDiv === null) {
               gutterDiv = window.document.createElement("div");
@@ -788,6 +1140,32 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
         });
         selectedAnnoteEl = undefined;
       };
+        // Handle positioning of the toggle
+    window.addEventListener(
+      "resize",
+      throttle(() => {
+        elRect = undefined;
+        if (selectedAnnoteEl) {
+          selectCodeLines(selectedAnnoteEl);
+        }
+      }, 10)
+    );
+    function throttle(fn, ms) {
+    let throttle = false;
+    let timer;
+      return (...args) => {
+        if(!throttle) { // first call gets through
+            fn.apply(this, args);
+            throttle = true;
+        } else { // all the others get throttled
+            if(timer) clearTimeout(timer); // cancel #2
+            timer = setTimeout(() => {
+              fn.apply(this, args);
+              timer = throttle = false;
+            }, ms);
+        }
+      };
+    }
       // Attach click handler to the DT
       const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
       for (const annoteDlNode of annoteDls) {
@@ -853,12 +1231,15 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     <div class="nav-footer-left">
       &nbsp;
     </div>   
-    <div class="nav-footer-center">Copyright 2023 © Saad Arif</div>
+    <div class="nav-footer-center">
+<p>Copyright 2023 © Saad Arif</p>
+</div>
     <div class="nav-footer-right">
       &nbsp;
     </div>
   </div>
 </footer>
+
 
 
 

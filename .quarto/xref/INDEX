@@ -130,5 +130,8 @@
   },
   "publications/articles/whitlaetal2023.qmd": {
     "whitlaetal2023.html": "a7ee75f6"
+  },
+  "presentations.qmd": {
+    "presentations.html": "3c403559"
   }
 }
