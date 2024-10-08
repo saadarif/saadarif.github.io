@@ -39,7 +39,7 @@
     "href": "research.html#colloborations",
     "title": "InsectOmics Lab",
     "section": "Colloborations",
-    "text": "Colloborations\nI routinely collaborate with ecologists or developmental biologist from the department of Biological and Medical Sciences at Oxford Brookes and else beyond. Past and current collaborators include:\n\nProf. Tim Shreeve\nDr. Casper Breuker\nThe Centre for Funtional Genomics\nProf. Alistair McGregor, Dept. of Biology, Durham University, UK (also my PhD supervisor)\nDr. Matt Bulbert\nDr. Michael Gerth, German Centre for Integrative Biodiversity Research , Germany"
+    "text": "Colloborations\nI routinely collaborate with ecologists or developmental biologists from the department of Biological and Medical Sciences at Oxford Brookes and else beyond. Past and current collaborators include:\n\nProf. Tim Shreeve\nDr. Casper Breuker\nThe Centre for Funtional Genomics\nProf. Alistair McGregor, Dept. of Biology, Durham University, UK (also my PhD supervisor)\nDr. Matt Bulbert\nDr. Michael Gerth, German Centre for Integrative Biodiversity Research , Germany\nDr. Marco Campera, Sustainable Agroforestry Group at Oxford Brookes University"
   },
   {
     "objectID": "posts.html",
@@ -732,7 +732,7 @@
     "href": "presentations.html#science-communication-and-data-visualisation",
     "title": "InsectOmics Lab",
     "section": "Science communication and data visualisation",
-    "text": "Science communication and data visualisation\nI like to dabble in alternative science communication and data viz. approaches when I can. You can find outputs of those projects here.\n\nScrollytelling experience for Last Days of Aporia crataegi project (best enjoyed on a desktop/laptop)."
+    "text": "Science communication and data visualisation\nI like to dabble in alternative science communication and data viz. approaches when I can. You can find outputs of those projects here.\n\nScrollytelling experience for Last Days of Aporia crataegi project (best enjoyed on a desktop/laptop).\nShiny app for sharing research results on impact of non-timber forest prdoucts on biodiversity in Indonesia. In colloboration with Dr. Marco Campera and the Sustainable agroforestry group at Oxford Brookes"
   },
   {
     "objectID": "presentations.html#seminars",
@@ -740,5 +740,12 @@
     "title": "InsectOmics Lab",
     "section": "Seminars",
     "text": "Seminars\n\nAidan Seminar Series, Oxford Brookes, March 2024 - Talk title: Using R etc. in teaching and research. Slides"
+  },
+  {
+    "objectID": "presentations.html#science-communication-and-data-sharingvisualisation",
+    "href": "presentations.html#science-communication-and-data-sharingvisualisation",
+    "title": "InsectOmics Lab",
+    "section": "Science communication and data sharing/visualisation",
+    "text": "Science communication and data sharing/visualisation\nI like to dabble in alternative science communication and data viz. approaches when I can. You can find outputs of those projects here.\n\nScrollytelling experience for Last Days of Aporia crataegi project (best enjoyed on a desktop/laptop).\nShiny app for sharing research results on impact of non-timber forest prdoucts on biodiversity in Indonesia. In colloboration with Dr. Marco Campera and the Sustainable agroforestry group at Oxford Brookes"
   }
 ]

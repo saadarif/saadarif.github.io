@@ -36,7 +36,7 @@ Current projects in the lab focus around the biology of UK butterflies. Currentl
 
 ## Colloborations
 
-I routinely collaborate with ecologists or developmental biologist from the department of Biological and Medical Sciences at Oxford Brookes and else beyond. Past and current collaborators include:
+I routinely collaborate with ecologists or developmental biologists from the department of Biological and Medical Sciences at Oxford Brookes and else beyond. Past and current collaborators include:
 
 - [Prof. Tim Shreeve](https://www.brookes.ac.uk/profiles/staff/tim-shreeve)
 - [Dr. Casper Breuker](https://www.brookes.ac.uk/profiles/staff/casper-breuker)
@@ -44,3 +44,4 @@ I routinely collaborate with ecologists or developmental biologist from the depa
 - [Prof. Alistair McGregor](http://www.mcgregor-evo-devo-lab.net/), Dept. of Biology, Durham University, UK (also my PhD supervisor)
 - [Dr. Matt Bulbert](https://conflictecology.com/)
 - [Dr. Michael Gerth](https://www.michaelgerth.net), German Centre for Integrative Biodiversity Research , Germany
+- [Dr. Marco Campera](https://www.brookes.ac.uk/profiles/staff/marco-campera), Sustainable Agroforestry Group at Oxford Brookes University
