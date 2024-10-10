@@ -17,12 +17,12 @@ website:
         text: Lab members
       - href: publications.qmd
         text: Publications
-      - href: oppurtunities.qmd
-        text: Opportunities
       - href: presentations.qmd
         text: Presentations
       - href: teaching.qmd
         text: Teaching
+      - href: oppurtunities.qmd
+        text: Opportunities
 #      - href: contact.qmd
 #        text: contact
 #      - href: posts.qmd
