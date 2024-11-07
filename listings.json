@@ -2,6 +2,7 @@
   {
     "listing": "/publications.html",
     "items": [
+      "/publications/articles/arifetal2024.html",
       "/publications/articles/whitlaetal2023.html",
       "/publications/articles/gonzalezetal2023.html",
       "/publications/articles/ebdon2022.html",
@@ -27,10 +28,6 @@
     ]
   },
   {
-    "listing": "/posts.html",
-    "items": []
-  },
-  {
     "listing": "/labmembers.html",
     "items": [
       "/people/staff/saadarif.html",
@@ -43,5 +40,9 @@
       "/people/alumni/frankierackham.html",
       "/people/alumni/edyrusso.html"
     ]
+  },
+  {
+    "listing": "/posts.html",
+    "items": []
   }
 ]
