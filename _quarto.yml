@@ -1,5 +1,6 @@
 project:
   type: website
+
   output-dir: docs
 
 execute:
@@ -7,6 +8,7 @@ execute:
   
 website:
   title: "InsectOmics Lab"
+  favicon: ./img/buttgen4.jpg
   navbar:
     left:
       - href: index.qmd
