@@ -2,11 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://saadarif.github.io/labmembers.html</loc>
-    <lastmod>2024-10-08T15:19:48.786Z</lastmod>
+    <lastmod>2024-11-07T10:27:58.017Z</lastmod>
   </url>
   <url>
     <loc>https://saadarif.github.io/presentations.html</loc>
-    <lastmod>2024-10-08T15:40:40.214Z</lastmod>
+    <lastmod>2024-11-07T10:43:04.736Z</lastmod>
   </url>
   <url>
     <loc>https://saadarif.github.io/people/staff/saadarif.html</loc>
@@ -163,5 +163,9 @@
   <url>
     <loc>https://saadarif.github.io/teaching.html</loc>
     <lastmod>2024-10-08T15:51:13.316Z</lastmod>
+  </url>
+  <url>
+    <loc>https://saadarif.github.io/publications/articles/arifetal2024.html</loc>
+    <lastmod>2024-11-07T10:33:36.574Z</lastmod>
   </url>
 </urlset>

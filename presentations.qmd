@@ -13,9 +13,13 @@ toc: true
 ```
 
 
-## Conference presentations
+## Presentations and seminars
 
-[**Biodiversity Genomics, 2024 (BG2024)**](https://www.biodiversitygenomicsconference.org/) - *Talk title*: The last days of *Aporia crataegi* L. in Britain: Evaluating genomic erosion in an extirpated butterfly. [Slides](https://saadarif.github.io/BG2024/)
+-   [**Biodiversity Genomics, 2024 (BG2024)**](https://www.biodiversitygenomicsconference.org/) - *Talk title*: The last days of *Aporia crataegi* L. in Britain: Evaluating genomic erosion in an extirpated butterfly. [Slides](https://saadarif.github.io/BG2024/)
+
+-   **BMS Summer Seminar, 2024, Oxford Brookes** - *Talk title*: Highthroughput sequencing from museum samples. [Slides](saadarif.github.io/BMSSeminar2024/)
+
+-   [**AIDAN seminar series, 2024, Oxford Brookes**](https://www.brookes.ac.uk/research/networks/artificial-intelligence-and-data) - *Talk title*: Using R etc. in teaching and research. 
 
 
 ## Science communication and data visualisation
@@ -25,6 +29,4 @@ I like to dabble in alternative science communication and data viz. approaches w
 -   [Scrollytelling experience](https://saadarif.github.io/BVW-LastDays/) for Last Days of *Aporia crataegi* project (best enjoyed on a desktop/laptop).
 -   [Shiny app](https://8ltxdw-saad-arif.shinyapps.io/NonTimberForestProducts/) for sharing research results on impact of non-timber forest prdoucts on biodiversity in Indonesia. In colloboration with Dr. Marco Campera and the [Sustainable agroforestry group at Oxford Brookes](https://www.brookes.ac.uk/research/units/hls/groups/sustainable-agroforestry)
 
-## Seminars
 
--    **Aidan Seminar Series, Oxford Brookes, March 2024** - *Talk title*: Using R etc. in teaching and research. [Slides]()
