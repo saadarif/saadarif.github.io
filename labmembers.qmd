@@ -50,7 +50,7 @@ listing:
 <nav aria-label="breadcrumb">
   <ol class="breadcrumb">
     <li class="breadcrumb-item"><a href="index.html">Home</a></li>
-    <li class="breadcrumb-item active" aria-current="page">Lab Members</li>
+    <li class="breadcrumb-item active" aria-current="page">People</li>
   </ol>
 </nav>
 ```

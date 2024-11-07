@@ -14,7 +14,7 @@ website:
       - href: research.qmd
         text: Research
       - href: labmembers.qmd
-        text: Lab members
+        text: People
       - href: publications.qmd
         text: Publications
       - href: presentations.qmd
