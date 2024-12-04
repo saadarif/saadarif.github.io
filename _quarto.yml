@@ -9,6 +9,12 @@ execute:
 website:
   title: "InsectOmics Lab"
   favicon: ./img/buttgen4.jpg
+  announcement: 
+    icon: info-circle-fill
+    dismissable: true
+    content: "**Alert** - <ins>Fully funded PhD Studentship</ins> available to study extinction genomics in 🦋 see the **[Opportunities](./oppurtunities.qmd) ** page for more info"
+    type: dark
+    position: below-navbar
   navbar:
     left:
       - href: index.qmd

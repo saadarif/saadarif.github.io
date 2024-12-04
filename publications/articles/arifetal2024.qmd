@@ -8,7 +8,7 @@ doi: "10.5281/zenodo.11259813"
 github: "https://github.com/elixir-europe-training/ELIXIR-TrP-LiterateProgrammingR-CodeRep"
 toc: false
 categories:
-  - R/Qaurto
+  - R/Quarto
   - literate programming
 
 ---
@@ -19,4 +19,4 @@ Arif, S., Fernandes, M., Lee, C., & Pierfederici, E. (2024). Literate Programmin
 
 ## Abstract
 
-This is the repositry for the initial release of the Literate Programming in R course. This course or module is part of the curriculum of Elixir's Code Reproducibility initiative. This course introduces the theory, advantages and implementation of Literate Programming practices in R for users working in RStudio to enhance the students abilities to produce reproducible code. Prerequistes include  basic programming skills in R and a familiarity in using the RStudio Integrated Development Environment. The target audience includes researchers, undergraduate students, and postgraduate students in the life sciences or related disciplines. 
+This is the repository for the initial release of the Literate Programming in R course. This course or module is part of the curriculum of Elixir's Code Reproducibility initiative. This course introduces the theory, advantages and implementation of Literate Programming practices in R for users working in RStudio to enhance the students abilities to produce reproducible code. Prerequisites include  basic programming skills in R and a familiarity in using the RStudio Integrated Development Environment. The target audience includes researchers, undergraduate students, and postgraduate students in the life sciences or related disciplines. 

@@ -1,6 +1,7 @@
 ---
 pagetitle: "Opportunities | InsectOmics Lab"
 toc: true
+
 ---
 
 ```{=html}
@@ -11,20 +12,31 @@ toc: true
   </ol>
 </nav>
 ```
+## Funded PhD Studentship available starting in Autumn 2025🦋
 
-## For Undergraduate Students
+We currently have a fully funded PhD Studentship, starting in Autumn 2025. available to work on the **extinction genomics of butterflies in the British Isles**.
 
-I routinely advertise undergraduate research projects, for Oxford Brookes Students. These are advertised to 2nd year Biological Sciences (all themes) students through the Career Development module in December. If you are super keen on genomics, biodiversity and bioinformatics, you can contact me earlier.
+Are you interested in understanding the genomic footprints of extinction? Can learning from the past provide us with tools for identifying and managing existing insect populations? If so, this opportunity might be for you! See recent examples of such work with the [Black-veined white](https://onlinelibrary.wiley.com/doi/10.1111/mec.17518) and the [Xerces blue](https://doi.org/10.7554/eLife.87928.3).
 
-## For Master's students
+We are looking for someone to investigate the genomic footprints of the regional extinction of the Mazarine blue ([*Cyaniris semiargus*](https://www.dispar.org/reference.php?id=112)) and the Large Copper ([*Lycaena dispar*](https://butterfly-conservation.org/butterflies/large-copper)) butterflies in the British Isles. As part of this project, there will also be opportunity to optimize whole genome sequencing from 100-200 year old museum insect specimens and develop guidelines and best practices for conducting metagenomics from genome sequences of museum specimens.
+
+Interested applicants are encouraged to contact me ([sarif\@brookes.ac.uk](mailto:sarif@brookes.ac.uk){.email}) with informal inquiries. For more information on eligibility criteria and how to apply, see this [**advert**](https://www.jobs.ac.uk/job/DKY348/nigel-groome-studentship-pushing-the-limits-of-museuomics-investigating-the-disappearance-of-mazarine-blue-butterfly-cyaniris-semiargus-and-the-large-copper-lycaena-dispar-in-the-british-isles). There are also other routes to work on this or similar PhD projects, see [**Other Opportunities**](#sec-opps) for more information.
+
+## Other Opportunities{#sec-opps}
+
+### For PhD Students
+
+I welcome interest of applications from students with [research](research.qmd) interests similar to my own. I may have a specific project available but I am happy to supervise other projects that are within my area of interest or expertise. I do expect PhD students to be passionate about their projects and be able to work independently in the lab, in the field and on the computer (after some prior training of course). 
+
+There are two main routes to apply to do a PhD with me. Every few years I advertise a fully-funded PhD project supported by fully-funded Nigel Groome Studentships from the Department of Biological and Medical Sciences at Oxford Brookes. These will be advertised here and elsewhere when available. These are usually advertised by December and application deadlines are in January or February.
+
+Alternatively, students interested in doing a PhD with me can also look into the [ILELSA DTP programme](https://www.ox.ac.uk/news/2024-11-15-new-oxford-led-initiative-launches-train-future-leaders-life-and-environmental). There are two studentships available for this DTP via Oxford Brookes every year. This is a highly competitive and excellent PhD training programme. if you are potentially interested in working with me *via* this route, please **contact me** to talk about your application further. Deadline for applications are usually in January.
+
+### For Master's students
 
 I am keen on supervising Master's students interested in genomics, biodiversity and bioinformatics. There are various routes to doing a Master's project with me if you want to do or currently are on a postgraduate degree at Oxford Brookes, including: MRes, MBiol and MSc programmes in Medical Genetics and Genomics and Conservation Biology.
 
-## For PhD Students
 
-I welcome interest of applications from students with [research](research.qmd) interests similar to my own. I may have a specific project available but I am happy to supervise other projects that are within my area of interest or expertise. I do expect PhD students to be passionate about their projects and be able to work independently in the lab, in the field and in the computer (after some prior training of course). I like to think of my PhD student as junior colloborators rather than students.
+### For Undergraduate Students
 
-There are two main routes to apply to do a PhD with me. Every few years I advertise a fully-funded PhD project supported by Nigel Groome Studentships from Department of Biological and Medical Sciences at Oxford Brookes. These will be advertised here and elsewhere when available. These are usually advertised by December and application deadlines are in January or February.
-
-Students interested in doing a PhD with me can also look into the [BBSRC DTP programme](https://www.biodtp.ox.ac.uk/oxford-brookes-university-studentships). There are two studentships available for this DTP via Oxford Brookes every year. This is a highly competitive and excellent PhD training programme. You can choose to do your PhD project with me or with any of the other Brookes faculty that are part of this programme. if you are potentially interested in working with me *via* this route, please contact me. Deadline for applications are usually in January.
-
+I routinely advertise undergraduate research projects, for Oxford Brookes Students. These are advertised to 2nd year Biological Sciences (all themes) students through the Career Development module in December. If you are super keen on genomics, biodiversity and bioinformatics, you can contact me earlier.

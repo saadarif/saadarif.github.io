@@ -10,7 +10,7 @@ github:: ""
 toc: false
 categories:
   - reptiles
-  - phylogeny
+  - phylogenetics
   
 ---
 
