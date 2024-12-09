@@ -14,3 +14,36 @@
     height: 0;
     display: inline-block;
 }
+
+.flex-container {
+
+    width: 100%;
+    height: 80%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0px 5px;
+    gap: 2rem;
+}
+
+
+img {
+    max-width: 100%;
+    height: auto;
+    /* Maintain aspect ratio */
+    flex: 1 1 auto;
+    /* Allow images to grow and shrink */
+    object-fit: cover;
+    box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+}
+
+
+
+/* Responsive layout - makes a one column layout instead of a two-column layout */
+@media (max-width: 800px) {
+  .flex-container {
+    flex-direction: column;
+  }
+  
+  
+}

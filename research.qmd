@@ -26,17 +26,30 @@ Current projects in the lab focus around the biology of UK butterflies. Currentl
 
 - **Reproductive manipulation by *Wolbachia*** - Our work on the [population genomics of *Polyommatus icarus*](https://onlinelibrary.wiley.com/doi/abs/10.1111/mec.16126) revealed patterns of *Wolbachia* (an obligate bacterial endosymbiont common in arthropods) infection which may be suggestive of reproductive manipulation. Current work on this project is involved in determining exactly which mode (if any) of *Wolbachia*-mediated reproductive manipulation may be at play in *P. icarus* populations of northern Scotland or the western Isles. Understanding the modes and mechanisms of reproductive manipulation by endosymbionts has applications for biocontrol of arthropod species classified as "pests".
 
-<div class="outer">
-  <img src="img/IMG_0954.jpg" width="275"/>
-  <img src="img/IMG_8707.jpg" width="225"/>
-  <img src="img/IMG_9650.jpg" width="200"/>
-  <span class="fix"></span>
-</div>
+:::{.flex-container}
+
+
+:::{.img}
+![](img/IMG_0954.jpg)
+:::
+
+
+:::{.img}
+![](img/IMG_8707.jpg)
+:::
+
+
+
+:::{.img}
+![](img/IMG_9650.jpg)
+:::
+
+:::
 
 
 ## Colloborations
 
-I routinely collaborate with ecologists or developmental biologists from the department of Biological and Medical Sciences at Oxford Brookes and else beyond. Past and current collaborators include:
+I routinely collaborate with ecologists or developmental biologists from the department of Biological and Medical Sciences at Oxford Brookes and beyond. Past and current collaborators include:
 
 - [Prof. Tim Shreeve](https://www.brookes.ac.uk/profiles/staff/tim-shreeve)
 - [Dr. Casper Breuker](https://www.brookes.ac.uk/profiles/staff/casper-breuker)
