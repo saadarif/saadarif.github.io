@@ -18,7 +18,7 @@
 .flex-container {
 
     width: 100%;
-    height: 80%;
+    height: 100%;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -35,6 +35,7 @@ img {
     /* Allow images to grow and shrink */
     object-fit: cover;
     box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+    border-radius: 5px;
 }
 
 

@@ -29,18 +29,18 @@ Current projects in the lab focus around the biology of UK butterflies. Currentl
 :::{.flex-container}
 
 
-:::{.img}
+:::{img}
 ![](img/IMG_0954.jpg)
 :::
 
 
-:::{.img}
+:::{img}
 ![](img/IMG_8707.jpg)
 :::
 
 
 
-:::{.img}
+:::{img}
 ![](img/IMG_9650.jpg)
 :::
 
