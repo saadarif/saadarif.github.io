@@ -9,12 +9,12 @@ execute:
 website:
   title: "InsectOmics Lab"
   favicon: ./img/buttgen4.jpg
-  announcement: 
-    icon: info-circle-fill
-    dismissable: true
-    content: "**Alert** - <ins>Fully funded PhD Studentship</ins> available to study extinction genomics in 🦋 see the **[Opportunities](./oppurtunities.qmd) ** page for more info"
-    type: dark
-    position: below-navbar
+#  announcement: 
+#    icon: info-circle-fill
+#    dismissable: true
+#    content: "**Alert** - <ins>Fully funded PhD Studentship</ins> available to study extinction genomics in 🦋 see the **[Opportunities](./oppurtunities.qmd) ** page for more info"
+#    type: dark
+#    position: below-navbar
   navbar:
     left:
       - href: index.qmd
@@ -53,7 +53,7 @@ website:
       aria-label: email
       href: mailto:sarif@brookes.ac.uk
   
-  page-footer: "Copyright 2024 &copy; Saad Arif"
+  page-footer: "Copyright 2025 &copy; Saad Arif"
   google-analytics: "G-0BT27VTKJN"
   site-url: https://saadarif.github.io
   repo-url: https://github.com/saadarif/saadarif.github.io

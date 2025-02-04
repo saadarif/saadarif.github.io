@@ -12,19 +12,19 @@ toc: true
   </ol>
 </nav>
 ```
-## Funded PhD Studentship available starting in Autumn 2025🦋
+<!-- ## Funded PhD Studentship available starting in Autumn 2025🦋 -->
 
-We currently have a fully funded PhD Studentship, starting in Autumn 2025. available to work on the **extinction genomics of butterflies in the British Isles**.
+<!-- We currently have a fully funded PhD Studentship, starting in Autumn 2025. available to work on the **extinction genomics of butterflies in the British Isles**. -->
 
-Are you interested in understanding the genomic footprints of extinction? Can learning from the past provide us with tools for identifying and managing existing insect populations? If so, this opportunity might be for you! See recent examples of such work with the [Black-veined white](https://onlinelibrary.wiley.com/doi/10.1111/mec.17518) and the [Xerces blue](https://doi.org/10.7554/eLife.87928.3).
+<!-- Are you interested in understanding the genomic footprints of extinction? Can learning from the past provide us with tools for identifying and managing existing insect populations? If so, this opportunity might be for you! See recent examples of such work with the [Black-veined white](https://onlinelibrary.wiley.com/doi/10.1111/mec.17518) and the [Xerces blue](https://doi.org/10.7554/eLife.87928.3). -->
 
-We are looking for someone to investigate the genomic footprints of the regional extinction of the Mazarine blue ([*Cyaniris semiargus*](https://www.dispar.org/reference.php?id=112)) and the Large Copper ([*Lycaena dispar*](https://butterfly-conservation.org/butterflies/large-copper)) butterflies in the British Isles. As part of this project, there will also be opportunity to optimize whole genome sequencing from 100-200 year old museum insect specimens and develop guidelines and best practices for conducting metagenomics from genome sequences of museum specimens.
+<!-- We are looking for someone to investigate the genomic footprints of the regional extinction of the Mazarine blue ([*Cyaniris semiargus*](https://www.dispar.org/reference.php?id=112)) and the Large Copper ([*Lycaena dispar*](https://butterfly-conservation.org/butterflies/large-copper)) butterflies in the British Isles. As part of this project, there will also be opportunity to optimize whole genome sequencing from 100-200 year old museum insect specimens and develop guidelines and best practices for conducting metagenomics from genome sequences of museum specimens. -->
 
-Interested applicants are encouraged to contact me ([sarif\@brookes.ac.uk](mailto:sarif@brookes.ac.uk){.email}) with informal inquiries. For more information on eligibility criteria and how to apply, see this [**advert**](https://www.jobs.ac.uk/job/DKY348/nigel-groome-studentship-pushing-the-limits-of-museuomics-investigating-the-disappearance-of-mazarine-blue-butterfly-cyaniris-semiargus-and-the-large-copper-lycaena-dispar-in-the-british-isles). There are also other routes to work on this or similar PhD projects, see [**Other Opportunities**](#sec-opps) for more information.
+<!-- Interested applicants are encouraged to contact me ([sarif\@brookes.ac.uk](mailto:sarif@brookes.ac.uk){.email}) with informal inquiries. For more information on eligibility criteria and how to apply, see this [**advert**](https://www.jobs.ac.uk/job/DKY348/nigel-groome-studentship-pushing-the-limits-of-museuomics-investigating-the-disappearance-of-mazarine-blue-butterfly-cyaniris-semiargus-and-the-large-copper-lycaena-dispar-in-the-british-isles). There are also other routes to work on this or similar PhD projects, see [**Other Opportunities**](#sec-opps) for more information. -->
 
-**Additionally**, if you find this project exciting, you should also consider applying for this [sister project](https://www.findaphd.com/phds/project/eastbio-case-using-museomics-to-understand-extinctions-and-inform-re-introductions-of-uk-butterflies/?p179747) with Konrad Lohse/Katerina Guschanski/Restore. There will be opportunity for students to colloborate between projects/institutions.
+<!-- **Additionally**, if you find this project exciting, you should also consider applying for this [sister project](https://www.findaphd.com/phds/project/eastbio-case-using-museomics-to-understand-extinctions-and-inform-re-introductions-of-uk-butterflies/?p179747) with Konrad Lohse/Katerina Guschanski/Restore. There will be opportunity for students to colloborate between projects/institutions. -->
 
-## Other Opportunities{#sec-opps}
+## Opportunities{#sec-opps}
 
 ### For PhD Students
 
