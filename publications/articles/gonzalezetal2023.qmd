@@ -2,10 +2,10 @@
 title: "Development and patterning of a highly versatile visual system in spiders"
 type: "article"
 author: "Gonzalez, Schoenauer, Harper, et al."
-year: "2023"
-publication: ""
+year: "2025"
+publication: "Proceedings of the Royal Society B: Biological Sciences"
 preprint: "https://doi.org/10.1101/2023.12.22.572789"
-doi: ""
+doi: "https://doi.org/10.1098/rspb.2024.2069"
 github: ""
 toc: false
 categories:
@@ -18,7 +18,7 @@ categories:
 
 ## Citation
 
-This is still a preprint!
+
 
 
 ## Abstract

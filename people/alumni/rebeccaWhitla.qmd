@@ -5,7 +5,7 @@ subtitle: "PhD Student"
 image: rwhitla.jpg
 toc: false
 started: "Jan 2021"
-ended: "Current"
+ended: "Sept 2024"
 about:
   id: person-profile
   template: jolla
@@ -30,5 +30,6 @@ about:
 :::
 
 
-Rebecca is currently working on her PhD thesis, The Role of Genetic Diversity and Inbreeding in an Extinct and a Declining Species of Lepidoptera in Britain, which investigates genomic erosion in a species as it approached local extinction (the Black-veined White butterfly) and investigates genomic erosion over time in a butterfly species that has declined in recent history (the Wood White). Her main interests are conservation genetics and museomics, and how we can use museum specimens to inform conservation of declining species.  
+Rebecca completed her PhD thesis on The Role of Genetic Diversity and Inbreeding in an Extinct and a Declining Species of Lepidoptera in Britain, which investigates genomic erosion in a species as it approached local extinction (the Black-veined White butterfly) and genomic erosion over time in a butterfly species that has declined in recent history (the Wood White). Her main interests are conservation genetics and museomics, and how we can use museum specimens to inform conservation of declining species.  She currently works for the Darwin Tree of Life Programme in Ireland and is based at University College Dublin.
+
 She is the current Membership Officer for Ecological Genetics Group (special interest group of the British Ecological Society & Genetics Society).
