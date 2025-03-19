@@ -3,9 +3,9 @@
     "listing": "/labmembers.html",
     "items": [
       "/people/staff/saadarif.html",
-      "/people/staff/rebeccaWhitla.html",
       "/people/undergrad/rebeccajones.html",
       "/people/undergrad/diskhapadwal.html",
+      "/people/alumni/rebeccaWhitla.html",
       "/people/alumni/sarahrdalo.html",
       "/people/alumni/reubenkumar.html",
       "/people/alumni/willmillard.html",
@@ -14,16 +14,12 @@
     ]
   },
   {
-    "listing": "/posts.html",
-    "items": []
-  },
-  {
     "listing": "/publications.html",
     "items": [
+      "/publications/articles/gonzalezetal2023.html",
       "/publications/articles/torres2021.html",
       "/publications/articles/arifetal2024.html",
       "/publications/articles/whitlaetal2023.html",
-      "/publications/articles/gonzalezetal2023.html",
       "/publications/articles/ebdon2022.html",
       "/publications/articles/arifetal2021.html",
       "/publications/articles/baudouinetal2021.html",
@@ -44,5 +40,9 @@
       "/publications/articles/smithetal2007.html",
       "/publications/articles/arifetal2007.html"
     ]
+  },
+  {
+    "listing": "/posts.html",
+    "items": []
   }
 ]
