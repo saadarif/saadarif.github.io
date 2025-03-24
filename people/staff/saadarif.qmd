@@ -17,14 +17,13 @@ about:
 #      text: vitae
 #      href: ./people/staff/girard_cv.pdf
     - icon: mortarboard
-      text: scholar
+#      text: scholar
       href: https://scholar.google.com.au/citations?user=svTW0-wAAAAJ&hl=en
     - icon: github
-      text: github
+#      text: github
       href: https://www.github.com/saadarif
-    - icon: twitter
-      text: twitter
-      href: https://www.twitter.com/saadrif81
+    - text: "{{< iconify fa6-brands:bluesky >}}"
+      href: https://bsky.app/profile/saadarif.bsky.social
 ---
 
 
