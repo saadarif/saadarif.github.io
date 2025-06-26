@@ -1,9 +1,5 @@
 [
   {
-    "listing": "/posts.html",
-    "items": []
-  },
-  {
     "listing": "/publications.html",
     "items": [
       "/publications/articles/gonzalezetal2023.html",
@@ -30,6 +26,10 @@
       "/publications/articles/smithetal2007.html",
       "/publications/articles/arifetal2007.html"
     ]
+  },
+  {
+    "listing": "/posts.html",
+    "items": []
   },
   {
     "listing": "/labmembers.html",
