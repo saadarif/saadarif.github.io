@@ -53,9 +53,10 @@ Current projects in the lab focus around the biology of UK butterflies. Currentl
 
 I routinely collaborate with ecologists or developmental biologists from the department of Biological and Medical Sciences at Oxford Brookes and beyond. Current collaborators include:
 
-- [Prof. Tim Shreeve](https://www.brookes.ac.uk/profiles/staff/tim-shreeve)
-- [Dr. Casper Breuker](https://www.brookes.ac.uk/profiles/staff/casper-breuker)
-- [The Centre for Funtional Genomics](https://www.brookes.ac.uk/research/units/hls/centres/centre-for-functional-genomics)
-- [Dr. Matt Bulbert](https://conflictecology.com/)
+- [Prof. Tim Shreeve](https://www.brookes.ac.uk/profiles/staff/tim-shreeve), Oxford Brookes University, UK Butterfly population and conservation genpmics
+- [The Centre for Funtional Genomics](https://www.brookes.ac.uk/research/units/hls/centres/centre-for-functional-genomics) at Oxford Brookes University
+- [Dr. Matt Bulbert](https://conflictecology.com/), Oxford Brookes University, continental-scale adaptive radiation in feather-legged assassin bugs
 - [Dr. Marco Campera](https://www.brookes.ac.uk/profiles/staff/marco-campera), Sustainable Agroforestry Group at Oxford Brookes University
-- [LepEU](lepeu.github.io)
+- [LepEU](lepeu.github.io), continental-scale Lepidoptera population genomics
+- [Dr. James Hogan](https://oumnh.ox.ac.uk/people/dr-james-hogan), Collections manager at OUMNH, museum genomics
+- [Geoff Martin](https://www.nhm.ac.uk/our-science/people/geoff-martin.html), Senrior Curator for Lepidoptera, NHM, museum genomics
