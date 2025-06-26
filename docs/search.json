@@ -396,7 +396,7 @@
     "href": "research.html#scope-of-our-research",
     "title": "InsectOmics Lab",
     "section": "Scope of Our Research",
-    "text": "Scope of Our Research\nWe work on and welcome research in all areas of invertebrate biology including ecology, evolution, morphology and conservation. Research in the lab is primarily curiosity-driven and usually best described as basic research. However, some of our work particularly in the area of conservation genomics, hopes to give something back to the organisms we work with, by evaluating and appraising the application of genomic research in conservation.\nMethodologically, we use genomic data, particularly population genomics and functional genomic approaches. However, where relevant I also use genome-editing and collaborate with ecologists and developmental biologists that work with various different tools and organisms (including vertebrates and occaisionally plants)."
+    "text": "Scope of Our Research\nWe work on and welcome research in all areas of organismal biology including ecology, evolution, morphology and conservation. Research in the lab is primarily curiosity-driven and usually best described as basic research. However, some of our work particularly in the area of conservation genomics, hopes to make more immediate impact, by evaluating and appraising the application of genomic research in conservation.\nMethodologically, we use genomic data, particularly population genomics and functional genomic approaches in observational studies. However, we are open to experimental approaches, where feasible, or through colloboration.\nWe are not restricted to working with any specific taxa, but most of our research does focus on invertebrates with an emphasis on butterflies."
   },
   {
     "objectID": "research.html#current-projects",
@@ -410,7 +410,7 @@
     "href": "research.html#colloborations",
     "title": "InsectOmics Lab",
     "section": "Colloborations",
-    "text": "Colloborations\nI routinely collaborate with ecologists or developmental biologists from the department of Biological and Medical Sciences at Oxford Brookes and beyond. Past and current collaborators include:\n\nProf. Tim Shreeve\nDr. Casper Breuker\nThe Centre for Funtional Genomics\nProf. Alistair McGregor, Dept. of Biology, Durham University, UK (also my PhD supervisor)\nDr. Matt Bulbert\nDr. Michael Gerth, German Centre for Integrative Biodiversity Research , Germany\nDr. Marco Campera, Sustainable Agroforestry Group at Oxford Brookes University"
+    "text": "Colloborations\nI routinely collaborate with ecologists or developmental biologists from the department of Biological and Medical Sciences at Oxford Brookes and beyond. Current collaborators include:\n\nProf. Tim Shreeve\nDr. Casper Breuker\nThe Centre for Funtional Genomics\nDr. Matt Bulbert\nDr. Marco Campera, Sustainable Agroforestry Group at Oxford Brookes University\nLepEU"
   },
   {
     "objectID": "index.html",
@@ -838,5 +838,12 @@
     "title": "Rebecca Whitla",
     "section": "",
     "text": "Home\n    People\n    Research Staff\n    Rebecca Whitla\n  \n\n\n  \n \n \n  \n   \n  \n    \n     twitter\n  \n\n\n\nRebecca completed her PhD thesis on The Role of Genetic Diversity and Inbreeding in an Extinct and a Declining Species of Lepidoptera in Britain, which investigates genomic erosion in a species as it approached local extinction (the Black-veined White butterfly) and genomic erosion over time in a butterfly species that has declined in recent history (the Wood White). Her main interests are conservation genetics and museomics, and how we can use museum specimens to inform conservation of declining species. She currently works for the Darwin Tree of Life Programme in Ireland and is based at University College Dublin.\nShe is the current Membership Officer for Ecological Genetics Group (special interest group of the British Ecological Society & Genetics Society)."
+  },
+  {
+    "objectID": "presentations.html#presentations-seminars-workshops-and-more",
+    "href": "presentations.html#presentations-seminars-workshops-and-more",
+    "title": "InsectOmics Lab",
+    "section": "Presentations, seminars, workshops and more",
+    "text": "Presentations, seminars, workshops and more\n\nResearch\n\nBiodiversity Genomics, 2024 (BG2024) - Talk title: The last days of Aporia crataegi L. in Britain: Evaluating genomic erosion in an extirpated butterfly. Slides\nBMS Summer Seminar, 2024, Oxford Brookes - Talk title: Highthroughput sequencing from museum samples. Slides\n\n\n\nTeaching\n\nOxford Brookes University International Teaching and Learning Conference 2025 - Workshop title: The PASS tutorial framework as an exemplar for standardising academic advising and improving academic advisor engagement. Slides\nAIDAN seminar series, 2024, Oxford Brookes - Talk title: Using R etc. in teaching and research.\n\n\n\nScience communication and data visualisation\nI like to dabble in alternative science communication and data viz. approaches when I can. You can find outputs of those projects here.\n\nScrollytelling experience for Last Days of Aporia crataegi project (best enjoyed on a desktop/laptop).\nShiny app for sharing research results on impact of non-timber forest prdoucts on biodiversity in Indonesia. In colloboration with Dr. Marco Campera and the Sustainable agroforestry group at Oxford Brookes"
   }
 ]

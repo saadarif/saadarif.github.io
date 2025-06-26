@@ -13,16 +13,25 @@ toc: true
 ```
 
 
-## Presentations and seminars
+## Presentations, seminars, workshops and more
+
+### Research
 
 -   [**Biodiversity Genomics, 2024 (BG2024)**](https://www.biodiversitygenomicsconference.org/) - *Talk title*: The last days of *Aporia crataegi* L. in Britain: Evaluating genomic erosion in an extirpated butterfly. [Slides](https://saadarif.github.io/BG2024/)
 
 -   **BMS Summer Seminar, 2024, Oxford Brookes** - *Talk title*: Highthroughput sequencing from museum samples. [Slides](saadarif.github.io/BMSSeminar2024/)
 
+
+### Teaching
+
+-   [**Oxford Brookes University International Teaching and Learning Conference 2025**](https://www.brookes.ac.uk/staff/working-at-brookes/learning-and-career-development/academic-enhancement-and-development/conferences/bitlc/programme) - *Workshop title*: The PASS tutorial framework as an
+exemplar for standardising academic advising and improving academic advisor engagement. [Slides](https://docs.google.com/presentation/d/1pGOPFJbvJsTDMbXLo19OxInlQd3mnB6tdtwSyYjuhaE/edit?usp=sharing)
+
+
 -   [**AIDAN seminar series, 2024, Oxford Brookes**](https://www.brookes.ac.uk/research/networks/artificial-intelligence-and-data) - *Talk title*: Using R etc. in teaching and research. 
 
 
-## Science communication and data visualisation
+### Science communication and data visualisation
 
 I like to dabble in alternative science communication and data viz. approaches when I can. You can find outputs of those projects here.
 

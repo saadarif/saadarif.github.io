@@ -14,9 +14,11 @@ toc: true
 
 ## Scope of Our Research
 
-We work on and welcome research in all areas of invertebrate biology including ecology, evolution, morphology and conservation. Research in the lab is primarily curiosity-driven and usually best described as [basic research](https://en.wikipedia.org/wiki/Basic_research). However, some of our work particularly in the area of conservation genomics, hopes to give something back to the organisms we work with, by evaluating  and appraising the application of genomic research in conservation. 
+We work on and welcome research in all areas of organismal biology including ecology, evolution, morphology and conservation. Research in the lab is primarily curiosity-driven and usually best described as [basic research](https://en.wikipedia.org/wiki/Basic_research). However, some of our work particularly in the area of conservation genomics, hopes to make more immediate impact, by evaluating  and appraising the application of genomic research in conservation. 
 
-Methodologically, we use genomic data, particularly [population genomics](https://en.wikipedia.org/wiki/Population_genomics#:~:text=Population%20genomics%20is%20a%20neologism,and%20demography%20of%20a%20population.) and [functional genomic](https://en.wikipedia.org/wiki/Functional_genomics) approaches. However, where relevant I also use genome-editing and collaborate with ecologists and developmental biologists that work with various different tools and organisms (including vertebrates and occaisionally plants).
+Methodologically, we use genomic data, particularly [population genomics](https://en.wikipedia.org/wiki/Population_genomics#:~:text=Population%20genomics%20is%20a%20neologism,and%20demography%20of%20a%20population.) and [functional genomic](https://en.wikipedia.org/wiki/Functional_genomics) approaches in observational studies. However, we are open to experimental approaches, where feasible, or through colloboration.
+
+We are not restricted to working with any specific taxa, but most of our research does focus on invertebrates with an emphasis on butterflies.
 
 ## Current Projects
 
@@ -49,12 +51,11 @@ Current projects in the lab focus around the biology of UK butterflies. Currentl
 
 ## Colloborations
 
-I routinely collaborate with ecologists or developmental biologists from the department of Biological and Medical Sciences at Oxford Brookes and beyond. Past and current collaborators include:
+I routinely collaborate with ecologists or developmental biologists from the department of Biological and Medical Sciences at Oxford Brookes and beyond. Current collaborators include:
 
 - [Prof. Tim Shreeve](https://www.brookes.ac.uk/profiles/staff/tim-shreeve)
 - [Dr. Casper Breuker](https://www.brookes.ac.uk/profiles/staff/casper-breuker)
 - [The Centre for Funtional Genomics](https://www.brookes.ac.uk/research/units/hls/centres/centre-for-functional-genomics)
-- [Prof. Alistair McGregor](http://www.mcgregor-evo-devo-lab.net/), Dept. of Biology, Durham University, UK (also my PhD supervisor)
 - [Dr. Matt Bulbert](https://conflictecology.com/)
-- [Dr. Michael Gerth](https://www.michaelgerth.net), German Centre for Integrative Biodiversity Research , Germany
 - [Dr. Marco Campera](https://www.brookes.ac.uk/profiles/staff/marco-campera), Sustainable Agroforestry Group at Oxford Brookes University
+- [LepEU](lepeu.github.io)
