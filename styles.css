@@ -34,7 +34,7 @@ img {
     flex: 1 1 auto;
     /* Allow images to grow and shrink */
     object-fit: cover;
-    box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+    /*box-shadow: 0 3px 10px rgb(0 0 0 / 0.2); */
     border-radius: 5px;
 }
 
