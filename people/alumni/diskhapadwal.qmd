@@ -4,7 +4,7 @@ sortby: "Padwal, Diskha"
 subtitle: "Undergrad Project Student"
 image: DikshaPadwal.jpg
 started: "Summer 2024"
-ended: "current"
+ended: "Spring 2025"
 toc: false
 about:
   id: person-profile
@@ -25,5 +25,7 @@ about:
 :::{#person-profile}
 
 I am Diksha Padwal, a 3rd year student studying Biological Sciences, Genetics, and Genomics. I am passionate about learning bioinformatics techniques and currently researching about Genomic Erosion in Butterfly Species in the United Kingdom for my research project.
+
+Diksha graudated and started a masters in Bioinformatics at King's College in London in September 2025. 
 
 :::
