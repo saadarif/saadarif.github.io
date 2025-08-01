@@ -15,7 +15,7 @@ toc: true
 
 ## Undergraduate courses
 
-As a lecturer at I teach a fair bit at the undergraduate level. However, the most important of these are following two modules I developed and lead:
+As a lecturer at I teach a fair bit at the undergraduate level. However, the most important, from a personal persepctive, of these are following two modules I developed and lead:
 
 -   **Data Carpentry**: Introduction R programming, reproducible research and linear models for 2nd-year Biology Undergraduates
 -   **Interrogating Genomes**: an introduction to genomics and bioinformatics for 2nd-year Biology Undergraduates

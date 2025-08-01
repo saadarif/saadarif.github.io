@@ -1,0 +1,28 @@
+---
+title: "Cameron Naismith-Robertson"
+sortby: "Naismith-Robertson, Cameron"
+subtitle: "MBIOL Student"
+image: cameron.jpg 
+started: "Summer 2025"
+ended: "current"
+toc: false
+about:
+  id: person-profile
+  template: jolla
+---
+  
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+  <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+  <li class="breadcrumb-item"><a href="../../labmembers.html">People</a></li>
+  <li class="breadcrumb-item active" aria-current="page">{{< meta title >}}</li>
+  </ol>
+  </nav>
+```
+
+:::{#person-profile}
+
+Cameron is a master’s student currently undertaking the integrated MBIOL degree in Biological Sciences at Oxford Brookes University. He has a previous background in control systems engineering but transitioned into biology to pursue his long-standing passion for the life sciences. His academic interests span genetics, genomics, evolution, and developmental biology, with a particular focus on computational techniques and applying these disciplines to modern challenges. For his master’s research project, Cameron is working on a metagenomics study of museum arthropod specimens (primarily butterflies) to investigate contamination signatures in sequencing data and age-related DNA degradation patterns.
+
+:::
