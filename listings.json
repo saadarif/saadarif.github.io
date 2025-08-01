@@ -1,7 +1,18 @@
 [
   {
-    "listing": "/posts.html",
-    "items": []
+    "listing": "/labmembers.html",
+    "items": [
+      "/people/staff/saadarif.html",
+      "/people/masters/cameronnaismith-robertson.html",
+      "/people/undergrad/rebeccajones.html",
+      "/people/alumni/rebeccaWhitla.html",
+      "/people/alumni/sarahrdalo.html",
+      "/people/alumni/reubenkumar.html",
+      "/people/alumni/willmillard.html",
+      "/people/alumni/diskhapadwal.html",
+      "/people/alumni/frankierackham.html",
+      "/people/alumni/edyrusso.html"
+    ]
   },
   {
     "listing": "/publications.html",
@@ -32,17 +43,7 @@
     ]
   },
   {
-    "listing": "/labmembers.html",
-    "items": [
-      "/people/staff/saadarif.html",
-      "/people/undergrad/rebeccajones.html",
-      "/people/alumni/rebeccaWhitla.html",
-      "/people/alumni/sarahrdalo.html",
-      "/people/alumni/reubenkumar.html",
-      "/people/alumni/willmillard.html",
-      "/people/alumni/diskhapadwal.html",
-      "/people/alumni/frankierackham.html",
-      "/people/alumni/edyrusso.html"
-    ]
+    "listing": "/posts.html",
+    "items": []
   }
 ]
