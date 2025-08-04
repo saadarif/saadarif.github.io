@@ -1,0 +1,29 @@
+---
+title: "Ryan Fisher"
+sortby: "Fisher, Ryan"
+subtitle: "Undergrad Project Student"
+image: ryanfisher.jpg 
+started: "Summer 2025"
+ended: "current"
+toc: false
+about:
+  id: person-profile
+  template: jolla
+---
+  
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+  <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+  <li class="breadcrumb-item"><a href="../../labmembers.html">People</a></li>
+  <!-- <li class="breadcrumb-item active">Alumni</li> -->
+  <li class="breadcrumb-item active" aria-current="page">{{< meta title >}}</li>
+  </ol>
+  </nav>
+```
+
+:::{#person-profile}
+
+Ryan is currently studying biological sciences at Oxford Brookes university specialising in genetics and data analysis. He is passionate about applying genetics and embryology to support animal conservation efforts. Outside academia Ryan enjoys reading and and rock climbing.
+
+:::
