@@ -3,7 +3,7 @@ title: "Pervasive microRNA Duplication in Chelicerates: Insights from the Embryo
 type: "article"
 author: "Leite, Ninova, Hilbrant, et al."
 year: "2016"
-publication: "Molecular Biology & Evolution"
+publication: "Genome Biology & Evolution"
 preprint: ""
 doi: "https://doi.org/10.1093/gbe/evw143"
 github: ""
