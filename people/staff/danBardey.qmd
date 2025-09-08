@@ -1,0 +1,35 @@
+---
+title: "Daniel Bardey"
+sortby: "2"
+subtitle: "PhD Student co-supervised with Matt Bulbert"
+image: danbardey.jpg
+toc: false
+started: "Sept 2022"
+ended: ""
+about:
+  id: person-profile
+  template: jolla
+---
+
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../../labmembers.html">People</a></li>
+    <li class="breadcrumb-item active">Research Staff</li>
+    <li class="breadcrumb-item active" aria-current="page">{{< meta title >}}</li>
+  </ol>
+</nav>
+```
+
+:::{#person-profile}
+:::
+
+The Feather-Legged Assassin Bugs (FLABs) are a remarkable ant-eating subfamily of
+Reduviidae, characterised by their unmistakable clusters of plumose hairs on the hind legs. The endemic Australian genus Ptilocnemus Westwood, 1840 is particularly unusual for thesubfamily as they exhibit an extraordinary shift in body size from just 3 mm to 11 mm. Ptilocnemus are widespread throughout Australia and found in all manner of Australia’s contrasting landscapes, from the iconic red centre to urban parks. Such pronounced variation in phenotype and habitat among closely related species may indicate that the group has undergone an adaptive radiation.
+Adaptive radiations are most often associated with isolated or fragmented environments such as lakes, mountains, or islands. The possibility that one has occurred across an entire continent is highly unusual and presents an exciting opportunity for study. Using integrated systematics, combining behavioural, taxonomic, and geospatial data with cutting-edge whole-
+genome sequencing, we are aiming to unravel the evolutionary drivers and niche adaptations of Ptilocnemus.
+
+Dan is undertaking this  multidisciplinary project for his PhD supervised by behavioural ecologist Dr. Matthew Bulbert (Conflict Ecology Lab) in collaboration with Dr. Saad Arif (Insectomics Lab) and taxonomic expertise from Prof. Christiane Weirauch (Heteropteran Systematics Lab, University of California Riverside).
+

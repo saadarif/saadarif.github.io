@@ -1,0 +1,34 @@
+---
+title: "Nyah Grewal"
+sortby: "Grewal, Nyhah"
+subtitle: "Undergrad Project Student"
+image: nyah.png 
+started: "Summer 2025"
+ended: "current"
+toc: false
+about:
+  id: person-profile
+  template: jolla
+---
+  
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+  <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+  <li class="breadcrumb-item"><a href="../../labmembers.html">People</a></li>
+  <!-- <li class="breadcrumb-item active">Alumni</li> -->
+  <li class="breadcrumb-item active" aria-current="page">{{< meta title >}}</li>
+  </ol>
+  </nav>
+```
+
+:::{#person-profile}
+
+Nyah Grewal is a final year Biological Sciences: Genetics and Genomics student with strong interests in bioinformatics techniques and data analysis. Her academic focus extends to conservation and genomic research with hopes to apply computational approaches to aid health and disease solutions.
+ 
+She is currently involved in an undergraduate research project with aims to investigate Wolbachia infection in feathered-leg assassin bugs.
+
+
+Outside of education, Nyah’s hobbies include walks in nature with her dogs, running, tennis, an interest in commercial aviation and watching Formula 1
+
+:::
