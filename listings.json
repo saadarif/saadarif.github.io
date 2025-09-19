@@ -4,24 +4,6 @@
     "items": []
   },
   {
-    "listing": "/labmembers.html",
-    "items": [
-      "/people/staff/saadarif.html",
-      "/people/staff/danBardey.html",
-      "/people/masters/cameronnaismith-robertson.html",
-      "/people/undergrad/ryanfisher.html",
-      "/people/undergrad/nyahgrewal.html",
-      "/people/undergrad/rebeccajones.html",
-      "/people/alumni/rebeccaWhitla.html",
-      "/people/alumni/sarahrdalo.html",
-      "/people/alumni/reubenkumar.html",
-      "/people/alumni/willmillard.html",
-      "/people/alumni/diskhapadwal.html",
-      "/people/alumni/frankierackham.html",
-      "/people/alumni/edyrusso.html"
-    ]
-  },
-  {
     "listing": "/publications.html",
     "items": [
       "/publications/articles/gonzalezetal2023.html",
@@ -47,6 +29,25 @@
       "/publications/articles/arifetal2009.html",
       "/publications/articles/smithetal2007.html",
       "/publications/articles/arifetal2007.html"
+    ]
+  },
+  {
+    "listing": "/labmembers.html",
+    "items": [
+      "/people/staff/saadarif.html",
+      "/people/staff/danBardey.html",
+      "/people/masters/cameronnaismith-robertson.html",
+      "/people/undergrad/ryanfisher.html",
+      "/people/undergrad/nyahgrewal.html",
+      "/people/undergrad/nour.html",
+      "/people/undergrad/rebeccajones.html",
+      "/people/alumni/rebeccaWhitla.html",
+      "/people/alumni/sarahrdalo.html",
+      "/people/alumni/reubenkumar.html",
+      "/people/alumni/willmillard.html",
+      "/people/alumni/diskhapadwal.html",
+      "/people/alumni/frankierackham.html",
+      "/people/alumni/edyrusso.html"
     ]
   }
 ]
