@@ -1,0 +1,28 @@
+---
+title: "Noureddin Ismail"
+sortby: "Ismail, Noureddin"
+subtitle: "Undergrad Project Student"
+image: nour.jpg 
+started: "Summer 2025"
+ended: "current"
+toc: false
+about:
+  id: person-profile
+  template: jolla
+---
+  
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+  <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+  <li class="breadcrumb-item"><a href="../../labmembers.html">People</a></li>
+  <!-- <li class="breadcrumb-item active">Alumni</li> -->
+  <li class="breadcrumb-item active" aria-current="page">{{< meta title >}}</li>
+  </ol>
+  </nav>
+```
+
+:::{#person-profile}
+
+I am an undergraduate Biological Sciences student specialising in Genetics and Genomics. My academic interests lie in bioinformatics, population substructure and bioinformatics. I am currently researching the Jordanian population substructure for my research project. Beyond my studies, I take part in the Arab Society and enjoy playing football.
+:::

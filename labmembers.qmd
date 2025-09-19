@@ -68,7 +68,7 @@ listing:
 
 ## Undergraduates
 
-Current undergraduates working on Projects involving butterfly/invertebrate genetics/genomics are listed here.
+Current undergraduates working on genetics/genomics projects are listed here.
 
 :::{#undergrads}
 :::
