@@ -12,13 +12,14 @@ toc: true
 </nav>
 ```
 
-## Scope of Our Research
+## Scope of Research
 
-We work on and welcome research in all areas of organismal biology including ecology, evolution, morphology and conservation. Research in the lab is primarily curiosity-driven and usually best described as [basic research](https://en.wikipedia.org/wiki/Basic_research). However, some of our work particularly in the area of conservation genomics, hopes to make more immediate impact, by evaluating  and appraising the application of genomic research in conservation. 
+I have seemingly broad interests in evolution, ecology and development. However, underpinning this broad spectrum of sub-disciplines is a singular interest in origins and maintenance of biological diversity at multiple levels (genetic, phenotypic and the connection between the two or the genotype-to-phenotype map) and scales (populations, species) 
 
-Methodologically, we use genomic data, particularly [population genomics](https://en.wikipedia.org/wiki/Population_genomics#:~:text=Population%20genomics%20is%20a%20neologism,and%20demography%20of%20a%20population.) and [functional genomic](https://en.wikipedia.org/wiki/Functional_genomics) approaches in observational studies. However, we are open to experimental approaches, where feasible, or through colloboration.
 
-We are not restricted to working with any specific taxa, but most of our research does focus on invertebrates with an emphasis on butterflies.
+Methodologically, we use genomic approaches, particularly [population genomics](https://en.wikipedia.org/wiki/Population_genomics#:~:text=Population%20genomics%20is%20a%20neologism,and%20demography%20of%20a%20population.) and [functional genomic](https://en.wikipedia.org/wiki/Functional_genomics) approaches in observational studies. However, we are open to experimental approaches, where feasible, or through collaboration.
+
+We are not restricted to working with any specific taxa, but current research does focus on invertebrates with an emphasis on butterflies.
 
 ## Current Projects
 
