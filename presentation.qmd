@@ -1,0 +1,139 @@
+---
+title: "My Presentation"
+subtitle: "A Quarto Reveal.js Presentation"
+author: "Your Name"
+date: "September 30, 2025"
+format:
+  revealjs:
+    theme: default
+    slide-number: true
+    chalkboard: true
+    preview-links: auto
+    logo: ""
+    footer: "My Presentation Footer"
+    transition: slide
+    background-transition: fade
+    highlight-style: github
+    code-line-numbers: false
+    code-overflow: wrap
+editor: visual
+---
+
+## Introduction
+
+Welcome to your Quarto Reveal.js presentation!
+
+- Point one
+- Point two
+- Point three
+
+::: {.notes}
+Speaker notes go here.
+:::
+
+## Slide with R Code
+
+```{r}
+#| echo: true
+#| fig-width: 8
+#| fig-height: 4
+
+# Example R code
+library(ggplot2)
+mtcars |>
+  ggplot(aes(x = wt, y = mpg)) +
+  geom_point() +
+  geom_smooth(method = "lm") +
+  labs(title = "Car Weight vs. MPG",
+       x = "Weight (1000 lbs)",
+       y = "Miles Per Gallon")
+```
+
+## Incremental Lists {.incremental}
+
+- First item
+- Second item  
+- Third item
+
+## Two Column Layout
+
+:::: {.columns}
+
+::: {.column width="50%"}
+### Left Column
+- Item A
+- Item B
+- Item C
+:::
+
+::: {.column width="50%"}
+### Right Column
+- Item 1
+- Item 2
+- Item 3
+:::
+
+::::
+
+## Fragment Examples
+
+::: {.fragment}
+Fade in
+:::
+
+::: {.fragment .fade-out}
+Fade out
+:::
+
+::: {.fragment .highlight-red}
+Highlight red
+:::
+
+::: {.fragment .fade-in-then-semi-out}
+Fade in, then semi out
+:::
+
+## Math Equations
+
+When $a \ne 0$, there are two solutions to $(ax^2 + bx + c = 0)$:
+
+$$x = \frac{-b \pm \sqrt{b^2-4ac}}{2a}$$
+
+## Images and Media
+
+![Quarto Logo](https://quarto.org/quarto.png){width="300"}
+
+## Tabset Panel {.tabset}
+
+### Tab A
+
+Content for Tab A
+
+### Tab B
+
+Content for Tab B
+
+### Tab C
+
+Content for Tab C
+
+## Code with Output
+
+```{r}
+#| echo: true
+
+# Summary statistics
+summary(mtcars$mpg)
+```
+
+## Thank You! {.center}
+
+### Questions?
+
+**Contact Information:**
+- Email: your.email@example.com
+- Website: yourwebsite.com
+
+::: {.notes}
+Thank the audience and open for questions.
+:::
