@@ -1,31 +1,24 @@
 [
   {
-    "objectID": "publications/articles/hagenetal2021.html",
-    "href": "publications/articles/hagenetal2021.html",
-    "title": "Unraveling the Genetic Basis for the Rapid Diversification of Male Genitalia between Drosophila Species",
+    "objectID": "publications/articles/whitlaetal2023.html",
+    "href": "publications/articles/whitlaetal2023.html",
+    "title": "The last days of Aporia crataegi (L.) in Britain: evaluating genomic erosion in an extirpated butterfly",
     "section": "",
-    "text": "Hagen, J. F. D., Mendes, C. C., Booth, S. R., Figueras Jimenez, J., Tanaka, K. M., Franke, F. A., Baudouin-Gonzalez, L., Ridgway, A. M., Arif, S., Nunes, M. D. S., & McGregor, A. P. (2021). Unraveling the Genetic Basis for the Rapid Diversification of Male Genitalia between Drosophila Species. Molecular Biology and Evolution, 38(2), 437–448. https://doi.org/10.1093/molbev/msaa232"
+    "text": "Whitla, R., Hens, K., Hogan, J., Martin, G., Breuker, C., Shreeve, T. G., & Arif, S. (2024). The last days of Aporia crataegi (L.) in Britain: Evaluating genomic erosion in an extirpated butterfly. Molecular Ecology, 33, e17518. https://doi.org/10.1111/mec.17518"
   },
   {
-    "objectID": "publications/articles/hagenetal2021.html#citation",
-    "href": "publications/articles/hagenetal2021.html#citation",
-    "title": "Unraveling the Genetic Basis for the Rapid Diversification of Male Genitalia between Drosophila Species",
+    "objectID": "publications/articles/whitlaetal2023.html#citation",
+    "href": "publications/articles/whitlaetal2023.html#citation",
+    "title": "The last days of Aporia crataegi (L.) in Britain: evaluating genomic erosion in an extirpated butterfly",
     "section": "",
-    "text": "Hagen, J. F. D., Mendes, C. C., Booth, S. R., Figueras Jimenez, J., Tanaka, K. M., Franke, F. A., Baudouin-Gonzalez, L., Ridgway, A. M., Arif, S., Nunes, M. D. S., & McGregor, A. P. (2021). Unraveling the Genetic Basis for the Rapid Diversification of Male Genitalia between Drosophila Species. Molecular Biology and Evolution, 38(2), 437–448. https://doi.org/10.1093/molbev/msaa232"
+    "text": "Whitla, R., Hens, K., Hogan, J., Martin, G., Breuker, C., Shreeve, T. G., & Arif, S. (2024). The last days of Aporia crataegi (L.) in Britain: Evaluating genomic erosion in an extirpated butterfly. Molecular Ecology, 33, e17518. https://doi.org/10.1111/mec.17518"
   },
   {
-    "objectID": "publications/articles/hagenetal2021.html#abstract",
-    "href": "publications/articles/hagenetal2021.html#abstract",
-    "title": "Unraveling the Genetic Basis for the Rapid Diversification of Male Genitalia between Drosophila Species",
+    "objectID": "publications/articles/whitlaetal2023.html#abstract",
+    "href": "publications/articles/whitlaetal2023.html#abstract",
+    "title": "The last days of Aporia crataegi (L.) in Britain: evaluating genomic erosion in an extirpated butterfly",
     "section": "Abstract",
-    "text": "Abstract\nIn the last 240,000 years, males of the Drosophila simulans species clade have evolved striking differences in the morphology of their epandrial posterior lobes and claspers (surstyli). These appendages are used for grasping the female during mating and so their divergence is most likely driven by sexual selection. Mapping studies indicate a highly polygenic and generally additive genetic basis for these morphological differences. However, we have limited understanding of the gene regulatory networks that control the development of genital structures and how they evolved to result in this rapid phenotypic diversification. Here, we used new D. simulans/D. mauritiana introgression lines on chromosome arm 3L to generate higher resolution maps of posterior lobe and clasper differences between these species. We then carried out RNA-seq on the developing genitalia of both species to identify the expressed genes and those that are differentially expressed between the two species. This allowed us to test the function of expressed positional candidates during genital development in D. melanogaster. We identified several new genes involved in the development and possibly the evolution of these genital structures, including the transcription factors Hairy and Grunge. Furthermore, we discovered that during clasper development Hairy negatively regulates tartan (trn), a gene known to contribute to divergence in clasper morphology. Taken together, our results provide new insights into the regulation of genital development and how this has evolved between species."
-  },
-  {
-    "objectID": "publications/articles/gonzalezetal2023.html#abstract",
-    "href": "publications/articles/gonzalezetal2023.html#abstract",
-    "title": "Development and patterning of a highly versatile visual system in spiders",
-    "section": "Abstract",
-    "text": "Abstract\nVisual systems provide a key interface between organisms and their surroundings, and have evolved in many forms to perform diverse functions across the animal kingdom. Spiders exhibit a range of visual abilities and ecologies, the diversity of which is underpinned by a highly versatile, modular visual system architecture. This typically includes eight eyes of two developmentally distinct types, but the number, size, location, and function of the eyes can vary dramatically between lineages. Previous studies of visual system development in spiders have confirmed that many components of the retinal determination gene (RDG) network are conserved with other arthropods, but so far, comparative studies among spiders are lacking. We characterised visual system development in eight species of spiders representing a range of morphologies, visual ecologies, and phylogenetic positions, to determine how these diverse configurations are formed, and how they might evolve. Combining synchrotron radiation tomography, transcriptomics, in situ hybridisation, and selection analyses, we characterise the repertoires and expression of key RDGs in relation to adult morphology. We identify key molecular players, timepoints, and developmental events that may contribute to adult diversity, in particular the molecular and developmental underpinnings of eye size, number, position, and identity across spiders."
+    "text": "Abstract\nCurrent rates of habitat degradation and climate change are causing unprecedented declines in global biodiversity. Studies on vertebrates highlight how conservation genomics can be effective in identifying and managing threatened populations, but it is unclear how vertebrate-derived metrics of genomic erosion translate to invertebrates, with their markedly different population sizes and life histories. The Black-veined White butterfly (Aporia crataegi) was extirpated from Britain in the 1920s. Here, we sequenced historical DNA from 17 specimens collected between 1854 and 1924 to reconstruct demography and compare levels of genomic erosion between extirpated British and extant European mainland populations. We contrast these results using modern samples of the Common Blue butterfly (Polyommatus icarus); a species with relatively stable demographic trends in Great Britain. We provide evidence for bottlenecks in both these species around the period of post-glacial colonization of the British Isles. Our results reveal different demographic histories and Ne for both species, consistent with their fates in Britain, likely driven by differences in life history, ecology and genome size. Despite a difference, by an order of magnitude, in historical effective population sizes (Ne), reduction in genome-wide heterozygosity in A. crataegi was comparable to that in P. icarus. Symptomatic of A. crataegi’s disappearance were marked increases in runs-of-homozygosity (RoH), potentially indicative of recent inbreeding, and accumulation of putatively mildly and weakly deleterious variants. Our results provide a rare glimpse of genomic erosion in a regionally extinct insect and support the potential use of genomic erosion metrics in identifying invertebrate populations or species in decline."
   },
   {
     "objectID": "publications/articles/arifetal2007.html",
@@ -49,88 +42,53 @@
     "text": "Abstract\nQuestion: What ecological and evolutionary processes are important in maintaining parapatric distributions of sibling species?\nHypotheses: Previous research has suggested that competition is a likely factor limiting species distributions and maintaining parapatric distributions. Alternatively, abiotic restrictions such as climatic factors and local adaptation can also limit species’ ranges.\nOrganisms: Plethodon hubrichti, a mountaintop endemic salamander, has an extremely limited geographic range that is entirely surrounded by the widespread Plethodon cinereus. Previous studies have suggested that P. hubrichti may be geographically restricted as a result of interspecific competition with P. cinereus.\nMethods: We studied the relationship between trophic morphology and diet in allopatric and sympatric populations to examine the effect of exploitative competition on geographic distribution. Behavioural experiments were conducted in the laboratory to determine the effects of interference competition. We complemented these analyses with bioclimatic modelling of species’ ranges and climate–phenotype correlations to examine the abiotic impact.\nResults: Our results suggest that aggressive interactions with P. hubrichti restrict the distribution of P. cinereus"
   },
   {
-    "objectID": "publications/articles/livraghetal2017.html",
-    "href": "publications/articles/livraghetal2017.html",
-    "title": "CRISPR/Cas9 as the Key to Unlocking the Secrets of Butterfly Wing Pattern Development and Its Evolution",
+    "objectID": "publications/articles/arifetal2021.html",
+    "href": "publications/articles/arifetal2021.html",
+    "title": "Evidence for multiple colonisations and Wolbachia infections shaping the genetic structure of the widespread butterfly Polyommatus icarus in the British Isles",
     "section": "",
-    "text": "Livraghi, L., Martin, A., Gibbs, M., Braak, N., Arif, S., & Breuker, C. J. (2018). CRISPR/Cas9 as the Key to Unlocking the Secrets of Butterfly Wing Pattern Development and Its Evolution. In R. H. ffrench-Constant (Ed.), Advances in Insect Physiology (Vol. 54, pp. 85–115). Academic Press. https://doi.org/10.1016/bs.aiip.2017.11.001"
+    "text": "Arif, S., Gerth, M., Hone-Millard, W. G., Nunes, M. D. S., Dapporto, L., & Shreeve, T. G. (2021). Evidence for multiple colonisations and Wolbachia infections shaping the genetic structure of the widespread butterfly Polyommatus icarus in the British Isles. Molecular Ecology, 30(20), 5196–5213. https://doi.org/10.1111/mec.16126"
   },
   {
-    "objectID": "publications/articles/livraghetal2017.html#citation",
-    "href": "publications/articles/livraghetal2017.html#citation",
-    "title": "CRISPR/Cas9 as the Key to Unlocking the Secrets of Butterfly Wing Pattern Development and Its Evolution",
+    "objectID": "publications/articles/arifetal2021.html#citation",
+    "href": "publications/articles/arifetal2021.html#citation",
+    "title": "Evidence for multiple colonisations and Wolbachia infections shaping the genetic structure of the widespread butterfly Polyommatus icarus in the British Isles",
     "section": "",
-    "text": "Livraghi, L., Martin, A., Gibbs, M., Braak, N., Arif, S., & Breuker, C. J. (2018). CRISPR/Cas9 as the Key to Unlocking the Secrets of Butterfly Wing Pattern Development and Its Evolution. In R. H. ffrench-Constant (Ed.), Advances in Insect Physiology (Vol. 54, pp. 85–115). Academic Press. https://doi.org/10.1016/bs.aiip.2017.11.001"
+    "text": "Arif, S., Gerth, M., Hone-Millard, W. G., Nunes, M. D. S., Dapporto, L., & Shreeve, T. G. (2021). Evidence for multiple colonisations and Wolbachia infections shaping the genetic structure of the widespread butterfly Polyommatus icarus in the British Isles. Molecular Ecology, 30(20), 5196–5213. https://doi.org/10.1111/mec.16126"
   },
   {
-    "objectID": "publications/articles/livraghetal2017.html#abstract",
-    "href": "publications/articles/livraghetal2017.html#abstract",
-    "title": "CRISPR/Cas9 as the Key to Unlocking the Secrets of Butterfly Wing Pattern Development and Its Evolution",
+    "objectID": "publications/articles/arifetal2021.html#abstract",
+    "href": "publications/articles/arifetal2021.html#abstract",
+    "title": "Evidence for multiple colonisations and Wolbachia infections shaping the genetic structure of the widespread butterfly Polyommatus icarus in the British Isles",
     "section": "Abstract",
-    "text": "Abstract\nWith the exception of a few moth and butterfly species, gene-editing tools in Lepidoptera have been lagging behind other well-studied insects. In order to elucidate gene function across the order, it is necessary to establish tools that enable such gene manipulation. CRISPR/Cas9 is a promising technique and here we review the recent progress made in implementing the technique in butterflies; from broad patterning of the wing, to the development of specific colours in particular wing sections, to eyespot formation. The often species-specific responses to the CRISPR/Cas9-induced mutations in candidate genes, underscore the significance of these genes in the wide evolutionary diversification of butterfly wing patterns. We further discuss potential caveats in the interpretation of the resulting mutant phenotypes obtained through CRISPR/Cas9 gene editing. Finally, we discuss the possibilities CRISPR/Cas9 offers beyond mere knockout of candidate genes, including the potential for the generation of transgenics that will further elucidate the developmental genetic basis for wing pattern evolution."
+    "text": "Abstract\nThe paradigm of isolation in southern refugia during glacial periods followed by expansions during interglacials, producing limited genetic differentiation in northern areas, dominates European phylogeography. However, the existence of complex structured populations in formerly glaciated areas, and islands connected to mainland areas during glacial maxima, call for alternative explanations. We reconstructed the mtDNA phylogeography of the widespread Polyommatus Icarus butterfly with an emphasis on the formerly glaciated and connected British Isles. We found distinct geographical structuring of CO1 haplogroups, with an ancient lineage restricted to the marginal European areas, including Northern Scotland and Outer Hebrides. Population genomic analyses, using ddRADSeq genomic markers, also reveal substantial genetic structuring within Britain. However, there is negligble mito-nuclear concordance consistent with independent demographic histories of mitochondrial versus nuclear DNA. While mtDNA-Wolbachia associations in northern Britain could account for the geographic structuring of mtDNA across most of the British Isles, for nuclear DNA markers (derived from ddRADseq data) butterflies from France cluster between northern and southern British populations – an observation consistent with a scenario of multiple recolonisation. Taken together our results suggest that contemporary mtDNA structuring in the British Isles (and potentially elsewhere in Europe) largely results from Wolbachia infections, however, nuclear genomic structuring suggests a history of at least two distinct colonisations. This two-stage colonisation scenario has previously been put forth to explain genetic diversity and structuring in other British flora and fauna. Additionally, we also present preliminary evidence for potential Wolbachia-induced feminization in the Outer Hebrides."
   },
   {
-    "objectID": "publications/articles/gasparetal2019.html",
-    "href": "publications/articles/gasparetal2019.html",
-    "title": "Characterization of the Genetic Architecture Underlying Eye Size Variation Within Drosophila melanogaster and Drosophila simulans",
+    "objectID": "publications/articles/arifetal2013b.html",
+    "href": "publications/articles/arifetal2013b.html",
+    "title": "Evolution of mir-92a underlies natural morphological variation in Drosophila melanogaster",
     "section": "",
-    "text": "Gaspar, P., Arif, S., Sumner-Rooney, L., Kittelmann, M., Bodey, A. J., Stern, D. L., Nunes, M. D. S., & McGregor, A. P. (2020). Characterization of the Genetic Architecture Underlying Eye Size Variation Within Drosophila melanogaster and Drosophila simulans. G3: Genes, Genomes, Genetics, 10(3), 1005–1018. https://doi.org/10.1534/g3.119.400877"
+    "text": "Arif, S., Murat, S., Almudi, I., Nunes, M. D., Bortolamiol-Becet, D., McGregor, N. S., Currie, J. M., Hughes, H., Ronshaugen, M., Sucena, E., Lai, E. C., Schlotterer, C., & McGregor, A. P. (2013). Evolution of mir-92a underlies natural morphological variation in Drosophila melanogaster. Curr Biol, 23, 523–528. https://doi.org/10.1016/j.cub.2013.02.018"
   },
   {
-    "objectID": "publications/articles/gasparetal2019.html#citation",
-    "href": "publications/articles/gasparetal2019.html#citation",
-    "title": "Characterization of the Genetic Architecture Underlying Eye Size Variation Within Drosophila melanogaster and Drosophila simulans",
+    "objectID": "publications/articles/arifetal2013b.html#citation",
+    "href": "publications/articles/arifetal2013b.html#citation",
+    "title": "Evolution of mir-92a underlies natural morphological variation in Drosophila melanogaster",
     "section": "",
-    "text": "Gaspar, P., Arif, S., Sumner-Rooney, L., Kittelmann, M., Bodey, A. J., Stern, D. L., Nunes, M. D. S., & McGregor, A. P. (2020). Characterization of the Genetic Architecture Underlying Eye Size Variation Within Drosophila melanogaster and Drosophila simulans. G3: Genes, Genomes, Genetics, 10(3), 1005–1018. https://doi.org/10.1534/g3.119.400877"
+    "text": "Arif, S., Murat, S., Almudi, I., Nunes, M. D., Bortolamiol-Becet, D., McGregor, N. S., Currie, J. M., Hughes, H., Ronshaugen, M., Sucena, E., Lai, E. C., Schlotterer, C., & McGregor, A. P. (2013). Evolution of mir-92a underlies natural morphological variation in Drosophila melanogaster. Curr Biol, 23, 523–528. https://doi.org/10.1016/j.cub.2013.02.018"
   },
   {
-    "objectID": "publications/articles/gasparetal2019.html#abstract",
-    "href": "publications/articles/gasparetal2019.html#abstract",
-    "title": "Characterization of the Genetic Architecture Underlying Eye Size Variation Within Drosophila melanogaster and Drosophila simulans",
-    "section": "Abstract",
-    "text": "Abstract\nThe compound eyes of insects exhibit striking variation in size, reflecting adaptation to different lifestyles and habitats. However, the genetic and developmental bases of variation in insect eye size is poorly understood, which limits our understanding of how these important morphological differences evolve. To address this, we further explored natural variation in eye size within and between four species of the Drosophila melanogaster species subgroup. We found extensive variation in eye size among these species, and flies with larger eyes generally had a shorter inter-ocular distance and vice versa. We then carried out quantitative trait loci (QTL) mapping of intra-specific variation in eye size and inter-ocular distance in both D. melanogaster and D. simulans. This revealed that different genomic regions underlie variation in eye size and inter-ocular distance in both species, which we corroborated by introgression mapping in D. simulans. This suggests that although there is a trade-off between eye size and inter-ocular distance, variation in these two traits is likely to be caused by different genes and so can be genetically decoupled. Finally, although we detected QTL for intra-specific variation in eye size at similar positions in D. melanogaster and D. simulans, we observed differences in eye fate commitment between strains of these two species. This indicates that different developmental mechanisms and therefore, most likely, different genes contribute to eye size variation in these species. Taken together with the results of previous studies, our findings suggest that the gene regulatory network that specifies eye size has evolved at multiple genetic nodes to give rise to natural variation in this trait within and among species."
+    "objectID": "publications/articles/arifetal2013b.html#summary",
+    "href": "publications/articles/arifetal2013b.html#summary",
+    "title": "Evolution of mir-92a underlies natural morphological variation in Drosophila melanogaster",
+    "section": "Summary",
+    "text": "Summary\nIdentifying the genetic mechanisms underlying phenotypic change is essential to understanding how gene regulatory networks and ultimately the genotype-to-phenotype map evolve. It is recognized that microRNAs (miRNAs) have the potential to facilitate evolutionary change [1, 2, 3]; however, there are no known examples of natural morphological variation caused by evolutionary changes in miRNA expression. Therefore, the contribution of miRNAs to evolutionary change remains unknown [1, 4]. Drosophila melanogaster subgroup species display a portion of trichome-free cuticle on the femur of the second leg called the “naked valley.” It was previously shown that Ultrabithorax (Ubx) is involved in naked valley variation between D. melanogaster and D. simulans [5, 6]. However, naked valley size also varies among populations of D. melanogaster, ranging from 1,000 up to 30,000 μm2. We investigated the genetic basis of intraspecific differences in the naked valley in D. melanogaster and found that neither Ubx nor shavenbaby (svb) [7, 8] contributes to this morphological difference. Instead, we show that changes in mir-92a expression underlie the evolution of naked valley size in D. melanogaster through repression of shavenoid (sha) [9]. Therefore, our results reveal a novel mechanism for morphological evolution and suggest that modulation of the expression of miRNAs potentially plays a prominent role in generating organismal diversity."
   },
   {
-    "objectID": "publications/articles/arifetal2009.html",
-    "href": "publications/articles/arifetal2009.html",
-    "title": "Evolutionary diversification of opercle shape in Cook Inlet threespine stickleback",
-    "section": "",
-    "text": "Arif, S., Aguirre, W. E., & Bell, M. A. (2009). Evolutionary diversification of opercle shape in Cook Inlet threespine stickleback. Biological Journal of the Linnean Society, 97, 832–844."
-  },
-  {
-    "objectID": "publications/articles/arifetal2009.html#citation",
-    "href": "publications/articles/arifetal2009.html#citation",
-    "title": "Evolutionary diversification of opercle shape in Cook Inlet threespine stickleback",
-    "section": "",
-    "text": "Arif, S., Aguirre, W. E., & Bell, M. A. (2009). Evolutionary diversification of opercle shape in Cook Inlet threespine stickleback. Biological Journal of the Linnean Society, 97, 832–844."
-  },
-  {
-    "objectID": "publications/articles/arifetal2009.html#abstract",
-    "href": "publications/articles/arifetal2009.html#abstract",
-    "title": "Evolutionary diversification of opercle shape in Cook Inlet threespine stickleback",
-    "section": "Abstract",
-    "text": "Abstract\nWe investigated the evolution of a large facial bone, the opercle (OP), in lake populations of the threespine stickleback that were founded by anadromous ancestors, in Cook Inlet, Alaska. Recent studies characterized OP variation among marine and lake populations and mapped a quantitative trait locus with a large influence on OP shape. Using populations from diverse environments and independent evolutionary histories, we examined divergence of OP shape from that of the anadromous ancestor. We report preliminary evidence for divergence between benthic and generalist lake ecotypes, necessitating further investigation. Furthermore, rapid divergence of OP shape has occurred in a lake population that was founded by anadromous stickleback in the 1980s, which is consistent with divergence of other phenotypic traits and with OP diversification in other lake populations. By contrast, there has been limited evolution of OP shape in a second lake population that may have experienced a genetic bottleneck early in its history and lacks genetic variation for OP divergence. Taken together, the results obtained from these two populations are consistent with studies of other stickleback phenotypic traits that implicate ancestral variation in postglacial adaptive radiation of threespine stickleback in fresh water."
-  },
-  {
-    "objectID": "publications/articles/wiensetal2010.html",
-    "href": "publications/articles/wiensetal2010.html",
-    "title": "Phylogenetic relationships of phrynosomatid lizards based on nuclear and mitochondrial data, and a revised phylogeny for Sceloporus",
-    "section": "",
-    "text": "Wiens, J. J., Kuczynski, C. A., Arif, S., & Reeder, T. W. (2010). Phylogenetic relationships of phrynosomatid lizards based on nuclear and mitochondrial data, and a revised phylogeny for Sceloporus. Molecular Phylogenetics and Evolution, 54(1), 150–161. https://doi.org/10.1016/j.ympev.2009.09.008"
-  },
-  {
-    "objectID": "publications/articles/wiensetal2010.html#citation",
-    "href": "publications/articles/wiensetal2010.html#citation",
-    "title": "Phylogenetic relationships of phrynosomatid lizards based on nuclear and mitochondrial data, and a revised phylogeny for Sceloporus",
-    "section": "",
-    "text": "Wiens, J. J., Kuczynski, C. A., Arif, S., & Reeder, T. W. (2010). Phylogenetic relationships of phrynosomatid lizards based on nuclear and mitochondrial data, and a revised phylogeny for Sceloporus. Molecular Phylogenetics and Evolution, 54(1), 150–161. https://doi.org/10.1016/j.ympev.2009.09.008"
-  },
-  {
-    "objectID": "publications/articles/wiensetal2010.html#abstract",
-    "href": "publications/articles/wiensetal2010.html#abstract",
-    "title": "Phylogenetic relationships of phrynosomatid lizards based on nuclear and mitochondrial data, and a revised phylogeny for Sceloporus",
-    "section": "Abstract",
-    "text": "Abstract\nPhrynosomatid lizards are among the most common and diverse groups of reptiles in western North America, Mexico, and Central America. Phrynosomatidae includes 136 species in 10 genera. Phrynosomatids are used as model systems in many research programs in evolution and ecology, and much of this research has been undertaken in a comparative phylogenetic framework. However, relationships among many phrynosomatid genera are poorly supported and in conflict between recent studies. Further, previous studies based on mitochondrial DNA sequences suggested that the most species-rich genus (Sceloporus) is possibly paraphyletic with respect to as many as four other genera (Petrosaurus, Sator, Urosaurus, and Uta). Here, we collect new sequence data from five nuclear genes and combine them with published data from one additional nuclear gene and five mitochondrial gene regions. We compare trees from nuclear and mitochondrial data from 37 phrynosomatid taxa, including a “species tree” (from BEST) for the nuclear data. We also present a phylogeny for 122 phrynosomatid species based on maximum likelihood analysis of the combined data, which provides a strongly-supported hypothesis for relationships among most phrynosomatid genera and includes most phrynosomatid species. Our results strongly support the monophyly of Sceloporus (including Sator) and many of the relationships within it. We present a new classification for phrynosomatid lizards and the genus Sceloporus, and offer a new tree with branch lengths for use in comparative studies.n item to its correct category without guessing. Whereas Van Oest showed this interpretation for unweighted agreement, we generalize to weighted agreement."
+    "objectID": "publications/articles/arifetal2013b.html#highlights",
+    "href": "publications/articles/arifetal2013b.html#highlights",
+    "title": "Evolution of mir-92a underlies natural morphological variation in Drosophila melanogaster",
+    "section": "Highlights",
+    "text": "Highlights\n\nmir-92a represses shavenoid in the posterior femur to modulate naked valley size\ncis-regulatory changes in mir-92a cause the evolution of morphology in Drosophila\nTrichome pattern changes are caused by different regulatory factors\nChanges in miRNA expression might play a prominent role in phenotypic change"
   },
   {
     "objectID": "publications/articles/koenigeretal2019.html",
@@ -154,46 +112,25 @@
     "text": "Abstract\nEctothermic species such as insects are particularly vulnerable to climatic fluctuations. Nevertheless, many insects that evolved and diversified in the tropics have successfully colonized temperate regions all over the globe. To shed light on the genetic basis of cold tolerance in such species, we conducted a quantitative trait locus (QTL) mapping experiment for chill coma recovery time (CCRT) in Drosophila ananassae, a cosmopolitan species that has expanded its range from tropical to temperate regions. We created a mapping population of recombinant inbred advanced intercross lines (RIAILs) from two founder strains with diverging CCRT phenotypes. The RIAILs were phenotyped for their CCRT and, together with the founder strains, genotyped for polymorphic markers with double-digest restriction site-associated DNA (ddRAD) sequencing. Using a hierarchical mapping approach that combined standard interval mapping and a multiple-QTL model, we mapped three QTL which altogether explained 64% of the phenotypic variance. For two of the identified QTL, we found evidence of epistasis. To narrow down the list of cold tolerance candidate genes, we cross-referenced the QTL intervals with genes that we previously identified as differentially expressed in response to cold in D. ananassae, and with thermotolerance candidate genes of D. melanogaster. Among the 58 differentially expressed genes that were contained within the QTL, GF15058 showed a significant interaction of the CCRT phenotype and gene expression. Further, we identified the orthologs of four D. melanogaster thermotolerance candidate genes, MtnA, klarsicht, CG5246 (D.ana/GF17132) and CG10383 (D.ana/GF14829) as candidates for cold tolerance in D. ananassae."
   },
   {
-    "objectID": "publications/articles/nunesetal2013.html",
-    "href": "publications/articles/nunesetal2013.html",
-    "title": "Perspective on Micro-Evo-Devo: Progress and Potential",
+    "objectID": "publications/articles/gasparetal2019.html",
+    "href": "publications/articles/gasparetal2019.html",
+    "title": "Characterization of the Genetic Architecture Underlying Eye Size Variation Within Drosophila melanogaster and Drosophila simulans",
     "section": "",
-    "text": "Nunes, M. D. S., Arif, S., Schlötterer, C., & McGregor, A. P. (2013). A Perspective on Micro-Evo-Devo: Progress and Potential. Genetics, 195(3), 625–634. https://doi.org/10.1534/genetics.113.156463"
+    "text": "Gaspar, P., Arif, S., Sumner-Rooney, L., Kittelmann, M., Bodey, A. J., Stern, D. L., Nunes, M. D. S., & McGregor, A. P. (2020). Characterization of the Genetic Architecture Underlying Eye Size Variation Within Drosophila melanogaster and Drosophila simulans. G3: Genes, Genomes, Genetics, 10(3), 1005–1018. https://doi.org/10.1534/g3.119.400877"
   },
   {
-    "objectID": "publications/articles/nunesetal2013.html#citation",
-    "href": "publications/articles/nunesetal2013.html#citation",
-    "title": "Perspective on Micro-Evo-Devo: Progress and Potential",
+    "objectID": "publications/articles/gasparetal2019.html#citation",
+    "href": "publications/articles/gasparetal2019.html#citation",
+    "title": "Characterization of the Genetic Architecture Underlying Eye Size Variation Within Drosophila melanogaster and Drosophila simulans",
     "section": "",
-    "text": "Nunes, M. D. S., Arif, S., Schlötterer, C., & McGregor, A. P. (2013). A Perspective on Micro-Evo-Devo: Progress and Potential. Genetics, 195(3), 625–634. https://doi.org/10.1534/genetics.113.156463"
+    "text": "Gaspar, P., Arif, S., Sumner-Rooney, L., Kittelmann, M., Bodey, A. J., Stern, D. L., Nunes, M. D. S., & McGregor, A. P. (2020). Characterization of the Genetic Architecture Underlying Eye Size Variation Within Drosophila melanogaster and Drosophila simulans. G3: Genes, Genomes, Genetics, 10(3), 1005–1018. https://doi.org/10.1534/g3.119.400877"
   },
   {
-    "objectID": "publications/articles/nunesetal2013.html#abstract",
-    "href": "publications/articles/nunesetal2013.html#abstract",
-    "title": "Perspective on Micro-Evo-Devo: Progress and Potential",
+    "objectID": "publications/articles/gasparetal2019.html#abstract",
+    "href": "publications/articles/gasparetal2019.html#abstract",
+    "title": "Characterization of the Genetic Architecture Underlying Eye Size Variation Within Drosophila melanogaster and Drosophila simulans",
     "section": "Abstract",
-    "text": "Abstract\nThe term “micro-evo-devo” refers to the combined study of the genetic and developmental bases of natural variation in populations and the evolutionary forces that have shaped this variation. It thus represents a synthesis of the fields of evolutionary developmental biology and population genetics. As has been pointed out by several others, this synthesis can provide insights into the evolution of organismal form and function that have not been possible within these individual disciplines separately. Despite a number of important successes in micro-evo-devo, however, it appears that evo devo and population genetics remain largely separate spheres of research, limiting their ability to address evolutionary questions. This also risks pushing contemporary evo devo to the fringes of evolutionary biology because it does not describe the causative molecular changes underlying evolution or the evolutionary forces involved. Here we reemphasize the theoretical and practical importance of micro-evo-devo as a strategy for understanding phenotypic evolution, review the key recent insights that it has provided, and present a perspective on both the potential and the remaining challenges of this exciting interdisciplinary field."
-  },
-  {
-    "objectID": "publications/articles/arifetal2013a.html",
-    "href": "publications/articles/arifetal2013a.html",
-    "title": "Genetic and developmental analysis of differences in eye and face morphology between Drosophila simulans and Drosophila mauritiana",
-    "section": "",
-    "text": "Arif, S., Hilbrant, M., Hopfen, C., Almudi, I., Nunes, M. D., Posnien, N., Kuncheria, L., Tanaka, K., Mitteroecker, P., Schlotterer, C., & McGregor, A. P. (2013). Genetic and developmental analysis of differences in eye and face morphology between Drosophila simulans and Drosophila mauritiana. Evol Dev, 15, 257–267."
-  },
-  {
-    "objectID": "publications/articles/arifetal2013a.html#citation",
-    "href": "publications/articles/arifetal2013a.html#citation",
-    "title": "Genetic and developmental analysis of differences in eye and face morphology between Drosophila simulans and Drosophila mauritiana",
-    "section": "",
-    "text": "Arif, S., Hilbrant, M., Hopfen, C., Almudi, I., Nunes, M. D., Posnien, N., Kuncheria, L., Tanaka, K., Mitteroecker, P., Schlotterer, C., & McGregor, A. P. (2013). Genetic and developmental analysis of differences in eye and face morphology between Drosophila simulans and Drosophila mauritiana. Evol Dev, 15, 257–267."
-  },
-  {
-    "objectID": "publications/articles/arifetal2013a.html#abstract",
-    "href": "publications/articles/arifetal2013a.html#abstract",
-    "title": "Genetic and developmental analysis of differences in eye and face morphology between Drosophila simulans and Drosophila mauritiana",
-    "section": "Abstract",
-    "text": "Abstract\nEye and head morphology vary considerably among insects and even between closely related species of Drosophila. Species of the D. melanogaster subgroup, and other Drosophila species, exhibit a negative correlation between eye size and face width (FW); for example, D. mauritiana generally has bigger eyes composed of larger ommatidia and conversely a narrower face than its sibling species. To better understand the evolution of eye and head morphology, we investigated the genetic and developmental basis of differences in eye size and FW between male D. mauritiana and D. simulans. QTL mapping of eye size and FW showed that the major loci responsible for the interspecific variation in these traits are localized to different genomic regions. Introgression of the largest effect QTL underlying the difference in eye size resulted in flies with larger eyes but no significant difference in FW. Moreover, introgression of a QTL region on the third chromosome that contributes to the FW difference between these species affected FW, but not eye size. We also observed that this difference in FW is detectable earlier in the development of the eye-antennal disc than the difference in the size of the retinal field. Our results suggest that different loci that act at different developmental stages underlie changes in eye size and FW. Therefore, while there is a negative correlation between these traits in Drosophila, we show genetically that they also have the potential to evolve independently and this may help to explain the evolution of these traits in other insects"
+    "text": "Abstract\nThe compound eyes of insects exhibit striking variation in size, reflecting adaptation to different lifestyles and habitats. However, the genetic and developmental bases of variation in insect eye size is poorly understood, which limits our understanding of how these important morphological differences evolve. To address this, we further explored natural variation in eye size within and between four species of the Drosophila melanogaster species subgroup. We found extensive variation in eye size among these species, and flies with larger eyes generally had a shorter inter-ocular distance and vice versa. We then carried out quantitative trait loci (QTL) mapping of intra-specific variation in eye size and inter-ocular distance in both D. melanogaster and D. simulans. This revealed that different genomic regions underlie variation in eye size and inter-ocular distance in both species, which we corroborated by introgression mapping in D. simulans. This suggests that although there is a trade-off between eye size and inter-ocular distance, variation in these two traits is likely to be caused by different genes and so can be genetically decoupled. Finally, although we detected QTL for intra-specific variation in eye size at similar positions in D. melanogaster and D. simulans, we observed differences in eye fate commitment between strains of these two species. This indicates that different developmental mechanisms and therefore, most likely, different genes contribute to eye size variation in these species. Taken together with the results of previous studies, our findings suggest that the gene regulatory network that specifies eye size has evolved at multiple genetic nodes to give rise to natural variation in this trait within and among species."
   },
   {
     "objectID": "publications/articles/arifetal2024.html",
@@ -217,179 +154,165 @@
     "text": "Abstract\nThis is the repository for the initial release of the Literate Programming in R course. This course or module is part of the curriculum of Elixir’s Code Reproducibility initiative. This course introduces the theory, advantages and implementation of Literate Programming practices in R for users working in RStudio to enhance the students abilities to produce reproducible code. Prerequisites include basic programming skills in R and a familiarity in using the RStudio Integrated Development Environment. The target audience includes researchers, undergraduate students, and postgraduate students in the life sciences or related disciplines."
   },
   {
-    "objectID": "publications/articles/leiteetal2016.html",
-    "href": "publications/articles/leiteetal2016.html",
-    "title": "Pervasive microRNA Duplication in Chelicerates: Insights from the Embryonic microRNA Repertoire of the Spider Parasteatoda tepidariorum",
+    "objectID": "publications/articles/arifetal2013a.html",
+    "href": "publications/articles/arifetal2013a.html",
+    "title": "Genetic and developmental analysis of differences in eye and face morphology between Drosophila simulans and Drosophila mauritiana",
     "section": "",
-    "text": "Leite, D. J., Ninova, M., Hilbrant, M., Arif, S., Griffiths-Jones, S., Ronshaugen, M., & McGregor, A. P. (2016). Pervasive microRNA Duplication in Chelicerates: Insights from the Embryonic microRNA Repertoire of the Spider Parasteatoda tepidariorum. Genome Biology and Evolution, 8(7), 2133–2144. https://doi.org/10.1093/gbe/evw143"
+    "text": "Arif, S., Hilbrant, M., Hopfen, C., Almudi, I., Nunes, M. D., Posnien, N., Kuncheria, L., Tanaka, K., Mitteroecker, P., Schlotterer, C., & McGregor, A. P. (2013). Genetic and developmental analysis of differences in eye and face morphology between Drosophila simulans and Drosophila mauritiana. Evol Dev, 15, 257–267."
   },
   {
-    "objectID": "publications/articles/leiteetal2016.html#citation",
-    "href": "publications/articles/leiteetal2016.html#citation",
-    "title": "Pervasive microRNA Duplication in Chelicerates: Insights from the Embryonic microRNA Repertoire of the Spider Parasteatoda tepidariorum",
+    "objectID": "publications/articles/arifetal2013a.html#citation",
+    "href": "publications/articles/arifetal2013a.html#citation",
+    "title": "Genetic and developmental analysis of differences in eye and face morphology between Drosophila simulans and Drosophila mauritiana",
     "section": "",
-    "text": "Leite, D. J., Ninova, M., Hilbrant, M., Arif, S., Griffiths-Jones, S., Ronshaugen, M., & McGregor, A. P. (2016). Pervasive microRNA Duplication in Chelicerates: Insights from the Embryonic microRNA Repertoire of the Spider Parasteatoda tepidariorum. Genome Biology and Evolution, 8(7), 2133–2144. https://doi.org/10.1093/gbe/evw143"
+    "text": "Arif, S., Hilbrant, M., Hopfen, C., Almudi, I., Nunes, M. D., Posnien, N., Kuncheria, L., Tanaka, K., Mitteroecker, P., Schlotterer, C., & McGregor, A. P. (2013). Genetic and developmental analysis of differences in eye and face morphology between Drosophila simulans and Drosophila mauritiana. Evol Dev, 15, 257–267."
   },
   {
-    "objectID": "publications/articles/leiteetal2016.html#abstract",
-    "href": "publications/articles/leiteetal2016.html#abstract",
-    "title": "Pervasive microRNA Duplication in Chelicerates: Insights from the Embryonic microRNA Repertoire of the Spider Parasteatoda tepidariorum",
+    "objectID": "publications/articles/arifetal2013a.html#abstract",
+    "href": "publications/articles/arifetal2013a.html#abstract",
+    "title": "Genetic and developmental analysis of differences in eye and face morphology between Drosophila simulans and Drosophila mauritiana",
     "section": "Abstract",
-    "text": "Abstract\nMicroRNAs are small (∼22 nt) noncoding RNAs that repress translation and therefore regulate the production of proteins from specific target mRNAs. microRNAs have been found to function in diverse aspects of gene regulation within animal development and many other processes. Among invertebrates, both conserved and novel, lineage specific, microRNAs have been extensively studied predominantly in holometabolous insects such as Drosophila melanogaster . However little is known about microRNA repertoires in other arthropod lineages such as the chelicerates. To understand the evolution of microRNAs in this poorly sampled subphylum, we characterized the microRNA repertoire expressed during embryogenesis of the common house spider Parasteatoda tepidariorum . We identified a total of 148 microRNAs in P. tepidariorum representing 66 families. Approximately half of these microRNA families are conserved in other metazoans, while the remainder are specific to this spider. Of the 35 conserved microRNAs families 15 had at least two copies in the P. tepidariorum genome. A BLAST-based approach revealed a similar pattern of duplication in other spiders and a scorpion, but not among other chelicerates and arthropods, with the exception of a horseshoe crab. Among the duplicated microRNAs we found examples of lineage-specific tandem duplications, and the duplication of entire microRNA clusters in three spiders, a scorpion, and in a horseshoe crab. Furthermore, we found that paralogs of many P. tepidariorum microRNA families exhibit arm switching, which suggests that duplication was often followed by sub- or neofunctionalization. Our work shows that understanding the evolution of microRNAs in the chelicerates has great potential to provide insights into the process of microRNA duplication and divergence and the evolution of animal development."
+    "text": "Abstract\nEye and head morphology vary considerably among insects and even between closely related species of Drosophila. Species of the D. melanogaster subgroup, and other Drosophila species, exhibit a negative correlation between eye size and face width (FW); for example, D. mauritiana generally has bigger eyes composed of larger ommatidia and conversely a narrower face than its sibling species. To better understand the evolution of eye and head morphology, we investigated the genetic and developmental basis of differences in eye size and FW between male D. mauritiana and D. simulans. QTL mapping of eye size and FW showed that the major loci responsible for the interspecific variation in these traits are localized to different genomic regions. Introgression of the largest effect QTL underlying the difference in eye size resulted in flies with larger eyes but no significant difference in FW. Moreover, introgression of a QTL region on the third chromosome that contributes to the FW difference between these species affected FW, but not eye size. We also observed that this difference in FW is detectable earlier in the development of the eye-antennal disc than the difference in the size of the retinal field. Our results suggest that different loci that act at different developmental stages underlie changes in eye size and FW. Therefore, while there is a negative correlation between these traits in Drosophila, we show genetically that they also have the potential to evolve independently and this may help to explain the evolution of these traits in other insects"
   },
   {
-    "objectID": "teaching.html",
-    "href": "teaching.html",
-    "title": "InsectOmics Lab",
+    "objectID": "publications/articles/baudouinetal2021.html",
+    "href": "publications/articles/baudouinetal2021.html",
+    "title": "The evolution of Sox gene repertoires and regulation of segmentation in arachnids",
     "section": "",
-    "text": "Home\n    Teaching"
+    "text": "Baudouin-Gonzalez, L., Schoenauer, A., Harper, A., Blakeley, G., Seiter, M., Arif, S., Sumner-Rooney, L., Russell, S., Sharma, P. P., & McGregor, A. P. (2020). The evolution of Sox gene repertoires and regulation of segmentation in arachnids. BioRxiv, 2020.06.04.133389. https://doi.org/10.1101/2020.06.04.133389"
   },
   {
-    "objectID": "teaching.html#undergraduate-courses",
-    "href": "teaching.html#undergraduate-courses",
-    "title": "InsectOmics Lab",
-    "section": "Undergraduate courses",
-    "text": "Undergraduate courses\nAs a lecturer at I teach a fair bit at the undergraduate level. However, the most important, from a personal persepctive, of these are following two modules I developed and lead:\n\nData Carpentry: Introduction R programming, reproducible research and linear models for 2nd-year Biology Undergraduates\nInterrogating Genomes: an introduction to genomics and bioinformatics for 2nd-year Biology Undergraduates"
-  },
-  {
-    "objectID": "teaching.html#graduate-courses",
-    "href": "teaching.html#graduate-courses",
-    "title": "InsectOmics Lab",
-    "section": "Graduate courses",
-    "text": "Graduate courses\nI have previously taught introduction to linear models and multivariate statistics at the University of Oxford’s BBSRC-funded Doctoral training programme. Material for these courses can be found here and here."
-  },
-  {
-    "objectID": "teaching.html#beyond",
-    "href": "teaching.html#beyond",
-    "title": "InsectOmics Lab",
-    "section": "Beyond",
-    "text": "Beyond\n\nI teach data wrangling and visualization with the tidyverse in R to staff and students as part of the training programme of the Centre for Functional Genomics at Oxford Brookes University.\nI helped developed a course on Literate Programming in R for Elixir’s Code Reproducibility initiative."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "The Insect Genomics lab @Brookes",
+    "objectID": "publications/articles/baudouinetal2021.html#citation",
+    "href": "publications/articles/baudouinetal2021.html#citation",
+    "title": "The evolution of Sox gene repertoires and regulation of segmentation in arachnids",
     "section": "",
-    "text": "We study the population, conservation and functional genomics of insects and other arthropods. We are based in the department of Biological and Medical Sciences at Oxford Brookes University. We use genomics (and other genetic tools) to understand dynamics of genetic diversity in the wild and the implications for organismal ecology, evolution and conservation."
+    "text": "Baudouin-Gonzalez, L., Schoenauer, A., Harper, A., Blakeley, G., Seiter, M., Arif, S., Sumner-Rooney, L., Russell, S., Sharma, P. P., & McGregor, A. P. (2020). The evolution of Sox gene repertoires and regulation of segmentation in arachnids. BioRxiv, 2020.06.04.133389. https://doi.org/10.1101/2020.06.04.133389"
   },
   {
-    "objectID": "research.html",
-    "href": "research.html",
-    "title": "InsectOmics Lab",
+    "objectID": "publications/articles/baudouinetal2021.html#abstract",
+    "href": "publications/articles/baudouinetal2021.html#abstract",
+    "title": "The evolution of Sox gene repertoires and regulation of segmentation in arachnids",
+    "section": "Abstract",
+    "text": "Abstract\nThe Sox family of transcription factors regulates many processes during metazoan development, including stem cell maintenance and nervous system specification. Characterizing the repertoires and roles of these genes can therefore provide important insights into animal evolution and development. We further characterized the Sox repertoires of several arachnid species with and without an ancestral whole-genome duplication and compared their expression between the spider Parasteatoda tepidariorum and the harvestman Phalangium opilio. We found that most Sox families have been retained as ohnologs after whole-genome duplication and evidence for potential subfunctionalization and/or neofunctionalization events. Our results also suggest that Sox21b-1 likely regulated segmentation ancestrally in arachnids, playing a similar role to the closely related SoxB gene, Dichaete, in insects. We previously showed that Sox21b-1 is required for the simultaneous formation of prosomal segments and sequential addition of opisthosomal segments in P. tepidariorum. We studied the expression and function of Sox21b-1 further in this spider and found that although this gene regulates the generation of both prosomal and opisthosomal segments, it plays different roles in the formation of these tagmata reflecting their contrasting modes of segmentation and deployment of gene regulatory networks with different architectures."
+  },
+  {
+    "objectID": "publications/articles/kittelmann2018.html",
+    "href": "publications/articles/kittelmann2018.html",
+    "title": "Gene regulatory network architecture in different developmental contexts influences the genetic basis of morphological evolution",
     "section": "",
-    "text": "Home\n    Research"
+    "text": "Kittelmann, S., Buffry, A. D., Franke, F. A., Almudi, I., Yoth, M., Sabaris, G., Couso, J. P., Nunes, M. D. S., Frankel, N., Gómez-Skarmeta, J. L., Pueyo-Marques, J., Arif, S., & McGregor, A. P. (2018). Gene regulatory network architecture in different developmental contexts influences the genetic basis of morphological evolution. PLOS Genetics, 14(5), e1007375. https://doi.org/10.1371/journal.pgen.1007375"
   },
   {
-    "objectID": "research.html#scope-of-research",
-    "href": "research.html#scope-of-research",
-    "title": "InsectOmics Lab",
-    "section": "Scope of Research",
-    "text": "Scope of Research\nI have seemingly broad interests in evolution, ecology and development. However, underpinning this broad spectrum of sub-disciplines is a singular interest in origins and maintenance of biological diversity at multiple levels (genetic, phenotypic and the connection between the two or the genotype-to-phenotype map) and scales (populations, species)\nMethodologically, we use genomic approaches, particularly population genomics and functional genomic approaches in observational studies. However, we are open to experimental approaches, where feasible, or through collaboration.\nWe are not restricted to working with any specific taxa, but current research does focus on invertebrates with an emphasis on butterflies."
-  },
-  {
-    "objectID": "research.html#current-projects",
-    "href": "research.html#current-projects",
-    "title": "InsectOmics Lab",
-    "section": "Current Projects",
-    "text": "Current Projects\nCurrent projects in the lab focus around the biology of UK butterflies. Currently, there are two main strands to this research:\n\nExtinction and Conservation Genomics - We use genomic data from museum samples of extirpated UK butterflies. We are interested in understanding if genomic data can reveal something about the regional extinction of these species. We complement our analysis of extirpated species, with the analyses of currently declining or stable/expanding species. All these species should share a similar demographic history over the last 10K years, but other, including ecological and life history traits, have influenced their fate after the colonisation of the British Isles. Large scale population genomic comparisons, of extirpated, declining and stable (or expanding) species should help shed some light on the factors influencing insect genetic diversity within the British Isles. Additionally, this work helps evaluate genomic erosion in species with differing ecology and population sizes, helping us understand how to make sense of conservation genomics for insects.\nReproductive manipulation by Wolbachia - Our work on the population genomics of Polyommatus icarus revealed patterns of Wolbachia (an obligate bacterial endosymbiont common in arthropods) infection which may be suggestive of reproductive manipulation. Current work on this project is involved in determining exactly which mode (if any) of Wolbachia-mediated reproductive manipulation may be at play in P. icarus populations of northern Scotland or the western Isles. Understanding the modes and mechanisms of reproductive manipulation by endosymbionts has applications for biocontrol of arthropod species classified as “pests”."
-  },
-  {
-    "objectID": "research.html#colloborations",
-    "href": "research.html#colloborations",
-    "title": "InsectOmics Lab",
-    "section": "Colloborations",
-    "text": "Colloborations\nI routinely collaborate with ecologists or developmental biologists from the department of Biological and Medical Sciences at Oxford Brookes and beyond. Current collaborators include:\n\nProf. Tim Shreeve, Oxford Brookes University, UK Butterfly population and conservation genpmics\nThe Centre for Funtional Genomics at Oxford Brookes University\nDr. Matt Bulbert, Oxford Brookes University, continental-scale adaptive radiation in feather-legged assassin bugs\nDr. Marco Campera, Sustainable Agroforestry Group at Oxford Brookes University\nLepEU, continental-scale Lepidoptera population genomics\nDr. James Hogan, Collections manager at OUMNH, museum genomics\nGeoff Martin, Senrior Curator for Lepidoptera, NHM, museum genomics"
-  },
-  {
-    "objectID": "posts.html",
-    "href": "posts.html",
-    "title": "blog",
+    "objectID": "publications/articles/kittelmann2018.html#citation",
+    "href": "publications/articles/kittelmann2018.html#citation",
+    "title": "Gene regulatory network architecture in different developmental contexts influences the genetic basis of morphological evolution",
     "section": "",
-    "text": "No matching items"
+    "text": "Kittelmann, S., Buffry, A. D., Franke, F. A., Almudi, I., Yoth, M., Sabaris, G., Couso, J. P., Nunes, M. D. S., Frankel, N., Gómez-Skarmeta, J. L., Pueyo-Marques, J., Arif, S., & McGregor, A. P. (2018). Gene regulatory network architecture in different developmental contexts influences the genetic basis of morphological evolution. PLOS Genetics, 14(5), e1007375. https://doi.org/10.1371/journal.pgen.1007375"
   },
   {
-    "objectID": "people/undergrad/rebeccajones.html",
-    "href": "people/undergrad/rebeccajones.html",
-    "title": "Rebecca Jones",
+    "objectID": "publications/articles/kittelmann2018.html#abstract",
+    "href": "publications/articles/kittelmann2018.html#abstract",
+    "title": "Gene regulatory network architecture in different developmental contexts influences the genetic basis of morphological evolution",
+    "section": "Abstract",
+    "text": "Abstract\nConvergent phenotypic evolution is often caused by recurrent changes at particular nodes in the underlying gene regulatory networks (GRNs). The genes at such evolutionary ‘hotspots’ are thought to maximally affect the phenotype with minimal pleiotropic consequences. This has led to the suggestion that if a GRN is understood in sufficient detail, the path of evolution may be predictable. The repeated evolutionary loss of larval trichomes among Drosophila species is caused by the loss of shavenbaby (svb) expression. svb is also required for development of leg trichomes, but the evolutionary gain of trichomes in the ‘naked valley’ on T2 femurs in Drosophila melanogaster is caused by reduced microRNA-92a (miR-92a) expression rather than changes in svb. We compared the expression and function of components between the larval and leg trichome GRNs to investigate why the genetic basis of trichome pattern evolution differs in these developmental contexts. We found key differences between the two networks in both the genes employed, and in the regulation and function of common genes. These differences in the GRNs reveal why mutations in svb are unlikely to contribute to leg trichome evolution and how instead miR-92a represents the key evolutionary switch in this context. Our work shows that variability in GRNs across different developmental contexts, as well as whether a morphological feature is lost versus gained, influence the nodes at which a GRN evolves to cause morphological change. Therefore, our findings have important implications for understanding the pathways and predictability of evolution."
+  },
+  {
+    "objectID": "publications/articles/kittelmann2018.html#author-summary",
+    "href": "publications/articles/kittelmann2018.html#author-summary",
+    "title": "Gene regulatory network architecture in different developmental contexts influences the genetic basis of morphological evolution",
+    "section": "Author Summary",
+    "text": "Author Summary\nA major goal of biology is to identify the genetic causes of organismal diversity. Convergent evolution of traits is often caused by changes in the same genes–evolutionary ‘hotspots’. shavenbaby is a ‘hotspot’ for larval trichome loss in Drosophila, but microRNA-92a underlies the gain of leg trichomes. To understand this difference in the genetics of phenotypic evolution, we compared the expression and function of genes in the underlying regulatory networks. We found that the pathway of evolution is influenced by differences in gene regulatory network architecture in different developmental contexts, as well as by whether a trait is lost or gained. Therefore, hotspots in one context may not readily evolve in a different context. This has important implications for understanding the genetic basis of phenotypic change and the predictability of evolution."
+  },
+  {
+    "objectID": "publications/articles/hagenetal2021.html",
+    "href": "publications/articles/hagenetal2021.html",
+    "title": "Unraveling the Genetic Basis for the Rapid Diversification of Male Genitalia between Drosophila Species",
     "section": "",
-    "text": "Home\n  People\n  \n  Rebecca Jones\n  \n  \n\n  \n \nRebecca is an undergraduate currently studying biological sciences and working on her final year project, which investigates genomic erosion metrics in butterflies. Her main interests are genetics, genomics, statistics, data analysis and conservation. Rebecca was selected for and attended the Gatsby Plant Science Summer School in 2023. During July 2024, Rebecca is on work experience at a startup biotechnology company called Sun Bear Biofuture that aims to produce a commercially viable alternative to palm oil."
+    "text": "Hagen, J. F. D., Mendes, C. C., Booth, S. R., Figueras Jimenez, J., Tanaka, K. M., Franke, F. A., Baudouin-Gonzalez, L., Ridgway, A. M., Arif, S., Nunes, M. D. S., & McGregor, A. P. (2021). Unraveling the Genetic Basis for the Rapid Diversification of Male Genitalia between Drosophila Species. Molecular Biology and Evolution, 38(2), 437–448. https://doi.org/10.1093/molbev/msaa232"
   },
   {
-    "objectID": "people/undergrad/ryanfisher.html",
-    "href": "people/undergrad/ryanfisher.html",
-    "title": "Ryan Fisher",
+    "objectID": "publications/articles/hagenetal2021.html#citation",
+    "href": "publications/articles/hagenetal2021.html#citation",
+    "title": "Unraveling the Genetic Basis for the Rapid Diversification of Male Genitalia between Drosophila Species",
     "section": "",
-    "text": "Home\n  People\n  \n  Ryan Fisher\n  \n  \n\n  \n \nRyan is currently studying biological sciences at Oxford Brookes university specialising in genetics and data analysis. He is passionate about applying genetics and embryology to support animal conservation efforts. Outside academia Ryan enjoys reading and and rock climbing."
+    "text": "Hagen, J. F. D., Mendes, C. C., Booth, S. R., Figueras Jimenez, J., Tanaka, K. M., Franke, F. A., Baudouin-Gonzalez, L., Ridgway, A. M., Arif, S., Nunes, M. D. S., & McGregor, A. P. (2021). Unraveling the Genetic Basis for the Rapid Diversification of Male Genitalia between Drosophila Species. Molecular Biology and Evolution, 38(2), 437–448. https://doi.org/10.1093/molbev/msaa232"
   },
   {
-    "objectID": "people/alumni/reubenkumar.html",
-    "href": "people/alumni/reubenkumar.html",
-    "title": "Reuben Kumar",
+    "objectID": "publications/articles/hagenetal2021.html#abstract",
+    "href": "publications/articles/hagenetal2021.html#abstract",
+    "title": "Unraveling the Genetic Basis for the Rapid Diversification of Male Genitalia between Drosophila Species",
+    "section": "Abstract",
+    "text": "Abstract\nIn the last 240,000 years, males of the Drosophila simulans species clade have evolved striking differences in the morphology of their epandrial posterior lobes and claspers (surstyli). These appendages are used for grasping the female during mating and so their divergence is most likely driven by sexual selection. Mapping studies indicate a highly polygenic and generally additive genetic basis for these morphological differences. However, we have limited understanding of the gene regulatory networks that control the development of genital structures and how they evolved to result in this rapid phenotypic diversification. Here, we used new D. simulans/D. mauritiana introgression lines on chromosome arm 3L to generate higher resolution maps of posterior lobe and clasper differences between these species. We then carried out RNA-seq on the developing genitalia of both species to identify the expressed genes and those that are differentially expressed between the two species. This allowed us to test the function of expressed positional candidates during genital development in D. melanogaster. We identified several new genes involved in the development and possibly the evolution of these genital structures, including the transcription factors Hairy and Grunge. Furthermore, we discovered that during clasper development Hairy negatively regulates tartan (trn), a gene known to contribute to divergence in clasper morphology. Taken together, our results provide new insights into the regulation of genital development and how this has evolved between species."
+  },
+  {
+    "objectID": "publications/articles/arifetal2009.html",
+    "href": "publications/articles/arifetal2009.html",
+    "title": "Evolutionary diversification of opercle shape in Cook Inlet threespine stickleback",
     "section": "",
-    "text": "Home\n  People\n  Alumni\n  Reuben Kumar"
+    "text": "Arif, S., Aguirre, W. E., & Bell, M. A. (2009). Evolutionary diversification of opercle shape in Cook Inlet threespine stickleback. Biological Journal of the Linnean Society, 97, 832–844."
   },
   {
-    "objectID": "people/alumni/sarahrdalo.html",
-    "href": "people/alumni/sarahrdalo.html",
-    "title": "Sara Hrdalo",
+    "objectID": "publications/articles/arifetal2009.html#citation",
+    "href": "publications/articles/arifetal2009.html#citation",
+    "title": "Evolutionary diversification of opercle shape in Cook Inlet threespine stickleback",
     "section": "",
-    "text": "Home\n  People\n  Alumni\n  Sara Hrdalo\n  \n  \n\n  \n \nI am currently applying for jobs to gain experience in laboratory. Next year I am planning to do Masters in Bioinformatics or Genomic Medicine. In my free time I like to read Sci-Fi books and go to gym.\nUndergrad Project Title: Analysis of Chromosomal Aberrations Found in Polyommatus icarus and Investigation of Feminization"
+    "text": "Arif, S., Aguirre, W. E., & Bell, M. A. (2009). Evolutionary diversification of opercle shape in Cook Inlet threespine stickleback. Biological Journal of the Linnean Society, 97, 832–844."
   },
   {
-    "objectID": "people/alumni/willmillard.html",
-    "href": "people/alumni/willmillard.html",
-    "title": "Will Millard",
+    "objectID": "publications/articles/arifetal2009.html#abstract",
+    "href": "publications/articles/arifetal2009.html#abstract",
+    "title": "Evolutionary diversification of opercle shape in Cook Inlet threespine stickleback",
+    "section": "Abstract",
+    "text": "Abstract\nWe investigated the evolution of a large facial bone, the opercle (OP), in lake populations of the threespine stickleback that were founded by anadromous ancestors, in Cook Inlet, Alaska. Recent studies characterized OP variation among marine and lake populations and mapped a quantitative trait locus with a large influence on OP shape. Using populations from diverse environments and independent evolutionary histories, we examined divergence of OP shape from that of the anadromous ancestor. We report preliminary evidence for divergence between benthic and generalist lake ecotypes, necessitating further investigation. Furthermore, rapid divergence of OP shape has occurred in a lake population that was founded by anadromous stickleback in the 1980s, which is consistent with divergence of other phenotypic traits and with OP diversification in other lake populations. By contrast, there has been limited evolution of OP shape in a second lake population that may have experienced a genetic bottleneck early in its history and lacks genetic variation for OP divergence. Taken together, the results obtained from these two populations are consistent with studies of other stickleback phenotypic traits that implicate ancestral variation in postglacial adaptive radiation of threespine stickleback in fresh water."
+  },
+  {
+    "objectID": "people/staff/danBardey.html",
+    "href": "people/staff/danBardey.html",
+    "title": "Daniel Bardey",
     "section": "",
-    "text": "Home\n  People\n  Alumni\n  Will Millard"
+    "text": "Home\n    People\n    Research Staff\n    Daniel Bardey\n  \n\n\n  \n \n  \n\n\nThe Feather-Legged Assassin Bugs (FLABs) are a remarkable ant-eating subfamily of Reduviidae, characterised by their unmistakable clusters of plumose hairs on the hind legs. The endemic Australian genus Ptilocnemus Westwood, 1840 is particularly unusual for thesubfamily as they exhibit an extraordinary shift in body size from just 3 mm to 11 mm. Ptilocnemus are widespread throughout Australia and found in all manner of Australia’s contrasting landscapes, from the iconic red centre to urban parks. Such pronounced variation in phenotype and habitat among closely related species may indicate that the group has undergone an adaptive radiation. Adaptive radiations are most often associated with isolated or fragmented environments such as lakes, mountains, or islands. The possibility that one has occurred across an entire continent is highly unusual and presents an exciting opportunity for study. Using integrated systematics, combining behavioural, taxonomic, and geospatial data with cutting-edge whole- genome sequencing, we are aiming to unravel the evolutionary drivers and niche adaptations of Ptilocnemus.\nDan is undertaking this multidisciplinary project for his PhD supervised by behavioural ecologist Dr. Matthew Bulbert (Conflict Ecology Lab) in collaboration with Dr. Saad Arif (Insectomics Lab) and taxonomic expertise from Prof. Christiane Weirauch (Heteropteran Systematics Lab, University of California Riverside)."
   },
   {
-    "objectID": "people/alumni/frankierackham.html",
-    "href": "people/alumni/frankierackham.html",
-    "title": "Francesa Rackham",
+    "objectID": "people/undergrad/nyahgrewal.html",
+    "href": "people/undergrad/nyahgrewal.html",
+    "title": "Nyah Grewal",
     "section": "",
-    "text": "Home\n  People\n  Alumni\n  Francesa Rackham"
+    "text": "Home\n  People\n  \n  Nyah Grewal\n  \n  \n\n  \n \nNyah Grewal is a final year Biological Sciences: Genetics and Genomics student with strong interests in bioinformatics techniques and data analysis. Her academic focus extends to conservation and genomic research with hopes to apply computational approaches to aid health and disease solutions.\nShe is currently involved in an undergraduate research project with aims to investigate Wolbachia infection in feathered-leg assassin bugs.\nOutside of education, Nyah’s hobbies include walks in nature with her dogs, running, tennis, an interest in commercial aviation and watching Formula 1"
   },
   {
-    "objectID": "people/staff/saadarif.html",
-    "href": "people/staff/saadarif.html",
-    "title": "Saad Arif",
+    "objectID": "people/undergrad/nour.html",
+    "href": "people/undergrad/nour.html",
+    "title": "Noureddin Ismail",
     "section": "",
-    "text": "Home\n    People\n    Research Staff\n    Saad Arif"
+    "text": "Home\n  People\n  \n  Noureddin Ismail\n  \n  \n\n  \n \nI am an undergraduate Biological Sciences student specialising in Genetics and Genomics. My academic interests lie in bioinformatics, population substructure and genetic epidemiology. I am currently researching the Jordanian population substructure for my research project. Beyond my studies, I take part in the Arab Society and enjoy playing football."
   },
   {
-    "objectID": "people/staff/saadarif.html#biography",
-    "href": "people/staff/saadarif.html#biography",
-    "title": "Saad Arif",
-    "section": "Biography",
-    "text": "Biography\nI am a senior lecturer at the Department of Biological and Medical Science at the Oxford Brookes University. I am also associated with Centre for Functional Genomics at Brookes, serving as its first scientific director from 2019-2021. I received a PhD in Genetics from Oxford Brookes University in 2013.\nI am an evolutionary biologist studying the genetics and genomics of ecology, evolution, development and conservation. I received an Alexander von Humboldt Post-doctoral research fellowship in 2014. I use genomic and genetic tools to research the biology and conservation of invertebrates (mostly 🦋 these days).\nI teach courses at various levels including undergraduate and postgraduate. My teaching includes data science, statistical inference, bioinformatics and reproducibility (particularly literate programming and version control/colloboration) in biology and the environmental sciences - concepts and approaches that are crucial to my own research. I also teach courses on reproducibility and programming and data science in R aimed at researchers."
-  },
-  {
-    "objectID": "people/staff/saadarif.html#experience",
-    "href": "people/staff/saadarif.html#experience",
-    "title": "Saad Arif",
-    "section": "Experience",
-    "text": "Experience\n\nOxford Brookes University | Oxford, UK Senior Lecturer in Genetics and Genomics | 2019–Current Lecturer in Genetics and Genomics | 2015-2019 Scientific Director of the Centre for Functional Genomics) | 2019-2021\nFriedrich Mesicher Laboratory at the Max Planck Institute for Developmental Biology | Tuebingen, Germany Postdoctoral Researcher| 2013–2015\nStony Brook University | Stony Brook, NY, USA Research Assisant on the Deep Scaly project | 2005–2007"
-  },
-  {
-    "objectID": "people/staff/saadarif.html#awards-and-grants",
-    "href": "people/staff/saadarif.html#awards-and-grants",
-    "title": "Saad Arif",
-    "section": "Awards and Grants",
-    "text": "Awards and Grants\n\nNERC-NBAF | 2021 Using genomics to explore a potential case of Wolbachia-mediated feminization in the Polyommatus icarus butterfly\nAlexander von Humboldt Post-doctoral research fellowship | 2014-2016"
-  },
-  {
-    "objectID": "people/staff/saadarif.html#education",
-    "href": "people/staff/saadarif.html#education",
-    "title": "Saad Arif",
-    "section": "Education",
-    "text": "Education\n\nOxford Brookes University | Oxford, UK PhD in Genetics | 2010–2013\nIowa State University | Ames, IA, USA MSc in Ecology, Evolution and Organismal Biology | 2003–2005\nDrake University | Des Moines, IA, USA BSc in Biology | 1999-2003"
-  },
-  {
-    "objectID": "publications.html",
-    "href": "publications.html",
-    "title": "InsectOmics Lab",
+    "objectID": "people/masters/cameronnaismith-robertson.html",
+    "href": "people/masters/cameronnaismith-robertson.html",
+    "title": "Cameron Naismith-Robertson",
     "section": "",
-    "text": "Home\n    Publications\n  \n\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Title\n      \n      \n        Author\n      \n      \n        Publication\n      \n      \n        Year\n      \n    \n  \n    \n      \n      \n    \n\n\n\n  \n    Development and patterning of a highly versatile visual system in spiders\n    Gonzalez, Schoenauer, Harper, et al.\n    Proceedings of the Royal Society B: Biological Sciences\n    (2025)\n    \n      Details\n    \n    \n    \n      DOI\n    \n    \n    \n    \n       Preprint\n    \n    \n    \n  \n\n  \n    Heterochrony in orthodenticle expression is associated with ommatidial size variation between Drosophila species\n    Torres-Olivia, Buchberger, Buffry, et al.\n    BMC Biology\n    (2025)\n    \n      Details\n    \n    \n    \n      DOI\n    \n    \n    \n    \n       Preprint\n    \n    \n    \n  \n\n  \n    Literate Programming in R\n    Arif, Fernandes, Lee et al.\n    Zenodo\n    (2024)\n    \n      Details\n    \n    \n    \n      DOI\n    \n    \n    \n    \n  \n\n  \n    The last days of Aporia crataegi (L.) in Britain: evaluating genomic erosion in an extirpated butterfly\n    Whitla, Hens, Hogan, et al.\n    Molecular Ecology\n    (2024)\n    \n      Details\n    \n    \n    \n      DOI\n    \n    \n    \n    \n       Preprint\n    \n    \n    \n  \n\n  \n    The genome sequence of the black-veined white butterfly, Aporia crataegi (Linnaeus, 1758)\n    Ebdon, MacKintosh, Lohse, et al.\n    Wellcome Open Research\n    (2022)\n    \n      Details\n    \n    \n    \n      DOI\n    \n    \n    \n    \n  \n\n  \n    Evidence for multiple colonisations and Wolbachia infections shaping the genetic structure of the widespread butterfly Polyommatus icarus in the British Isles\n    Arif, Hone-Millard, Gerth, et al.\n    Molecular Ecology\n    (2021)\n    \n      Details\n    \n    \n    \n      DOI\n    \n    \n    \n    \n       Preprint\n    \n    \n    \n  \n\n  \n    The evolution of Sox gene repertoires and regulation of segmentation in arachnids\n    Baudouin-Gonzalez, Schoenauer, Harper, et al.\n    Molecular Biology & Evolution\n    (2021)\n    \n      Details\n    \n    \n    \n      DOI\n    \n    \n    \n    \n       Preprint\n    \n    \n    \n  \n\n  \n    Unraveling the Genetic Basis for the Rapid Diversification of Male Genitalia between Drosophila Species\n    Hagen, Mended, Booth, et al.\n    Molecular Biology & Evolution\n    (2021)\n    \n      Details\n    \n    \n    \n      DOI\n    \n    \n    \n    \n       Preprint\n    \n    \n    \n  \n\n  \n    Widespread retention of ohnologs in key developmental gene families following whole genome duplication in arachnopulmona\n    Harper, Gonzalez, Schoenauer, et al.\n    G3 Genes|Genomes|Genetics\n    (2021)\n    \n      Details\n    \n    \n    \n      DOI\n    \n    \n    \n    \n       Preprint\n    \n    \n    \n  \n\n  \n    Characterization of the Genetic Architecture Underlying Eye Size Variation Within Drosophila melanogaster and Drosophila simulans\n    Gaspar, Arif, Sumner-Rooney et al.\n    G3 Genes|Genomes|Genetics\n    (2020)\n    \n      Details\n    \n    \n    \n      DOI\n    \n    \n    \n    \n       Preprint\n    \n    \n    \n  \n\n  \n    Three Quantitative Trait Loci Explain More than 60% of Variation for Chill Coma Recovery Time in a Natural Population of Drosophila ananassae\n    Koeniger, Arif, Garth\n    G3 Genes|Genomes|Genetics\n    (2019)\n    \n      Details\n    \n    \n    \n      DOI\n    \n    \n    \n    \n       Preprint\n    \n    \n    \n  \n\n  \n    CRISPR/Cas9 as the Key to Unlocking the Secrets of Butterfly Wing Pattern Development and Its Evolution\n    Livragi, Martin, Gibbs, et al.\n    Advances in Insect Physiology\n    (2018)\n    \n      Details\n    \n    \n    \n      DOI\n    \n    \n    \n    \n  \n\n  \n    Gene regulatory network architecture in different developmental contexts influences the genetic basis of morphological evolution\n    Kittelmann, Buffry, Franke et al.\n    PLoS Genetics\n    (2018)\n    \n      Details\n    \n    \n    \n      DOI\n    \n    \n    \n    \n       Preprint\n    \n    \n    \n  \n\n  \n    Pervasive microRNA Duplication in Chelicerates: Insights from the Embryonic microRNA Repertoire of the Spider *Parasteatoda tepidariorum*\n    Leite, Ninova, Hilbrant, et al.\n    Genome Biology & Evolution\n    (2016)\n    \n      Details\n    \n    \n    \n      DOI\n    \n    \n    \n    \n  \n\n  \n    From shavenbaby to the naked valley: Trichome formation as a model for evolutionary developmental biology\n    Arif, Kittelmann, McGregor\n    Evolution & Development\n    (2015)\n    \n      Details\n    \n    \n    \n      DOI\n    \n    \n    \n    \n  \n\n  \n    Evolution of mir-92a underlies natural morphological variation in Drosophila melanogaster\n    Arif, Murat, Almudi, et al.\n    Current Biology\n    (2013)\n    \n      Details\n    \n    \n    \n      DOI\n    \n    \n    \n    \n  \n\n  \n    Genetic and developmental analysis of differences in eye and face morphology between Drosophila simulans and Drosophila mauritiana\n    Arif, Hilbrant, Hopfen, et al.\n    Evolution & Development\n    (2013)\n    \n      Details\n    \n    \n    \n      DOI\n    \n    \n    \n    \n  \n\n  \n    Perspective on Micro-Evo-Devo: Progress and Potential\n    Nunes, Arif, Schlötterer, et al.\n    Genetics\n    (2013)\n    \n      Details\n    \n    \n    \n      DOI\n    \n    \n    \n    \n  \n\n  \n    Evolution of Eye Morphology and Rhodopsin Expression in the Drosophila melanogaster Species Subgroup\n    Posnien, Hopfen, Hilbrant, et al.\n    PLoS ONE\n    (2012)\n    \n      Details\n    \n    \n    \n      DOI\n    \n    \n    \n    \n  \n\n  \n    Phylogenetic relationships of phrynosomatid lizards based on nuclear and mitochondrial data, and a revised phylogeny for Sceloporus\n    Wiens, Kuczynski, Arif, et al.\n    Molecular Phylogenetics and Evolution\n    (2010)\n    \n      Details\n    \n    \n    \n      DOI\n    \n    \n    \n    \n  \n\n  \n    Evolutionary diversification of opercle shape in Cook Inlet threespine stickleback\n    Arif, Aguirre, Bell\n    Biological Journal of the Linnean Society\n    (2009)\n    \n      Details\n    \n    \n    \n      DOI\n    \n    \n    \n    \n  \n\n  \n    A Phylogenetic Hot Spot for Evolutionary Novelty in Middle American Treefrogs\n    Smith, Arif, Adams, Oca, et al.\n    Evolution\n    (2007)\n    \n      Details\n    \n    \n    \n      DOI\n    \n    \n    \n    \n  \n\n  \n    Bioclimatic modelling, morphology, and behaviour reveal alternative mechanisms regulating the distributions of two parapatric salamander species\n    Arif, Adams, Wicknick\n    Evolutionary Ecology Research\n    (2007)\n    \n      Details\n    \n    \n    \n    \n  \n\n\n\nNo matching items"
+    "text": "Home\n  People\n  Cameron Naismith-Robertson\n  \n  \n\n  \n \nCameron is a master’s student currently undertaking the integrated MBIOL degree in Biological Sciences at Oxford Brookes University. He has a previous background in control systems engineering but transitioned into biology to pursue his long-standing passion for the life sciences. His academic interests span genetics, genomics, evolution, and developmental biology, with a particular focus on computational techniques and applying these disciplines to modern challenges. For his master’s research project, Cameron is working on a metagenomics study of museum arthropod specimens (primarily butterflies) to investigate contamination signatures in sequencing data and age-related DNA degradation patterns."
+  },
+  {
+    "objectID": "people/alumni/rebeccaWhitla.html",
+    "href": "people/alumni/rebeccaWhitla.html",
+    "title": "Rebecca Whitla",
+    "section": "",
+    "text": "Home\n    People\n    Research Staff\n    Rebecca Whitla\n  \n\n\n  \n \n \n  \n   \n  \n    \n     twitter\n  \n\n\n\nRebecca completed her PhD thesis on The Role of Genetic Diversity and Inbreeding in an Extinct and a Declining Species of Lepidoptera in Britain, which investigates genomic erosion in a species as it approached local extinction (the Black-veined White butterfly) and genomic erosion over time in a butterfly species that has declined in recent history (the Wood White). Her main interests are conservation genetics and museomics, and how we can use museum specimens to inform conservation of declining species. She currently works for the Darwin Tree of Life Programme in Ireland and is based at University College Dublin.\nShe is the current Membership Officer for Ecological Genetics Group (special interest group of the British Ecological Society & Genetics Society)."
+  },
+  {
+    "objectID": "people/alumni/edyrusso.html",
+    "href": "people/alumni/edyrusso.html",
+    "title": "Edy Russo",
+    "section": "",
+    "text": "Home\n  People\n  Undergraduates/li&gt;\n  Edy Russo"
+  },
+  {
+    "objectID": "people/alumni/diskhapadwal.html",
+    "href": "people/alumni/diskhapadwal.html",
+    "title": "Diksha Padwal",
+    "section": "",
+    "text": "Home\n  People\n  Alumni\n  Diksha Padwal\n  \n  \n\n  \n \nI am Diksha Padwal, a 3rd year student studying Biological Sciences, Genetics, and Genomics. I am passionate about learning bioinformatics techniques and currently researching about Genomic Erosion in Butterfly Species in the United Kingdom for my research project.\nDiksha graudated and started a masters in Bioinformatics at King’s College in London in September 2025."
   },
   {
     "objectID": "labmembers.html",
@@ -427,74 +350,151 @@
     "text": "Alumni\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Name\n      \n      \n        Role\n      \n      \n        Started\n      \n      \n        Ended\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nName\n\n\n\nRole\n\n\n\nStarted\n\n\n\nEnded\n\n\n\n\n\n\n\n\nRebecca Whitla\n\n\nPhD Student\n\n\nJan 2021\n\n\nSept 2024\n\n\n\n\n\n\nSara Hrdalo\n\n\nUndergrad Project Student\n\n\nFall 2022\n\n\nSpring 2023\n\n\n\n\n\n\nReuben Kumar\n\n\nUndergrad Project Student\n\n\nFall 2022\n\n\nSpring 2023\n\n\n\n\n\n\nWill Millard\n\n\nMBIOL student\n\n\nFall 2018\n\n\nSpring 2019\n\n\n\n\n\n\nDiksha Padwal\n\n\nUndergrad Project Student\n\n\nSummer 2024\n\n\nSpring 2025\n\n\n\n\n\n\nFrancesa Rackham\n\n\nUndergrad Project Student\n\n\nFall 2022\n\n\nSpring 2023\n\n\n\n\n\n\nEdy Russo\n\n\nUndergrad Project Student\n\n\nFall 2022\n\n\nSummer 2024\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "people/staff/danBardey.html",
-    "href": "people/staff/danBardey.html",
-    "title": "Daniel Bardey",
-    "section": "",
-    "text": "Home\n    People\n    Research Staff\n    Daniel Bardey\n  \n\n\n  \n \n  \n\n\nThe Feather-Legged Assassin Bugs (FLABs) are a remarkable ant-eating subfamily of Reduviidae, characterised by their unmistakable clusters of plumose hairs on the hind legs. The endemic Australian genus Ptilocnemus Westwood, 1840 is particularly unusual for thesubfamily as they exhibit an extraordinary shift in body size from just 3 mm to 11 mm. Ptilocnemus are widespread throughout Australia and found in all manner of Australia’s contrasting landscapes, from the iconic red centre to urban parks. Such pronounced variation in phenotype and habitat among closely related species may indicate that the group has undergone an adaptive radiation. Adaptive radiations are most often associated with isolated or fragmented environments such as lakes, mountains, or islands. The possibility that one has occurred across an entire continent is highly unusual and presents an exciting opportunity for study. Using integrated systematics, combining behavioural, taxonomic, and geospatial data with cutting-edge whole- genome sequencing, we are aiming to unravel the evolutionary drivers and niche adaptations of Ptilocnemus.\nDan is undertaking this multidisciplinary project for his PhD supervised by behavioural ecologist Dr. Matthew Bulbert (Conflict Ecology Lab) in collaboration with Dr. Saad Arif (Insectomics Lab) and taxonomic expertise from Prof. Christiane Weirauch (Heteropteran Systematics Lab, University of California Riverside)."
-  },
-  {
-    "objectID": "people/alumni/diskhapadwal.html",
-    "href": "people/alumni/diskhapadwal.html",
-    "title": "Diksha Padwal",
-    "section": "",
-    "text": "Home\n  People\n  Alumni\n  Diksha Padwal\n  \n  \n\n  \n \nI am Diksha Padwal, a 3rd year student studying Biological Sciences, Genetics, and Genomics. I am passionate about learning bioinformatics techniques and currently researching about Genomic Erosion in Butterfly Species in the United Kingdom for my research project.\nDiksha graudated and started a masters in Bioinformatics at King’s College in London in September 2025."
-  },
-  {
-    "objectID": "people/alumni/rebeccaWhitla.html",
-    "href": "people/alumni/rebeccaWhitla.html",
-    "title": "Rebecca Whitla",
-    "section": "",
-    "text": "Home\n    People\n    Research Staff\n    Rebecca Whitla\n  \n\n\n  \n \n \n  \n   \n  \n    \n     twitter\n  \n\n\n\nRebecca completed her PhD thesis on The Role of Genetic Diversity and Inbreeding in an Extinct and a Declining Species of Lepidoptera in Britain, which investigates genomic erosion in a species as it approached local extinction (the Black-veined White butterfly) and genomic erosion over time in a butterfly species that has declined in recent history (the Wood White). Her main interests are conservation genetics and museomics, and how we can use museum specimens to inform conservation of declining species. She currently works for the Darwin Tree of Life Programme in Ireland and is based at University College Dublin.\nShe is the current Membership Officer for Ecological Genetics Group (special interest group of the British Ecological Society & Genetics Society)."
-  },
-  {
-    "objectID": "people/alumni/edyrusso.html",
-    "href": "people/alumni/edyrusso.html",
-    "title": "Edy Russo",
-    "section": "",
-    "text": "Home\n  People\n  Undergraduates/li&gt;\n  Edy Russo"
-  },
-  {
-    "objectID": "people/undergrad/nour.html",
-    "href": "people/undergrad/nour.html",
-    "title": "Noureddin Ismail",
-    "section": "",
-    "text": "Home\n  People\n  \n  Noureddin Ismail\n  \n  \n\n  \n \nI am an undergraduate Biological Sciences student specialising in Genetics and Genomics. My academic interests lie in bioinformatics, population substructure and genetic epidemiology. I am currently researching the Jordanian population substructure for my research project. Beyond my studies, I take part in the Arab Society and enjoy playing football."
-  },
-  {
-    "objectID": "people/undergrad/nyahgrewal.html",
-    "href": "people/undergrad/nyahgrewal.html",
-    "title": "Nyah Grewal",
-    "section": "",
-    "text": "Home\n  People\n  \n  Nyah Grewal\n  \n  \n\n  \n \nNyah Grewal is a final year Biological Sciences: Genetics and Genomics student with strong interests in bioinformatics techniques and data analysis. Her academic focus extends to conservation and genomic research with hopes to apply computational approaches to aid health and disease solutions.\nShe is currently involved in an undergraduate research project with aims to investigate Wolbachia infection in feathered-leg assassin bugs.\nOutside of education, Nyah’s hobbies include walks in nature with her dogs, running, tennis, an interest in commercial aviation and watching Formula 1"
-  },
-  {
-    "objectID": "people/masters/cameronnaismith-robertson.html",
-    "href": "people/masters/cameronnaismith-robertson.html",
-    "title": "Cameron Naismith-Robertson",
-    "section": "",
-    "text": "Home\n  People\n  Cameron Naismith-Robertson\n  \n  \n\n  \n \nCameron is a master’s student currently undertaking the integrated MBIOL degree in Biological Sciences at Oxford Brookes University. He has a previous background in control systems engineering but transitioned into biology to pursue his long-standing passion for the life sciences. His academic interests span genetics, genomics, evolution, and developmental biology, with a particular focus on computational techniques and applying these disciplines to modern challenges. For his master’s research project, Cameron is working on a metagenomics study of museum arthropod specimens (primarily butterflies) to investigate contamination signatures in sequencing data and age-related DNA degradation patterns."
-  },
-  {
-    "objectID": "presentations.html",
-    "href": "presentations.html",
+    "objectID": "research.html",
+    "href": "research.html",
     "title": "InsectOmics Lab",
     "section": "",
-    "text": "Home\n    Presentations"
+    "text": "Home\n    Research"
   },
   {
-    "objectID": "presentations.html#presentations-seminars-workshops-and-more",
-    "href": "presentations.html#presentations-seminars-workshops-and-more",
+    "objectID": "research.html#scope-of-research",
+    "href": "research.html#scope-of-research",
     "title": "InsectOmics Lab",
-    "section": "Presentations, seminars, workshops and more",
-    "text": "Presentations, seminars, workshops and more\n\nResearch\n\nBiodiversity Genomics, 2024 (BG2024) - Talk title: The last days of Aporia crataegi L. in Britain: Evaluating genomic erosion in an extirpated butterfly. Slides\nBMS Summer Seminar, 2024, Oxford Brookes - Talk title: Highthroughput sequencing from museum samples. Slides\n\n\n\nTeaching\n\nOxford Brookes University International Teaching and Learning Conference 2025 - Workshop title: The PASS tutorial framework as an exemplar for standardising academic advising and improving academic advisor engagement. Slides\nAIDAN seminar series, 2024, Oxford Brookes - Talk title: Using R etc. in teaching and research.\n\n\n\nScience communication and data visualisation\nI like to dabble in alternative science communication and data viz. approaches when I can. You can find outputs of those projects here.\n\nScrollytelling experience for Last Days of Aporia crataegi project (best enjoyed on a desktop/laptop).\nShiny app for sharing research results on impact of non-timber forest prdoucts on biodiversity in Indonesia. In colloboration with Dr. Marco Campera and the Sustainable agroforestry group at Oxford Brookes"
+    "section": "Scope of Research",
+    "text": "Scope of Research\nI have seemingly broad interests in evolution, ecology and development. However, underpinning this broad spectrum of sub-disciplines is a singular interest in origins and maintenance of biological diversity at multiple levels (genetic, phenotypic and the connection between the two or the genotype-to-phenotype map) and scales (populations, species)\nMethodologically, we use genomic approaches, particularly population genomics and functional genomic approaches in observational studies. However, we are open to experimental approaches, where feasible, or through collaboration.\nWe are not restricted to working with any specific taxa, but current research does focus on invertebrates with an emphasis on butterflies."
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "research.html#current-projects",
+    "href": "research.html#current-projects",
+    "title": "InsectOmics Lab",
+    "section": "Current Projects",
+    "text": "Current Projects\nCurrent projects in the lab focus around the biology of UK butterflies. Currently, there are two main strands to this research:\n\nExtinction and Conservation Genomics - We use genomic data from museum samples of extirpated UK butterflies. We are interested in understanding if genomic data can reveal something about the regional extinction of these species. We complement our analysis of extirpated species, with the analyses of currently declining or stable/expanding species. All these species should share a similar demographic history over the last 10K years, but other, including ecological and life history traits, have influenced their fate after the colonisation of the British Isles. Large scale population genomic comparisons, of extirpated, declining and stable (or expanding) species should help shed some light on the factors influencing insect genetic diversity within the British Isles. Additionally, this work helps evaluate genomic erosion in species with differing ecology and population sizes, helping us understand how to make sense of conservation genomics for insects.\nReproductive manipulation by Wolbachia - Our work on the population genomics of Polyommatus icarus revealed patterns of Wolbachia (an obligate bacterial endosymbiont common in arthropods) infection which may be suggestive of reproductive manipulation. Current work on this project is involved in determining exactly which mode (if any) of Wolbachia-mediated reproductive manipulation may be at play in P. icarus populations of northern Scotland or the western Isles. Understanding the modes and mechanisms of reproductive manipulation by endosymbionts has applications for biocontrol of arthropod species classified as “pests”."
+  },
+  {
+    "objectID": "research.html#colloborations",
+    "href": "research.html#colloborations",
+    "title": "InsectOmics Lab",
+    "section": "Colloborations",
+    "text": "Colloborations\nI routinely collaborate with ecologists or developmental biologists from the department of Biological and Medical Sciences at Oxford Brookes and beyond. Current collaborators include:\n\nProf. Tim Shreeve, Oxford Brookes University, UK Butterfly population and conservation genpmics\nThe Centre for Funtional Genomics at Oxford Brookes University\nDr. Matt Bulbert, Oxford Brookes University, continental-scale adaptive radiation in feather-legged assassin bugs\nDr. Marco Campera, Sustainable Agroforestry Group at Oxford Brookes University\nLepEU, continental-scale Lepidoptera population genomics\nDr. James Hogan, Collections manager at OUMNH, museum genomics\nGeoff Martin, Senrior Curator for Lepidoptera, NHM, museum genomics"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "InsectOmics Lab",
     "section": "",
-    "text": "About this site"
+    "text": "Home\n    Publications\n  \n\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Title\n      \n      \n        Author\n      \n      \n        Publication\n      \n      \n        Year\n      \n    \n  \n    \n      \n      \n    \n\n\n\n  \n    Development and patterning of a highly versatile visual system in spiders\n    Gonzalez, Schoenauer, Harper, et al.\n    Proceedings of the Royal Society B: Biological Sciences\n    (2025)\n    \n      Details\n    \n    \n    \n      DOI\n    \n    \n    \n    \n       Preprint\n    \n    \n    \n  \n\n  \n    Heterochrony in orthodenticle expression is associated with ommatidial size variation between Drosophila species\n    Torres-Olivia, Buchberger, Buffry, et al.\n    BMC Biology\n    (2025)\n    \n      Details\n    \n    \n    \n      DOI\n    \n    \n    \n    \n       Preprint\n    \n    \n    \n  \n\n  \n    Literate Programming in R\n    Arif, Fernandes, Lee et al.\n    Zenodo\n    (2024)\n    \n      Details\n    \n    \n    \n      DOI\n    \n    \n    \n    \n  \n\n  \n    The last days of Aporia crataegi (L.) in Britain: evaluating genomic erosion in an extirpated butterfly\n    Whitla, Hens, Hogan, et al.\n    Molecular Ecology\n    (2024)\n    \n      Details\n    \n    \n    \n      DOI\n    \n    \n    \n    \n       Preprint\n    \n    \n    \n  \n\n  \n    The genome sequence of the black-veined white butterfly, Aporia crataegi (Linnaeus, 1758)\n    Ebdon, MacKintosh, Lohse, et al.\n    Wellcome Open Research\n    (2022)\n    \n      Details\n    \n    \n    \n      DOI\n    \n    \n    \n    \n  \n\n  \n    Evidence for multiple colonisations and Wolbachia infections shaping the genetic structure of the widespread butterfly Polyommatus icarus in the British Isles\n    Arif, Hone-Millard, Gerth, et al.\n    Molecular Ecology\n    (2021)\n    \n      Details\n    \n    \n    \n      DOI\n    \n    \n    \n    \n       Preprint\n    \n    \n    \n  \n\n  \n    The evolution of Sox gene repertoires and regulation of segmentation in arachnids\n    Baudouin-Gonzalez, Schoenauer, Harper, et al.\n    Molecular Biology & Evolution\n    (2021)\n    \n      Details\n    \n    \n    \n      DOI\n    \n    \n    \n    \n       Preprint\n    \n    \n    \n  \n\n  \n    Unraveling the Genetic Basis for the Rapid Diversification of Male Genitalia between Drosophila Species\n    Hagen, Mended, Booth, et al.\n    Molecular Biology & Evolution\n    (2021)\n    \n      Details\n    \n    \n    \n      DOI\n    \n    \n    \n    \n       Preprint\n    \n    \n    \n  \n\n  \n    Widespread retention of ohnologs in key developmental gene families following whole genome duplication in arachnopulmona\n    Harper, Gonzalez, Schoenauer, et al.\n    G3 Genes|Genomes|Genetics\n    (2021)\n    \n      Details\n    \n    \n    \n      DOI\n    \n    \n    \n    \n       Preprint\n    \n    \n    \n  \n\n  \n    Characterization of the Genetic Architecture Underlying Eye Size Variation Within Drosophila melanogaster and Drosophila simulans\n    Gaspar, Arif, Sumner-Rooney et al.\n    G3 Genes|Genomes|Genetics\n    (2020)\n    \n      Details\n    \n    \n    \n      DOI\n    \n    \n    \n    \n       Preprint\n    \n    \n    \n  \n\n  \n    Three Quantitative Trait Loci Explain More than 60% of Variation for Chill Coma Recovery Time in a Natural Population of Drosophila ananassae\n    Koeniger, Arif, Garth\n    G3 Genes|Genomes|Genetics\n    (2019)\n    \n      Details\n    \n    \n    \n      DOI\n    \n    \n    \n    \n       Preprint\n    \n    \n    \n  \n\n  \n    CRISPR/Cas9 as the Key to Unlocking the Secrets of Butterfly Wing Pattern Development and Its Evolution\n    Livragi, Martin, Gibbs, et al.\n    Advances in Insect Physiology\n    (2018)\n    \n      Details\n    \n    \n    \n      DOI\n    \n    \n    \n    \n  \n\n  \n    Gene regulatory network architecture in different developmental contexts influences the genetic basis of morphological evolution\n    Kittelmann, Buffry, Franke et al.\n    PLoS Genetics\n    (2018)\n    \n      Details\n    \n    \n    \n      DOI\n    \n    \n    \n    \n       Preprint\n    \n    \n    \n  \n\n  \n    Pervasive microRNA Duplication in Chelicerates: Insights from the Embryonic microRNA Repertoire of the Spider *Parasteatoda tepidariorum*\n    Leite, Ninova, Hilbrant, et al.\n    Genome Biology & Evolution\n    (2016)\n    \n      Details\n    \n    \n    \n      DOI\n    \n    \n    \n    \n  \n\n  \n    From shavenbaby to the naked valley: Trichome formation as a model for evolutionary developmental biology\n    Arif, Kittelmann, McGregor\n    Evolution & Development\n    (2015)\n    \n      Details\n    \n    \n    \n      DOI\n    \n    \n    \n    \n  \n\n  \n    Evolution of mir-92a underlies natural morphological variation in Drosophila melanogaster\n    Arif, Murat, Almudi, et al.\n    Current Biology\n    (2013)\n    \n      Details\n    \n    \n    \n      DOI\n    \n    \n    \n    \n  \n\n  \n    Genetic and developmental analysis of differences in eye and face morphology between Drosophila simulans and Drosophila mauritiana\n    Arif, Hilbrant, Hopfen, et al.\n    Evolution & Development\n    (2013)\n    \n      Details\n    \n    \n    \n      DOI\n    \n    \n    \n    \n  \n\n  \n    Perspective on Micro-Evo-Devo: Progress and Potential\n    Nunes, Arif, Schlötterer, et al.\n    Genetics\n    (2013)\n    \n      Details\n    \n    \n    \n      DOI\n    \n    \n    \n    \n  \n\n  \n    Evolution of Eye Morphology and Rhodopsin Expression in the Drosophila melanogaster Species Subgroup\n    Posnien, Hopfen, Hilbrant, et al.\n    PLoS ONE\n    (2012)\n    \n      Details\n    \n    \n    \n      DOI\n    \n    \n    \n    \n  \n\n  \n    Phylogenetic relationships of phrynosomatid lizards based on nuclear and mitochondrial data, and a revised phylogeny for Sceloporus\n    Wiens, Kuczynski, Arif, et al.\n    Molecular Phylogenetics and Evolution\n    (2010)\n    \n      Details\n    \n    \n    \n      DOI\n    \n    \n    \n    \n  \n\n  \n    Evolutionary diversification of opercle shape in Cook Inlet threespine stickleback\n    Arif, Aguirre, Bell\n    Biological Journal of the Linnean Society\n    (2009)\n    \n      Details\n    \n    \n    \n      DOI\n    \n    \n    \n    \n  \n\n  \n    A Phylogenetic Hot Spot for Evolutionary Novelty in Middle American Treefrogs\n    Smith, Arif, Adams, Oca, et al.\n    Evolution\n    (2007)\n    \n      Details\n    \n    \n    \n      DOI\n    \n    \n    \n    \n  \n\n  \n    Bioclimatic modelling, morphology, and behaviour reveal alternative mechanisms regulating the distributions of two parapatric salamander species\n    Arif, Adams, Wicknick\n    Evolutionary Ecology Research\n    (2007)\n    \n      Details\n    \n    \n    \n    \n  \n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "InsectOmics Lab",
+    "section": "",
+    "text": "Home\n    Teaching"
+  },
+  {
+    "objectID": "teaching.html#undergraduate-courses",
+    "href": "teaching.html#undergraduate-courses",
+    "title": "InsectOmics Lab",
+    "section": "Undergraduate courses",
+    "text": "Undergraduate courses\nAs a lecturer at I teach a fair bit at the undergraduate level. However, the most important, from a personal persepctive, of these are following two modules I developed and lead:\n\nData Carpentry: Introduction R programming, reproducible research and linear models for 2nd-year Biology Undergraduates\nInterrogating Genomes: an introduction to genomics and bioinformatics for 2nd-year Biology Undergraduates"
+  },
+  {
+    "objectID": "teaching.html#graduate-courses",
+    "href": "teaching.html#graduate-courses",
+    "title": "InsectOmics Lab",
+    "section": "Graduate courses",
+    "text": "Graduate courses\nI have previously taught introduction to linear models and multivariate statistics at the University of Oxford’s BBSRC-funded Doctoral training programme. Material for these courses can be found here and here."
+  },
+  {
+    "objectID": "teaching.html#beyond",
+    "href": "teaching.html#beyond",
+    "title": "InsectOmics Lab",
+    "section": "Beyond",
+    "text": "Beyond\n\nI teach data wrangling and visualization with the tidyverse in R to staff and students as part of the training programme of the Centre for Functional Genomics at Oxford Brookes University.\nI helped developed a course on Literate Programming in R for Elixir’s Code Reproducibility initiative."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "The Insect Genomics lab @Brookes",
+    "section": "",
+    "text": "We study the population, conservation and functional genomics of insects and other arthropods. We are based in the department of Biological and Medical Sciences at Oxford Brookes University. We use genomics (and other genetic tools) to understand dynamics of genetic diversity in the wild and the implications for organismal ecology, evolution and conservation."
+  },
+  {
+    "objectID": "presentation.html#introduction",
+    "href": "presentation.html#introduction",
+    "title": "My Presentation",
+    "section": "Introduction",
+    "text": "Introduction\nWelcome to your Quarto Reveal.js presentation!\n\nPoint one\nPoint two\nPoint three\n\n\nSpeaker notes go here."
+  },
+  {
+    "objectID": "presentation.html#slide-with-r-code",
+    "href": "presentation.html#slide-with-r-code",
+    "title": "My Presentation",
+    "section": "Slide with R Code",
+    "text": "Slide with R Code\n\n# Example R code\nlibrary(ggplot2)\nmtcars |&gt;\n  ggplot(aes(x = wt, y = mpg)) +\n  geom_point() +\n  geom_smooth(method = \"lm\") +\n  labs(title = \"Car Weight vs. MPG\",\n       x = \"Weight (1000 lbs)\",\n       y = \"Miles Per Gallon\")"
+  },
+  {
+    "objectID": "presentation.html#incremental-lists",
+    "href": "presentation.html#incremental-lists",
+    "title": "My Presentation",
+    "section": "Incremental Lists",
+    "text": "Incremental Lists\n\nFirst item\nSecond item\n\nThird item"
+  },
+  {
+    "objectID": "presentation.html#two-column-layout",
+    "href": "presentation.html#two-column-layout",
+    "title": "My Presentation",
+    "section": "Two Column Layout",
+    "text": "Two Column Layout\n\n\nLeft Column\n\nItem A\nItem B\nItem C\n\n\nRight Column\n\nItem 1\nItem 2\nItem 3"
+  },
+  {
+    "objectID": "presentation.html#fragment-examples",
+    "href": "presentation.html#fragment-examples",
+    "title": "My Presentation",
+    "section": "Fragment Examples",
+    "text": "Fragment Examples\n\nFade in\n\n\nFade out\n\n\nHighlight red\n\n\nFade in, then semi out"
+  },
+  {
+    "objectID": "presentation.html#math-equations",
+    "href": "presentation.html#math-equations",
+    "title": "My Presentation",
+    "section": "Math Equations",
+    "text": "Math Equations\nWhen \\(a \\ne 0\\), there are two solutions to \\((ax^2 + bx + c = 0)\\):\n\\[x = \\frac{-b \\pm \\sqrt{b^2-4ac}}{2a}\\]"
+  },
+  {
+    "objectID": "presentation.html#images-and-media",
+    "href": "presentation.html#images-and-media",
+    "title": "My Presentation",
+    "section": "Images and Media",
+    "text": "Images and Media\n\nQuarto Logo"
+  },
+  {
+    "objectID": "presentation.html#tabset-panel",
+    "href": "presentation.html#tabset-panel",
+    "title": "My Presentation",
+    "section": "Tabset Panel",
+    "text": "Tabset Panel\nTab A\nContent for Tab A\nTab B\nContent for Tab B\nTab C\nContent for Tab C"
+  },
+  {
+    "objectID": "presentation.html#code-with-output",
+    "href": "presentation.html#code-with-output",
+    "title": "My Presentation",
+    "section": "Code with Output",
+    "text": "Code with Output\n\n# Summary statistics\nsummary(mtcars$mpg)\n\n   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. \n  10.40   15.43   19.20   20.09   22.80   33.90"
+  },
+  {
+    "objectID": "presentation.html#thank-you",
+    "href": "presentation.html#thank-you",
+    "title": "My Presentation",
+    "section": "Thank You!",
+    "text": "Thank You!\nQuestions?\nContact Information: - Email: your.email@example.com - Website: yourwebsite.com\n\nThank the audience and open for questions."
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "InsectOmics Lab",
+    "section": "",
+    "text": "This page is a work in progress…"
   },
   {
     "objectID": "oppurtunities.html",
@@ -511,74 +511,179 @@
     "text": "Opportunities\n\nFor PhD Students\nI welcome interest of applications from students with research interests similar to my own. I may have a specific project available but I am happy to supervise other projects that are within my area of interest or expertise. I do expect PhD students to be passionate about their projects and be able to work independently in the lab, in the field and on the computer (after some prior training of course).\nThere are two main routes to apply to do a PhD with me. Every few years I advertise a fully-funded PhD project supported by fully-funded Nigel Groome Studentships from the Department of Biological and Medical Sciences at Oxford Brookes. These will be advertised here and elsewhere when available. These are usually advertised by December and application deadlines are in January or February.\nAlternatively, students interested in doing a PhD with me can also look into the ILELSA DTP programme. There are two studentships available for this DTP via Oxford Brookes every year and the deadlines for applications are in January. This is a highly competitive and excellent PhD training programme. if you are potentially interested in working with me via this route, please contact me to talk about your application further. Deadline for applications are usually in January.\n\n\nFor Master’s students\nI am keen on supervising Master’s students interested in genomics, biodiversity and bioinformatics. There are various routes to doing a Master’s project with me if you want to do or currently are on a postgraduate degree at Oxford Brookes, including: MRes, MBiol and MSc programmes in Medical Genetics and Genomics and Conservation Biology.\n\n\nFor Undergraduate Students\nI routinely advertise undergraduate research projects, for Oxford Brookes Students. These are advertised to 2nd year Biological Sciences (all themes) students through the Career Development module in December. If you are super keen on genomics, biodiversity and bioinformatics, you can contact me earlier."
   },
   {
-    "objectID": "contact.html",
-    "href": "contact.html",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "presentations.html",
+    "href": "presentations.html",
     "title": "InsectOmics Lab",
     "section": "",
-    "text": "This page is a work in progress…"
+    "text": "Home\n    Presentations"
   },
   {
-    "objectID": "publications/articles/arifetal2015.html",
-    "href": "publications/articles/arifetal2015.html",
-    "title": "From shavenbaby to the naked valley: Trichome formation as a model for evolutionary developmental biology",
+    "objectID": "presentations.html#presentations-seminars-workshops-and-more",
+    "href": "presentations.html#presentations-seminars-workshops-and-more",
+    "title": "InsectOmics Lab",
+    "section": "Presentations, seminars, workshops and more",
+    "text": "Presentations, seminars, workshops and more\n\nResearch\n\nBiodiversity Genomics, 2024 (BG2024) - Talk title: The last days of Aporia crataegi L. in Britain: Evaluating genomic erosion in an extirpated butterfly. Slides\nBMS Summer Seminar, 2024, Oxford Brookes - Talk title: Highthroughput sequencing from museum samples. Slides\n\n\n\nTeaching\n\nOxford Brookes University International Teaching and Learning Conference 2025 - Workshop title: The PASS tutorial framework as an exemplar for standardising academic advising and improving academic advisor engagement. Slides\nAIDAN seminar series, 2024, Oxford Brookes - Talk title: Using R etc. in teaching and research.\n\n\n\nScience communication and data visualisation\nI like to dabble in alternative science communication and data viz. approaches when I can. You can find outputs of those projects here.\n\nScrollytelling experience for Last Days of Aporia crataegi project (best enjoyed on a desktop/laptop).\nShiny app for sharing research results on impact of non-timber forest prdoucts on biodiversity in Indonesia. In colloboration with Dr. Marco Campera and the Sustainable agroforestry group at Oxford Brookes"
+  },
+  {
+    "objectID": "people/alumni/frankierackham.html",
+    "href": "people/alumni/frankierackham.html",
+    "title": "Francesa Rackham",
     "section": "",
-    "text": "Arif, S., Kittelmann, S., & McGregor, A. P. (2015). From shavenbaby to the naked valley: Trichome formation as a model for evolutionary developmental biology. Evolution & Development, 17(1), 120–126. https://doi.org/10.1111/ede.12113"
+    "text": "Home\n  People\n  Alumni\n  Francesa Rackham"
   },
   {
-    "objectID": "publications/articles/arifetal2015.html#citation",
-    "href": "publications/articles/arifetal2015.html#citation",
-    "title": "From shavenbaby to the naked valley: Trichome formation as a model for evolutionary developmental biology",
+    "objectID": "people/alumni/sarahrdalo.html",
+    "href": "people/alumni/sarahrdalo.html",
+    "title": "Sara Hrdalo",
     "section": "",
-    "text": "Arif, S., Kittelmann, S., & McGregor, A. P. (2015). From shavenbaby to the naked valley: Trichome formation as a model for evolutionary developmental biology. Evolution & Development, 17(1), 120–126. https://doi.org/10.1111/ede.12113"
+    "text": "Home\n  People\n  Alumni\n  Sara Hrdalo\n  \n  \n\n  \n \nI am currently applying for jobs to gain experience in laboratory. Next year I am planning to do Masters in Bioinformatics or Genomic Medicine. In my free time I like to read Sci-Fi books and go to gym.\nUndergrad Project Title: Analysis of Chromosomal Aberrations Found in Polyommatus icarus and Investigation of Feminization"
   },
   {
-    "objectID": "publications/articles/arifetal2015.html#abstract",
-    "href": "publications/articles/arifetal2015.html#abstract",
-    "title": "From shavenbaby to the naked valley: Trichome formation as a model for evolutionary developmental biology",
+    "objectID": "people/alumni/willmillard.html",
+    "href": "people/alumni/willmillard.html",
+    "title": "Will Millard",
+    "section": "",
+    "text": "Home\n  People\n  Alumni\n  Will Millard"
+  },
+  {
+    "objectID": "people/alumni/reubenkumar.html",
+    "href": "people/alumni/reubenkumar.html",
+    "title": "Reuben Kumar",
+    "section": "",
+    "text": "Home\n  People\n  Alumni\n  Reuben Kumar"
+  },
+  {
+    "objectID": "people/undergrad/rebeccajones.html",
+    "href": "people/undergrad/rebeccajones.html",
+    "title": "Rebecca Jones",
+    "section": "",
+    "text": "Home\n  People\n  \n  Rebecca Jones\n  \n  \n\n  \n \nRebecca is an undergraduate currently studying biological sciences and working on her final year project, which investigates genomic erosion metrics in butterflies. Her main interests are genetics, genomics, statistics, data analysis and conservation. Rebecca was selected for and attended the Gatsby Plant Science Summer School in 2023. During July 2024, Rebecca is on work experience at a startup biotechnology company called Sun Bear Biofuture that aims to produce a commercially viable alternative to palm oil."
+  },
+  {
+    "objectID": "people/undergrad/ryanfisher.html",
+    "href": "people/undergrad/ryanfisher.html",
+    "title": "Ryan Fisher",
+    "section": "",
+    "text": "Home\n  People\n  \n  Ryan Fisher\n  \n  \n\n  \n \nRyan is currently studying biological sciences at Oxford Brookes university specialising in genetics and data analysis. He is passionate about applying genetics and embryology to support animal conservation efforts. Outside academia Ryan enjoys reading and and rock climbing."
+  },
+  {
+    "objectID": "people/staff/saadarif.html",
+    "href": "people/staff/saadarif.html",
+    "title": "Saad Arif",
+    "section": "",
+    "text": "Home\n    People\n    Research Staff\n    Saad Arif"
+  },
+  {
+    "objectID": "people/staff/saadarif.html#biography",
+    "href": "people/staff/saadarif.html#biography",
+    "title": "Saad Arif",
+    "section": "Biography",
+    "text": "Biography\nI am a senior lecturer at the Department of Biological and Medical Science at the Oxford Brookes University. I am also associated with Centre for Functional Genomics at Brookes, serving as its first scientific director from 2019-2021. I received a PhD in Genetics from Oxford Brookes University in 2013.\nI am an evolutionary biologist studying the genetics and genomics of ecology, evolution, development and conservation. I received an Alexander von Humboldt Post-doctoral research fellowship in 2014. I use genomic and genetic tools to research the biology and conservation of invertebrates (mostly 🦋 these days).\nI teach courses at various levels including undergraduate and postgraduate. My teaching includes data science, statistical inference, bioinformatics and reproducibility (particularly literate programming and version control/colloboration) in biology and the environmental sciences - concepts and approaches that are crucial to my own research. I also teach courses on reproducibility and programming and data science in R aimed at researchers."
+  },
+  {
+    "objectID": "people/staff/saadarif.html#experience",
+    "href": "people/staff/saadarif.html#experience",
+    "title": "Saad Arif",
+    "section": "Experience",
+    "text": "Experience\n\nOxford Brookes University | Oxford, UK Senior Lecturer in Genetics and Genomics | 2019–Current Lecturer in Genetics and Genomics | 2015-2019 Scientific Director of the Centre for Functional Genomics) | 2019-2021\nFriedrich Mesicher Laboratory at the Max Planck Institute for Developmental Biology | Tuebingen, Germany Postdoctoral Researcher| 2013–2015\nStony Brook University | Stony Brook, NY, USA Research Assisant on the Deep Scaly project | 2005–2007"
+  },
+  {
+    "objectID": "people/staff/saadarif.html#awards-and-grants",
+    "href": "people/staff/saadarif.html#awards-and-grants",
+    "title": "Saad Arif",
+    "section": "Awards and Grants",
+    "text": "Awards and Grants\n\nNERC-NBAF | 2021 Using genomics to explore a potential case of Wolbachia-mediated feminization in the Polyommatus icarus butterfly\nAlexander von Humboldt Post-doctoral research fellowship | 2014-2016"
+  },
+  {
+    "objectID": "people/staff/saadarif.html#education",
+    "href": "people/staff/saadarif.html#education",
+    "title": "Saad Arif",
+    "section": "Education",
+    "text": "Education\n\nOxford Brookes University | Oxford, UK PhD in Genetics | 2010–2013\nIowa State University | Ames, IA, USA MSc in Ecology, Evolution and Organismal Biology | 2003–2005\nDrake University | Des Moines, IA, USA BSc in Biology | 1999-2003"
+  },
+  {
+    "objectID": "posts.html",
+    "href": "posts.html",
+    "title": "blog",
+    "section": "",
+    "text": "No matching items"
+  },
+  {
+    "objectID": "publications/articles/livraghetal2017.html",
+    "href": "publications/articles/livraghetal2017.html",
+    "title": "CRISPR/Cas9 as the Key to Unlocking the Secrets of Butterfly Wing Pattern Development and Its Evolution",
+    "section": "",
+    "text": "Livraghi, L., Martin, A., Gibbs, M., Braak, N., Arif, S., & Breuker, C. J. (2018). CRISPR/Cas9 as the Key to Unlocking the Secrets of Butterfly Wing Pattern Development and Its Evolution. In R. H. ffrench-Constant (Ed.), Advances in Insect Physiology (Vol. 54, pp. 85–115). Academic Press. https://doi.org/10.1016/bs.aiip.2017.11.001"
+  },
+  {
+    "objectID": "publications/articles/livraghetal2017.html#citation",
+    "href": "publications/articles/livraghetal2017.html#citation",
+    "title": "CRISPR/Cas9 as the Key to Unlocking the Secrets of Butterfly Wing Pattern Development and Its Evolution",
+    "section": "",
+    "text": "Livraghi, L., Martin, A., Gibbs, M., Braak, N., Arif, S., & Breuker, C. J. (2018). CRISPR/Cas9 as the Key to Unlocking the Secrets of Butterfly Wing Pattern Development and Its Evolution. In R. H. ffrench-Constant (Ed.), Advances in Insect Physiology (Vol. 54, pp. 85–115). Academic Press. https://doi.org/10.1016/bs.aiip.2017.11.001"
+  },
+  {
+    "objectID": "publications/articles/livraghetal2017.html#abstract",
+    "href": "publications/articles/livraghetal2017.html#abstract",
+    "title": "CRISPR/Cas9 as the Key to Unlocking the Secrets of Butterfly Wing Pattern Development and Its Evolution",
     "section": "Abstract",
-    "text": "Abstract\nMicrotrichia or trichomes are non-sensory actin protrusions produced by the epidermal cells of many insects. Studies of trichome formation in Drosophila have over the last 30 years provided key insights towards our understanding of gene regulation, gene regulatory networks (GRNs), development, the genotype to phenotype map, and the evolution of these processes. Here we review classic studies that have used trichome formation as a model to shed light on Drosophila development as well as recent research on the architecture of the GRN underlying trichome formation. This includes the findings that both small peptides and microRNAs play important roles in the regulation and evolution of this network. In addition, we review research on the evolution of trichome patterns that has provided novel insights into the function and architecture of cis-regulatory modules, and into the genetic basis of morphological change. We conclude that further research on these apparently simple and often functionally enigmatic structures will continue to provide new and important knowledge about development and evolution."
+    "text": "Abstract\nWith the exception of a few moth and butterfly species, gene-editing tools in Lepidoptera have been lagging behind other well-studied insects. In order to elucidate gene function across the order, it is necessary to establish tools that enable such gene manipulation. CRISPR/Cas9 is a promising technique and here we review the recent progress made in implementing the technique in butterflies; from broad patterning of the wing, to the development of specific colours in particular wing sections, to eyespot formation. The often species-specific responses to the CRISPR/Cas9-induced mutations in candidate genes, underscore the significance of these genes in the wide evolutionary diversification of butterfly wing patterns. We further discuss potential caveats in the interpretation of the resulting mutant phenotypes obtained through CRISPR/Cas9 gene editing. Finally, we discuss the possibilities CRISPR/Cas9 offers beyond mere knockout of candidate genes, including the potential for the generation of transgenics that will further elucidate the developmental genetic basis for wing pattern evolution."
   },
   {
-    "objectID": "publications/articles/posnienetal2012.html",
-    "href": "publications/articles/posnienetal2012.html",
-    "title": "Evolution of Eye Morphology and Rhodopsin Expression in the Drosophila melanogaster Species Subgroup",
-    "section": "",
-    "text": "Posnien, N., Hopfen, C., Hilbrant, M., Ramos-Womack, M., Murat, S., Schönauer, A., Herbert, S. L., Nunes, M. D. S., Arif, S., Breuker, C. J., Schlötterer, C., Mitteroecker, P., & McGregor, A. P. (2012). Evolution of Eye Morphology and Rhodopsin Expression in the Drosophila melanogaster Species Subgroup. PLOS ONE, 7(5), e37346. https://doi.org/10.1371/journal.pone.0037346"
-  },
-  {
-    "objectID": "publications/articles/posnienetal2012.html#citation",
-    "href": "publications/articles/posnienetal2012.html#citation",
-    "title": "Evolution of Eye Morphology and Rhodopsin Expression in the Drosophila melanogaster Species Subgroup",
-    "section": "",
-    "text": "Posnien, N., Hopfen, C., Hilbrant, M., Ramos-Womack, M., Murat, S., Schönauer, A., Herbert, S. L., Nunes, M. D. S., Arif, S., Breuker, C. J., Schlötterer, C., Mitteroecker, P., & McGregor, A. P. (2012). Evolution of Eye Morphology and Rhodopsin Expression in the Drosophila melanogaster Species Subgroup. PLOS ONE, 7(5), e37346. https://doi.org/10.1371/journal.pone.0037346"
-  },
-  {
-    "objectID": "publications/articles/posnienetal2012.html#abstract",
-    "href": "publications/articles/posnienetal2012.html#abstract",
-    "title": "Evolution of Eye Morphology and Rhodopsin Expression in the Drosophila melanogaster Species Subgroup",
+    "objectID": "publications/articles/gonzalezetal2023.html#abstract",
+    "href": "publications/articles/gonzalezetal2023.html#abstract",
+    "title": "Development and patterning of a highly versatile visual system in spiders",
     "section": "Abstract",
-    "text": "Abstract\nA striking diversity of compound eye size and shape has evolved among insects. The number of ommatidia and their size are major determinants of the visual sensitivity and acuity of the compound eye. Each ommatidium is composed of eight photoreceptor cells that facilitate the discrimination of different colours via the expression of various light sensitive Rhodopsin proteins. It follows that variation in eye size, shape, and opsin composition is likely to directly influence vision. We analyzed variation in these three traits in D. melanogaster, D. simulans and D. mauritiana. We show that D. mauritiana generally has larger eyes than its sibling species, which is due to a combination of larger ommatidia and more ommatidia. In addition, intra- and inter-specific differences in eye size among D. simulans and D. melanogaster strains are mainly caused by variation in ommatidia number. By applying a geometric morphometrics approach to assess whether the formation of larger eyes influences other parts of the head capsule, we found that an increase in eye size is associated with a reduction in the adjacent face cuticle. Our shape analysis also demonstrates that D. mauritiana eyes are specifically enlarged in the dorsal region. Intriguingly, this dorsal enlargement is associated with enhanced expression of rhodopsin 3 in D. mauritiana. In summary, our data suggests that the morphology and functional properties of the compound eyes vary considerably within and among these closely related Drosophila species and may be part of coordinated morphological changes affecting the head capsule."
+    "text": "Abstract\nVisual systems provide a key interface between organisms and their surroundings, and have evolved in many forms to perform diverse functions across the animal kingdom. Spiders exhibit a range of visual abilities and ecologies, the diversity of which is underpinned by a highly versatile, modular visual system architecture. This typically includes eight eyes of two developmentally distinct types, but the number, size, location, and function of the eyes can vary dramatically between lineages. Previous studies of visual system development in spiders have confirmed that many components of the retinal determination gene (RDG) network are conserved with other arthropods, but so far, comparative studies among spiders are lacking. We characterised visual system development in eight species of spiders representing a range of morphologies, visual ecologies, and phylogenetic positions, to determine how these diverse configurations are formed, and how they might evolve. Combining synchrotron radiation tomography, transcriptomics, in situ hybridisation, and selection analyses, we characterise the repertoires and expression of key RDGs in relation to adult morphology. We identify key molecular players, timepoints, and developmental events that may contribute to adult diversity, in particular the molecular and developmental underpinnings of eye size, number, position, and identity across spiders."
   },
   {
-    "objectID": "publications/articles/baudouinetal2021.html",
-    "href": "publications/articles/baudouinetal2021.html",
-    "title": "The evolution of Sox gene repertoires and regulation of segmentation in arachnids",
+    "objectID": "publications/articles/leiteetal2016.html",
+    "href": "publications/articles/leiteetal2016.html",
+    "title": "Pervasive microRNA Duplication in Chelicerates: Insights from the Embryonic microRNA Repertoire of the Spider Parasteatoda tepidariorum",
     "section": "",
-    "text": "Baudouin-Gonzalez, L., Schoenauer, A., Harper, A., Blakeley, G., Seiter, M., Arif, S., Sumner-Rooney, L., Russell, S., Sharma, P. P., & McGregor, A. P. (2020). The evolution of Sox gene repertoires and regulation of segmentation in arachnids. BioRxiv, 2020.06.04.133389. https://doi.org/10.1101/2020.06.04.133389"
+    "text": "Leite, D. J., Ninova, M., Hilbrant, M., Arif, S., Griffiths-Jones, S., Ronshaugen, M., & McGregor, A. P. (2016). Pervasive microRNA Duplication in Chelicerates: Insights from the Embryonic microRNA Repertoire of the Spider Parasteatoda tepidariorum. Genome Biology and Evolution, 8(7), 2133–2144. https://doi.org/10.1093/gbe/evw143"
   },
   {
-    "objectID": "publications/articles/baudouinetal2021.html#citation",
-    "href": "publications/articles/baudouinetal2021.html#citation",
-    "title": "The evolution of Sox gene repertoires and regulation of segmentation in arachnids",
+    "objectID": "publications/articles/leiteetal2016.html#citation",
+    "href": "publications/articles/leiteetal2016.html#citation",
+    "title": "Pervasive microRNA Duplication in Chelicerates: Insights from the Embryonic microRNA Repertoire of the Spider Parasteatoda tepidariorum",
     "section": "",
-    "text": "Baudouin-Gonzalez, L., Schoenauer, A., Harper, A., Blakeley, G., Seiter, M., Arif, S., Sumner-Rooney, L., Russell, S., Sharma, P. P., & McGregor, A. P. (2020). The evolution of Sox gene repertoires and regulation of segmentation in arachnids. BioRxiv, 2020.06.04.133389. https://doi.org/10.1101/2020.06.04.133389"
+    "text": "Leite, D. J., Ninova, M., Hilbrant, M., Arif, S., Griffiths-Jones, S., Ronshaugen, M., & McGregor, A. P. (2016). Pervasive microRNA Duplication in Chelicerates: Insights from the Embryonic microRNA Repertoire of the Spider Parasteatoda tepidariorum. Genome Biology and Evolution, 8(7), 2133–2144. https://doi.org/10.1093/gbe/evw143"
   },
   {
-    "objectID": "publications/articles/baudouinetal2021.html#abstract",
-    "href": "publications/articles/baudouinetal2021.html#abstract",
-    "title": "The evolution of Sox gene repertoires and regulation of segmentation in arachnids",
+    "objectID": "publications/articles/leiteetal2016.html#abstract",
+    "href": "publications/articles/leiteetal2016.html#abstract",
+    "title": "Pervasive microRNA Duplication in Chelicerates: Insights from the Embryonic microRNA Repertoire of the Spider Parasteatoda tepidariorum",
     "section": "Abstract",
-    "text": "Abstract\nThe Sox family of transcription factors regulates many processes during metazoan development, including stem cell maintenance and nervous system specification. Characterizing the repertoires and roles of these genes can therefore provide important insights into animal evolution and development. We further characterized the Sox repertoires of several arachnid species with and without an ancestral whole-genome duplication and compared their expression between the spider Parasteatoda tepidariorum and the harvestman Phalangium opilio. We found that most Sox families have been retained as ohnologs after whole-genome duplication and evidence for potential subfunctionalization and/or neofunctionalization events. Our results also suggest that Sox21b-1 likely regulated segmentation ancestrally in arachnids, playing a similar role to the closely related SoxB gene, Dichaete, in insects. We previously showed that Sox21b-1 is required for the simultaneous formation of prosomal segments and sequential addition of opisthosomal segments in P. tepidariorum. We studied the expression and function of Sox21b-1 further in this spider and found that although this gene regulates the generation of both prosomal and opisthosomal segments, it plays different roles in the formation of these tagmata reflecting their contrasting modes of segmentation and deployment of gene regulatory networks with different architectures."
+    "text": "Abstract\nMicroRNAs are small (∼22 nt) noncoding RNAs that repress translation and therefore regulate the production of proteins from specific target mRNAs. microRNAs have been found to function in diverse aspects of gene regulation within animal development and many other processes. Among invertebrates, both conserved and novel, lineage specific, microRNAs have been extensively studied predominantly in holometabolous insects such as Drosophila melanogaster . However little is known about microRNA repertoires in other arthropod lineages such as the chelicerates. To understand the evolution of microRNAs in this poorly sampled subphylum, we characterized the microRNA repertoire expressed during embryogenesis of the common house spider Parasteatoda tepidariorum . We identified a total of 148 microRNAs in P. tepidariorum representing 66 families. Approximately half of these microRNA families are conserved in other metazoans, while the remainder are specific to this spider. Of the 35 conserved microRNAs families 15 had at least two copies in the P. tepidariorum genome. A BLAST-based approach revealed a similar pattern of duplication in other spiders and a scorpion, but not among other chelicerates and arthropods, with the exception of a horseshoe crab. Among the duplicated microRNAs we found examples of lineage-specific tandem duplications, and the duplication of entire microRNA clusters in three spiders, a scorpion, and in a horseshoe crab. Furthermore, we found that paralogs of many P. tepidariorum microRNA families exhibit arm switching, which suggests that duplication was often followed by sub- or neofunctionalization. Our work shows that understanding the evolution of microRNAs in the chelicerates has great potential to provide insights into the process of microRNA duplication and divergence and the evolution of animal development."
+  },
+  {
+    "objectID": "publications/articles/wiensetal2010.html",
+    "href": "publications/articles/wiensetal2010.html",
+    "title": "Phylogenetic relationships of phrynosomatid lizards based on nuclear and mitochondrial data, and a revised phylogeny for Sceloporus",
+    "section": "",
+    "text": "Wiens, J. J., Kuczynski, C. A., Arif, S., & Reeder, T. W. (2010). Phylogenetic relationships of phrynosomatid lizards based on nuclear and mitochondrial data, and a revised phylogeny for Sceloporus. Molecular Phylogenetics and Evolution, 54(1), 150–161. https://doi.org/10.1016/j.ympev.2009.09.008"
+  },
+  {
+    "objectID": "publications/articles/wiensetal2010.html#citation",
+    "href": "publications/articles/wiensetal2010.html#citation",
+    "title": "Phylogenetic relationships of phrynosomatid lizards based on nuclear and mitochondrial data, and a revised phylogeny for Sceloporus",
+    "section": "",
+    "text": "Wiens, J. J., Kuczynski, C. A., Arif, S., & Reeder, T. W. (2010). Phylogenetic relationships of phrynosomatid lizards based on nuclear and mitochondrial data, and a revised phylogeny for Sceloporus. Molecular Phylogenetics and Evolution, 54(1), 150–161. https://doi.org/10.1016/j.ympev.2009.09.008"
+  },
+  {
+    "objectID": "publications/articles/wiensetal2010.html#abstract",
+    "href": "publications/articles/wiensetal2010.html#abstract",
+    "title": "Phylogenetic relationships of phrynosomatid lizards based on nuclear and mitochondrial data, and a revised phylogeny for Sceloporus",
+    "section": "Abstract",
+    "text": "Abstract\nPhrynosomatid lizards are among the most common and diverse groups of reptiles in western North America, Mexico, and Central America. Phrynosomatidae includes 136 species in 10 genera. Phrynosomatids are used as model systems in many research programs in evolution and ecology, and much of this research has been undertaken in a comparative phylogenetic framework. However, relationships among many phrynosomatid genera are poorly supported and in conflict between recent studies. Further, previous studies based on mitochondrial DNA sequences suggested that the most species-rich genus (Sceloporus) is possibly paraphyletic with respect to as many as four other genera (Petrosaurus, Sator, Urosaurus, and Uta). Here, we collect new sequence data from five nuclear genes and combine them with published data from one additional nuclear gene and five mitochondrial gene regions. We compare trees from nuclear and mitochondrial data from 37 phrynosomatid taxa, including a “species tree” (from BEST) for the nuclear data. We also present a phylogeny for 122 phrynosomatid species based on maximum likelihood analysis of the combined data, which provides a strongly-supported hypothesis for relationships among most phrynosomatid genera and includes most phrynosomatid species. Our results strongly support the monophyly of Sceloporus (including Sator) and many of the relationships within it. We present a new classification for phrynosomatid lizards and the genus Sceloporus, and offer a new tree with branch lengths for use in comparative studies.n item to its correct category without guessing. Whereas Van Oest showed this interpretation for unweighted agreement, we generalize to weighted agreement."
   },
   {
     "objectID": "publications/articles/smithetal2007.html",
@@ -602,123 +707,25 @@
     "text": "Abstract\nAmong the various types of evolutionary changes in morphology, the origin of novel structures may be the most rare and intriguing. Here we show statistically that the origins of different novel structures may be correlated and phylogenetically clustered into “hot spots” of evolutionary novelty, in a case study involving skull elements in treefrogs. We reconstruct phylogenetic relationships within a clade of Middle American treefrogs based on data from 10 nuclear and four mitochondrial genes and then analyze morphological evolution across this tree. New cranial elements are rare among anurans and tetrapods in general, but three novel elements have evolved within this clade, with a 40% increase in the number of skull roof elements in some species. Two of these elements also evolved in a related clade of treefrogs, and these two novel elements may have each evolved repeatedly within one or both clades. The molecular phylogeny suggests striking homoplasy in cranial morphology and shows that parsimony and Bayesian analyses of the morphological data have produced misleading results with strong statistical support. The origins of the novel elements are associated with an overall increase in the ossification of dermal skull roof elements (suggesting peramorphosis) and with the evolution of a novel adaptive behavior. Our study may be the first to statistically document significant phylogenetic clustering and correlation in the origins of novel structures, and to demonstrate the strongly misleading effects of peramorphosis on phylogenetic analysis."
   },
   {
-    "objectID": "publications/articles/kittelmann2018.html",
-    "href": "publications/articles/kittelmann2018.html",
-    "title": "Gene regulatory network architecture in different developmental contexts influences the genetic basis of morphological evolution",
+    "objectID": "publications/articles/posnienetal2012.html",
+    "href": "publications/articles/posnienetal2012.html",
+    "title": "Evolution of Eye Morphology and Rhodopsin Expression in the Drosophila melanogaster Species Subgroup",
     "section": "",
-    "text": "Kittelmann, S., Buffry, A. D., Franke, F. A., Almudi, I., Yoth, M., Sabaris, G., Couso, J. P., Nunes, M. D. S., Frankel, N., Gómez-Skarmeta, J. L., Pueyo-Marques, J., Arif, S., & McGregor, A. P. (2018). Gene regulatory network architecture in different developmental contexts influences the genetic basis of morphological evolution. PLOS Genetics, 14(5), e1007375. https://doi.org/10.1371/journal.pgen.1007375"
+    "text": "Posnien, N., Hopfen, C., Hilbrant, M., Ramos-Womack, M., Murat, S., Schönauer, A., Herbert, S. L., Nunes, M. D. S., Arif, S., Breuker, C. J., Schlötterer, C., Mitteroecker, P., & McGregor, A. P. (2012). Evolution of Eye Morphology and Rhodopsin Expression in the Drosophila melanogaster Species Subgroup. PLOS ONE, 7(5), e37346. https://doi.org/10.1371/journal.pone.0037346"
   },
   {
-    "objectID": "publications/articles/kittelmann2018.html#citation",
-    "href": "publications/articles/kittelmann2018.html#citation",
-    "title": "Gene regulatory network architecture in different developmental contexts influences the genetic basis of morphological evolution",
+    "objectID": "publications/articles/posnienetal2012.html#citation",
+    "href": "publications/articles/posnienetal2012.html#citation",
+    "title": "Evolution of Eye Morphology and Rhodopsin Expression in the Drosophila melanogaster Species Subgroup",
     "section": "",
-    "text": "Kittelmann, S., Buffry, A. D., Franke, F. A., Almudi, I., Yoth, M., Sabaris, G., Couso, J. P., Nunes, M. D. S., Frankel, N., Gómez-Skarmeta, J. L., Pueyo-Marques, J., Arif, S., & McGregor, A. P. (2018). Gene regulatory network architecture in different developmental contexts influences the genetic basis of morphological evolution. PLOS Genetics, 14(5), e1007375. https://doi.org/10.1371/journal.pgen.1007375"
+    "text": "Posnien, N., Hopfen, C., Hilbrant, M., Ramos-Womack, M., Murat, S., Schönauer, A., Herbert, S. L., Nunes, M. D. S., Arif, S., Breuker, C. J., Schlötterer, C., Mitteroecker, P., & McGregor, A. P. (2012). Evolution of Eye Morphology and Rhodopsin Expression in the Drosophila melanogaster Species Subgroup. PLOS ONE, 7(5), e37346. https://doi.org/10.1371/journal.pone.0037346"
   },
   {
-    "objectID": "publications/articles/kittelmann2018.html#abstract",
-    "href": "publications/articles/kittelmann2018.html#abstract",
-    "title": "Gene regulatory network architecture in different developmental contexts influences the genetic basis of morphological evolution",
+    "objectID": "publications/articles/posnienetal2012.html#abstract",
+    "href": "publications/articles/posnienetal2012.html#abstract",
+    "title": "Evolution of Eye Morphology and Rhodopsin Expression in the Drosophila melanogaster Species Subgroup",
     "section": "Abstract",
-    "text": "Abstract\nConvergent phenotypic evolution is often caused by recurrent changes at particular nodes in the underlying gene regulatory networks (GRNs). The genes at such evolutionary ‘hotspots’ are thought to maximally affect the phenotype with minimal pleiotropic consequences. This has led to the suggestion that if a GRN is understood in sufficient detail, the path of evolution may be predictable. The repeated evolutionary loss of larval trichomes among Drosophila species is caused by the loss of shavenbaby (svb) expression. svb is also required for development of leg trichomes, but the evolutionary gain of trichomes in the ‘naked valley’ on T2 femurs in Drosophila melanogaster is caused by reduced microRNA-92a (miR-92a) expression rather than changes in svb. We compared the expression and function of components between the larval and leg trichome GRNs to investigate why the genetic basis of trichome pattern evolution differs in these developmental contexts. We found key differences between the two networks in both the genes employed, and in the regulation and function of common genes. These differences in the GRNs reveal why mutations in svb are unlikely to contribute to leg trichome evolution and how instead miR-92a represents the key evolutionary switch in this context. Our work shows that variability in GRNs across different developmental contexts, as well as whether a morphological feature is lost versus gained, influence the nodes at which a GRN evolves to cause morphological change. Therefore, our findings have important implications for understanding the pathways and predictability of evolution."
-  },
-  {
-    "objectID": "publications/articles/kittelmann2018.html#author-summary",
-    "href": "publications/articles/kittelmann2018.html#author-summary",
-    "title": "Gene regulatory network architecture in different developmental contexts influences the genetic basis of morphological evolution",
-    "section": "Author Summary",
-    "text": "Author Summary\nA major goal of biology is to identify the genetic causes of organismal diversity. Convergent evolution of traits is often caused by changes in the same genes–evolutionary ‘hotspots’. shavenbaby is a ‘hotspot’ for larval trichome loss in Drosophila, but microRNA-92a underlies the gain of leg trichomes. To understand this difference in the genetics of phenotypic evolution, we compared the expression and function of genes in the underlying regulatory networks. We found that the pathway of evolution is influenced by differences in gene regulatory network architecture in different developmental contexts, as well as by whether a trait is lost or gained. Therefore, hotspots in one context may not readily evolve in a different context. This has important implications for understanding the genetic basis of phenotypic change and the predictability of evolution."
-  },
-  {
-    "objectID": "publications/articles/arifetal2013b.html",
-    "href": "publications/articles/arifetal2013b.html",
-    "title": "Evolution of mir-92a underlies natural morphological variation in Drosophila melanogaster",
-    "section": "",
-    "text": "Arif, S., Murat, S., Almudi, I., Nunes, M. D., Bortolamiol-Becet, D., McGregor, N. S., Currie, J. M., Hughes, H., Ronshaugen, M., Sucena, E., Lai, E. C., Schlotterer, C., & McGregor, A. P. (2013). Evolution of mir-92a underlies natural morphological variation in Drosophila melanogaster. Curr Biol, 23, 523–528. https://doi.org/10.1016/j.cub.2013.02.018"
-  },
-  {
-    "objectID": "publications/articles/arifetal2013b.html#citation",
-    "href": "publications/articles/arifetal2013b.html#citation",
-    "title": "Evolution of mir-92a underlies natural morphological variation in Drosophila melanogaster",
-    "section": "",
-    "text": "Arif, S., Murat, S., Almudi, I., Nunes, M. D., Bortolamiol-Becet, D., McGregor, N. S., Currie, J. M., Hughes, H., Ronshaugen, M., Sucena, E., Lai, E. C., Schlotterer, C., & McGregor, A. P. (2013). Evolution of mir-92a underlies natural morphological variation in Drosophila melanogaster. Curr Biol, 23, 523–528. https://doi.org/10.1016/j.cub.2013.02.018"
-  },
-  {
-    "objectID": "publications/articles/arifetal2013b.html#summary",
-    "href": "publications/articles/arifetal2013b.html#summary",
-    "title": "Evolution of mir-92a underlies natural morphological variation in Drosophila melanogaster",
-    "section": "Summary",
-    "text": "Summary\nIdentifying the genetic mechanisms underlying phenotypic change is essential to understanding how gene regulatory networks and ultimately the genotype-to-phenotype map evolve. It is recognized that microRNAs (miRNAs) have the potential to facilitate evolutionary change [1, 2, 3]; however, there are no known examples of natural morphological variation caused by evolutionary changes in miRNA expression. Therefore, the contribution of miRNAs to evolutionary change remains unknown [1, 4]. Drosophila melanogaster subgroup species display a portion of trichome-free cuticle on the femur of the second leg called the “naked valley.” It was previously shown that Ultrabithorax (Ubx) is involved in naked valley variation between D. melanogaster and D. simulans [5, 6]. However, naked valley size also varies among populations of D. melanogaster, ranging from 1,000 up to 30,000 μm2. We investigated the genetic basis of intraspecific differences in the naked valley in D. melanogaster and found that neither Ubx nor shavenbaby (svb) [7, 8] contributes to this morphological difference. Instead, we show that changes in mir-92a expression underlie the evolution of naked valley size in D. melanogaster through repression of shavenoid (sha) [9]. Therefore, our results reveal a novel mechanism for morphological evolution and suggest that modulation of the expression of miRNAs potentially plays a prominent role in generating organismal diversity."
-  },
-  {
-    "objectID": "publications/articles/arifetal2013b.html#highlights",
-    "href": "publications/articles/arifetal2013b.html#highlights",
-    "title": "Evolution of mir-92a underlies natural morphological variation in Drosophila melanogaster",
-    "section": "Highlights",
-    "text": "Highlights\n\nmir-92a represses shavenoid in the posterior femur to modulate naked valley size\ncis-regulatory changes in mir-92a cause the evolution of morphology in Drosophila\nTrichome pattern changes are caused by different regulatory factors\nChanges in miRNA expression might play a prominent role in phenotypic change"
-  },
-  {
-    "objectID": "publications/articles/harperetal2021.html",
-    "href": "publications/articles/harperetal2021.html",
-    "title": "Widespread retention of ohnologs in key developmental gene families following whole genome duplication in arachnopulmona",
-    "section": "",
-    "text": "Harper, A., Gonzalez, L. B., Schönauer, A., Seiter, M., Holzem, M., Arif, S., McGregor, A. P., & Sumner-Rooney, L. (2020). Widespread retention of ohnologs in key developmental gene families following whole genome duplication in arachnopulmonates. BioRxiv, 2020.07.10.177725. https://doi.org/10.1101/2020.07.10.177725"
-  },
-  {
-    "objectID": "publications/articles/harperetal2021.html#citation",
-    "href": "publications/articles/harperetal2021.html#citation",
-    "title": "Widespread retention of ohnologs in key developmental gene families following whole genome duplication in arachnopulmona",
-    "section": "",
-    "text": "Harper, A., Gonzalez, L. B., Schönauer, A., Seiter, M., Holzem, M., Arif, S., McGregor, A. P., & Sumner-Rooney, L. (2020). Widespread retention of ohnologs in key developmental gene families following whole genome duplication in arachnopulmonates. BioRxiv, 2020.07.10.177725. https://doi.org/10.1101/2020.07.10.177725"
-  },
-  {
-    "objectID": "publications/articles/harperetal2021.html#abstract",
-    "href": "publications/articles/harperetal2021.html#abstract",
-    "title": "Widespread retention of ohnologs in key developmental gene families following whole genome duplication in arachnopulmona",
-    "section": "Abstract",
-    "text": "Abstract\nWhole-genome duplications (WGDs) have occurred multiple times during animal evolution, including in lineages leading to vertebrates, teleosts, horseshoe crabs, and arachnopulmonates. These dramatic events initially produce a wealth of new genetic material, generally followed by extensive gene loss. It appears, however, that developmental genes such as homeobox genes, signaling pathway components and microRNAs are frequently retained as duplicates (so-called ohnologs) following WGD. These not only provide the best evidence for WGD, but an opportunity to study its evolutionary consequences. Although these genes are well studied in the context of vertebrate WGD, similar comparisons across the extant arachnopulmonate orders are patchy. We sequenced embryonic transcriptomes from two spider species and two amblypygid species and surveyed three important gene families, Hox, Wnt, and frizzled, across these and 12 existing transcriptomic and genomic resources for chelicerates. We report extensive retention of putative ohnologs, further supporting the ancestral arachnopulmonate WGD. We also found evidence of consistent evolutionary trajectories in Hox and Wnt gene repertoires across three of the six arachnopulmonate orders, with interorder variation in the retention of specific paralogs. We identified variation between major clades in spiders and are better able to reconstruct the chronology of gene duplications and losses in spiders, amblypygids, and scorpions. These insights shed light on the evolution of the developmental toolkit in arachnopulmonates, highlight the importance of the comparative approach within lineages, and provide substantial new transcriptomic data for future study."
-  },
-  {
-    "objectID": "publications/articles/arifetal2021.html",
-    "href": "publications/articles/arifetal2021.html",
-    "title": "Evidence for multiple colonisations and Wolbachia infections shaping the genetic structure of the widespread butterfly Polyommatus icarus in the British Isles",
-    "section": "",
-    "text": "Arif, S., Gerth, M., Hone-Millard, W. G., Nunes, M. D. S., Dapporto, L., & Shreeve, T. G. (2021). Evidence for multiple colonisations and Wolbachia infections shaping the genetic structure of the widespread butterfly Polyommatus icarus in the British Isles. Molecular Ecology, 30(20), 5196–5213. https://doi.org/10.1111/mec.16126"
-  },
-  {
-    "objectID": "publications/articles/arifetal2021.html#citation",
-    "href": "publications/articles/arifetal2021.html#citation",
-    "title": "Evidence for multiple colonisations and Wolbachia infections shaping the genetic structure of the widespread butterfly Polyommatus icarus in the British Isles",
-    "section": "",
-    "text": "Arif, S., Gerth, M., Hone-Millard, W. G., Nunes, M. D. S., Dapporto, L., & Shreeve, T. G. (2021). Evidence for multiple colonisations and Wolbachia infections shaping the genetic structure of the widespread butterfly Polyommatus icarus in the British Isles. Molecular Ecology, 30(20), 5196–5213. https://doi.org/10.1111/mec.16126"
-  },
-  {
-    "objectID": "publications/articles/arifetal2021.html#abstract",
-    "href": "publications/articles/arifetal2021.html#abstract",
-    "title": "Evidence for multiple colonisations and Wolbachia infections shaping the genetic structure of the widespread butterfly Polyommatus icarus in the British Isles",
-    "section": "Abstract",
-    "text": "Abstract\nThe paradigm of isolation in southern refugia during glacial periods followed by expansions during interglacials, producing limited genetic differentiation in northern areas, dominates European phylogeography. However, the existence of complex structured populations in formerly glaciated areas, and islands connected to mainland areas during glacial maxima, call for alternative explanations. We reconstructed the mtDNA phylogeography of the widespread Polyommatus Icarus butterfly with an emphasis on the formerly glaciated and connected British Isles. We found distinct geographical structuring of CO1 haplogroups, with an ancient lineage restricted to the marginal European areas, including Northern Scotland and Outer Hebrides. Population genomic analyses, using ddRADSeq genomic markers, also reveal substantial genetic structuring within Britain. However, there is negligble mito-nuclear concordance consistent with independent demographic histories of mitochondrial versus nuclear DNA. While mtDNA-Wolbachia associations in northern Britain could account for the geographic structuring of mtDNA across most of the British Isles, for nuclear DNA markers (derived from ddRADseq data) butterflies from France cluster between northern and southern British populations – an observation consistent with a scenario of multiple recolonisation. Taken together our results suggest that contemporary mtDNA structuring in the British Isles (and potentially elsewhere in Europe) largely results from Wolbachia infections, however, nuclear genomic structuring suggests a history of at least two distinct colonisations. This two-stage colonisation scenario has previously been put forth to explain genetic diversity and structuring in other British flora and fauna. Additionally, we also present preliminary evidence for potential Wolbachia-induced feminization in the Outer Hebrides."
-  },
-  {
-    "objectID": "publications/articles/ebdon2022.html",
-    "href": "publications/articles/ebdon2022.html",
-    "title": "The genome sequence of the black-veined white butterfly, Aporia crataegi (Linnaeus, 1758)",
-    "section": "",
-    "text": "Ebdon S, Mackintosh A, Lohse K et al. The genome sequence of the black-veined white butterfly, Aporia crataegi (Linnaeus, 1758) [version 1; peer review: 1 approved, 1 not approved]. Wellcome Open Res 2022, 7:81 (https://doi.org/10.12688/wellcomeopenres.17709.1)"
-  },
-  {
-    "objectID": "publications/articles/ebdon2022.html#citation",
-    "href": "publications/articles/ebdon2022.html#citation",
-    "title": "The genome sequence of the black-veined white butterfly, Aporia crataegi (Linnaeus, 1758)",
-    "section": "",
-    "text": "Ebdon S, Mackintosh A, Lohse K et al. The genome sequence of the black-veined white butterfly, Aporia crataegi (Linnaeus, 1758) [version 1; peer review: 1 approved, 1 not approved]. Wellcome Open Res 2022, 7:81 (https://doi.org/10.12688/wellcomeopenres.17709.1)"
-  },
-  {
-    "objectID": "publications/articles/ebdon2022.html#abstract",
-    "href": "publications/articles/ebdon2022.html#abstract",
-    "title": "The genome sequence of the black-veined white butterfly, Aporia crataegi (Linnaeus, 1758)",
-    "section": "Abstract",
-    "text": "Abstract\nWe present a genome assembly from an individual male Aporia crataegi (the black-veined white; Arthropoda; Insecta; Lepidoptera; Pieridae). The genome sequence is 230 megabases in span. The complete assembly is scaffolded into 26 chromosomal pseudomolecules, with the Z sex chromosome assembled. Gene annotation of this assembly on Ensembl has identified 10,860 protein coding genes."
+    "text": "Abstract\nA striking diversity of compound eye size and shape has evolved among insects. The number of ommatidia and their size are major determinants of the visual sensitivity and acuity of the compound eye. Each ommatidium is composed of eight photoreceptor cells that facilitate the discrimination of different colours via the expression of various light sensitive Rhodopsin proteins. It follows that variation in eye size, shape, and opsin composition is likely to directly influence vision. We analyzed variation in these three traits in D. melanogaster, D. simulans and D. mauritiana. We show that D. mauritiana generally has larger eyes than its sibling species, which is due to a combination of larger ommatidia and more ommatidia. In addition, intra- and inter-specific differences in eye size among D. simulans and D. melanogaster strains are mainly caused by variation in ommatidia number. By applying a geometric morphometrics approach to assess whether the formation of larger eyes influences other parts of the head capsule, we found that an increase in eye size is associated with a reduction in the adjacent face cuticle. Our shape analysis also demonstrates that D. mauritiana eyes are specifically enlarged in the dorsal region. Intriguingly, this dorsal enlargement is associated with enhanced expression of rhodopsin 3 in D. mauritiana. In summary, our data suggests that the morphology and functional properties of the compound eyes vary considerably within and among these closely related Drosophila species and may be part of coordinated morphological changes affecting the head capsule."
   },
   {
     "objectID": "publications/articles/torres2021.html",
@@ -742,24 +749,87 @@
     "text": "Abstract\nBackground The compound eyes of insects exhibit extensive variation in ommatidia number and size, which affects how they see and underlies adaptations in their vision to different environments and lifestyles. However, very little is known about the genetic and developmental bases of differences in eye size. We previously showed that the larger eyes of Drosophila mauritiana compared to D. simulans are generally caused by differences in ommatidia size rather than number. Furthermore, we identified an X-linked chromosomal region in D. mauritiana that results in larger eyes when introgressed into D. simulans.\nResults Here, we used a combination of fine-scale mapping and gene expression analysis to further investigate positional candidate genes on the X chromosome. We found earlier expression of orthodenticle (otd) during ommatidial maturation in D. mauritiana than in D. simulans, and we show that this gene is required for the correct organisation and size of ommatidia in D. melanogaster. We discovered that the activity of an otd eye enhancer is consistent with the difference in the expression of this gene between species, with the D. mauritiana enhancer sequence driving earlier expression than that of D. simulans. When otd expression is driven prematurely during D. melanogaster eye development, the ommatidia grow larger, supporting a possible role for the timing of otd expression in regulating ommatidial size. We also identified potential direct targets of Otd that are differentially expressed between D. mauritiana and D. simulans during ommatidial maturation.\nConclusions Taken together, our results suggest that differential timing of otd expression may contribute to natural variation in ommatidia size between D. mauritiana and D. simulans, which provides new insights into the mechanisms underlying the regulation and evolution of compound eye size in insects."
   },
   {
-    "objectID": "publications/articles/whitlaetal2023.html",
-    "href": "publications/articles/whitlaetal2023.html",
-    "title": "The last days of Aporia crataegi (L.) in Britain: evaluating genomic erosion in an extirpated butterfly",
+    "objectID": "publications/articles/harperetal2021.html",
+    "href": "publications/articles/harperetal2021.html",
+    "title": "Widespread retention of ohnologs in key developmental gene families following whole genome duplication in arachnopulmona",
     "section": "",
-    "text": "Whitla, R., Hens, K., Hogan, J., Martin, G., Breuker, C., Shreeve, T. G., & Arif, S. (2024). The last days of Aporia crataegi (L.) in Britain: Evaluating genomic erosion in an extirpated butterfly. Molecular Ecology, 33, e17518. https://doi.org/10.1111/mec.17518"
+    "text": "Harper, A., Gonzalez, L. B., Schönauer, A., Seiter, M., Holzem, M., Arif, S., McGregor, A. P., & Sumner-Rooney, L. (2020). Widespread retention of ohnologs in key developmental gene families following whole genome duplication in arachnopulmonates. BioRxiv, 2020.07.10.177725. https://doi.org/10.1101/2020.07.10.177725"
   },
   {
-    "objectID": "publications/articles/whitlaetal2023.html#citation",
-    "href": "publications/articles/whitlaetal2023.html#citation",
-    "title": "The last days of Aporia crataegi (L.) in Britain: evaluating genomic erosion in an extirpated butterfly",
+    "objectID": "publications/articles/harperetal2021.html#citation",
+    "href": "publications/articles/harperetal2021.html#citation",
+    "title": "Widespread retention of ohnologs in key developmental gene families following whole genome duplication in arachnopulmona",
     "section": "",
-    "text": "Whitla, R., Hens, K., Hogan, J., Martin, G., Breuker, C., Shreeve, T. G., & Arif, S. (2024). The last days of Aporia crataegi (L.) in Britain: Evaluating genomic erosion in an extirpated butterfly. Molecular Ecology, 33, e17518. https://doi.org/10.1111/mec.17518"
+    "text": "Harper, A., Gonzalez, L. B., Schönauer, A., Seiter, M., Holzem, M., Arif, S., McGregor, A. P., & Sumner-Rooney, L. (2020). Widespread retention of ohnologs in key developmental gene families following whole genome duplication in arachnopulmonates. BioRxiv, 2020.07.10.177725. https://doi.org/10.1101/2020.07.10.177725"
   },
   {
-    "objectID": "publications/articles/whitlaetal2023.html#abstract",
-    "href": "publications/articles/whitlaetal2023.html#abstract",
-    "title": "The last days of Aporia crataegi (L.) in Britain: evaluating genomic erosion in an extirpated butterfly",
+    "objectID": "publications/articles/harperetal2021.html#abstract",
+    "href": "publications/articles/harperetal2021.html#abstract",
+    "title": "Widespread retention of ohnologs in key developmental gene families following whole genome duplication in arachnopulmona",
     "section": "Abstract",
-    "text": "Abstract\nCurrent rates of habitat degradation and climate change are causing unprecedented declines in global biodiversity. Studies on vertebrates highlight how conservation genomics can be effective in identifying and managing threatened populations, but it is unclear how vertebrate-derived metrics of genomic erosion translate to invertebrates, with their markedly different population sizes and life histories. The Black-veined White butterfly (Aporia crataegi) was extirpated from Britain in the 1920s. Here, we sequenced historical DNA from 17 specimens collected between 1854 and 1924 to reconstruct demography and compare levels of genomic erosion between extirpated British and extant European mainland populations. We contrast these results using modern samples of the Common Blue butterfly (Polyommatus icarus); a species with relatively stable demographic trends in Great Britain. We provide evidence for bottlenecks in both these species around the period of post-glacial colonization of the British Isles. Our results reveal different demographic histories and Ne for both species, consistent with their fates in Britain, likely driven by differences in life history, ecology and genome size. Despite a difference, by an order of magnitude, in historical effective population sizes (Ne), reduction in genome-wide heterozygosity in A. crataegi was comparable to that in P. icarus. Symptomatic of A. crataegi’s disappearance were marked increases in runs-of-homozygosity (RoH), potentially indicative of recent inbreeding, and accumulation of putatively mildly and weakly deleterious variants. Our results provide a rare glimpse of genomic erosion in a regionally extinct insect and support the potential use of genomic erosion metrics in identifying invertebrate populations or species in decline."
+    "text": "Abstract\nWhole-genome duplications (WGDs) have occurred multiple times during animal evolution, including in lineages leading to vertebrates, teleosts, horseshoe crabs, and arachnopulmonates. These dramatic events initially produce a wealth of new genetic material, generally followed by extensive gene loss. It appears, however, that developmental genes such as homeobox genes, signaling pathway components and microRNAs are frequently retained as duplicates (so-called ohnologs) following WGD. These not only provide the best evidence for WGD, but an opportunity to study its evolutionary consequences. Although these genes are well studied in the context of vertebrate WGD, similar comparisons across the extant arachnopulmonate orders are patchy. We sequenced embryonic transcriptomes from two spider species and two amblypygid species and surveyed three important gene families, Hox, Wnt, and frizzled, across these and 12 existing transcriptomic and genomic resources for chelicerates. We report extensive retention of putative ohnologs, further supporting the ancestral arachnopulmonate WGD. We also found evidence of consistent evolutionary trajectories in Hox and Wnt gene repertoires across three of the six arachnopulmonate orders, with interorder variation in the retention of specific paralogs. We identified variation between major clades in spiders and are better able to reconstruct the chronology of gene duplications and losses in spiders, amblypygids, and scorpions. These insights shed light on the evolution of the developmental toolkit in arachnopulmonates, highlight the importance of the comparative approach within lineages, and provide substantial new transcriptomic data for future study."
+  },
+  {
+    "objectID": "publications/articles/nunesetal2013.html",
+    "href": "publications/articles/nunesetal2013.html",
+    "title": "Perspective on Micro-Evo-Devo: Progress and Potential",
+    "section": "",
+    "text": "Nunes, M. D. S., Arif, S., Schlötterer, C., & McGregor, A. P. (2013). A Perspective on Micro-Evo-Devo: Progress and Potential. Genetics, 195(3), 625–634. https://doi.org/10.1534/genetics.113.156463"
+  },
+  {
+    "objectID": "publications/articles/nunesetal2013.html#citation",
+    "href": "publications/articles/nunesetal2013.html#citation",
+    "title": "Perspective on Micro-Evo-Devo: Progress and Potential",
+    "section": "",
+    "text": "Nunes, M. D. S., Arif, S., Schlötterer, C., & McGregor, A. P. (2013). A Perspective on Micro-Evo-Devo: Progress and Potential. Genetics, 195(3), 625–634. https://doi.org/10.1534/genetics.113.156463"
+  },
+  {
+    "objectID": "publications/articles/nunesetal2013.html#abstract",
+    "href": "publications/articles/nunesetal2013.html#abstract",
+    "title": "Perspective on Micro-Evo-Devo: Progress and Potential",
+    "section": "Abstract",
+    "text": "Abstract\nThe term “micro-evo-devo” refers to the combined study of the genetic and developmental bases of natural variation in populations and the evolutionary forces that have shaped this variation. It thus represents a synthesis of the fields of evolutionary developmental biology and population genetics. As has been pointed out by several others, this synthesis can provide insights into the evolution of organismal form and function that have not been possible within these individual disciplines separately. Despite a number of important successes in micro-evo-devo, however, it appears that evo devo and population genetics remain largely separate spheres of research, limiting their ability to address evolutionary questions. This also risks pushing contemporary evo devo to the fringes of evolutionary biology because it does not describe the causative molecular changes underlying evolution or the evolutionary forces involved. Here we reemphasize the theoretical and practical importance of micro-evo-devo as a strategy for understanding phenotypic evolution, review the key recent insights that it has provided, and present a perspective on both the potential and the remaining challenges of this exciting interdisciplinary field."
+  },
+  {
+    "objectID": "publications/articles/arifetal2015.html",
+    "href": "publications/articles/arifetal2015.html",
+    "title": "From shavenbaby to the naked valley: Trichome formation as a model for evolutionary developmental biology",
+    "section": "",
+    "text": "Arif, S., Kittelmann, S., & McGregor, A. P. (2015). From shavenbaby to the naked valley: Trichome formation as a model for evolutionary developmental biology. Evolution & Development, 17(1), 120–126. https://doi.org/10.1111/ede.12113"
+  },
+  {
+    "objectID": "publications/articles/arifetal2015.html#citation",
+    "href": "publications/articles/arifetal2015.html#citation",
+    "title": "From shavenbaby to the naked valley: Trichome formation as a model for evolutionary developmental biology",
+    "section": "",
+    "text": "Arif, S., Kittelmann, S., & McGregor, A. P. (2015). From shavenbaby to the naked valley: Trichome formation as a model for evolutionary developmental biology. Evolution & Development, 17(1), 120–126. https://doi.org/10.1111/ede.12113"
+  },
+  {
+    "objectID": "publications/articles/arifetal2015.html#abstract",
+    "href": "publications/articles/arifetal2015.html#abstract",
+    "title": "From shavenbaby to the naked valley: Trichome formation as a model for evolutionary developmental biology",
+    "section": "Abstract",
+    "text": "Abstract\nMicrotrichia or trichomes are non-sensory actin protrusions produced by the epidermal cells of many insects. Studies of trichome formation in Drosophila have over the last 30 years provided key insights towards our understanding of gene regulation, gene regulatory networks (GRNs), development, the genotype to phenotype map, and the evolution of these processes. Here we review classic studies that have used trichome formation as a model to shed light on Drosophila development as well as recent research on the architecture of the GRN underlying trichome formation. This includes the findings that both small peptides and microRNAs play important roles in the regulation and evolution of this network. In addition, we review research on the evolution of trichome patterns that has provided novel insights into the function and architecture of cis-regulatory modules, and into the genetic basis of morphological change. We conclude that further research on these apparently simple and often functionally enigmatic structures will continue to provide new and important knowledge about development and evolution."
+  },
+  {
+    "objectID": "publications/articles/ebdon2022.html",
+    "href": "publications/articles/ebdon2022.html",
+    "title": "The genome sequence of the black-veined white butterfly, Aporia crataegi (Linnaeus, 1758)",
+    "section": "",
+    "text": "Ebdon S, Mackintosh A, Lohse K et al. The genome sequence of the black-veined white butterfly, Aporia crataegi (Linnaeus, 1758) [version 1; peer review: 1 approved, 1 not approved]. Wellcome Open Res 2022, 7:81 (https://doi.org/10.12688/wellcomeopenres.17709.1)"
+  },
+  {
+    "objectID": "publications/articles/ebdon2022.html#citation",
+    "href": "publications/articles/ebdon2022.html#citation",
+    "title": "The genome sequence of the black-veined white butterfly, Aporia crataegi (Linnaeus, 1758)",
+    "section": "",
+    "text": "Ebdon S, Mackintosh A, Lohse K et al. The genome sequence of the black-veined white butterfly, Aporia crataegi (Linnaeus, 1758) [version 1; peer review: 1 approved, 1 not approved]. Wellcome Open Res 2022, 7:81 (https://doi.org/10.12688/wellcomeopenres.17709.1)"
+  },
+  {
+    "objectID": "publications/articles/ebdon2022.html#abstract",
+    "href": "publications/articles/ebdon2022.html#abstract",
+    "title": "The genome sequence of the black-veined white butterfly, Aporia crataegi (Linnaeus, 1758)",
+    "section": "Abstract",
+    "text": "Abstract\nWe present a genome assembly from an individual male Aporia crataegi (the black-veined white; Arthropoda; Insecta; Lepidoptera; Pieridae). The genome sequence is 230 megabases in span. The complete assembly is scaffolded into 26 chromosomal pseudomolecules, with the Z sex chromosome assembled. Gene annotation of this assembly on Ensembl has identified 10,860 protein coding genes."
   }
 ]
