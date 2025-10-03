@@ -1,0 +1,21 @@
+{
+  "hash": "16ed0cad19642e1632bce8b5a427d651",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"My Presentation\"\nsubtitle: \"A Quarto Reveal.js Presentation\"\nauthor: \"Your Name\"\ndate: \"September 30, 2025\"\nformat:\n  revealjs:\n    theme: default\n    slide-number: true\n    chalkboard: true\n    preview-links: auto\n    logo: \"\"\n    footer: \"My Presentation Footer\"\n    transition: slide\n    background-transition: fade\n    highlight-style: github\n    code-line-numbers: false\n    code-overflow: wrap\neditor: visual\n---\n\n## Introduction\n\nWelcome to your Quarto Reveal.js presentation!\n\n- Point one\n- Point two\n- Point three\n\n::: {.notes}\nSpeaker notes go here.\n:::\n\n## Slide with R Code\n\n\n::: {.cell}\n\n```{.r .cell-code}\n# Example R code\nlibrary(ggplot2)\nmtcars |>\n  ggplot(aes(x = wt, y = mpg)) +\n  geom_point() +\n  geom_smooth(method = \"lm\") +\n  labs(title = \"Car Weight vs. MPG\",\n       x = \"Weight (1000 lbs)\",\n       y = \"Miles Per Gallon\")\n```\n\n::: {.cell-output-display}\n![](presentation_files/figure-revealjs/unnamed-chunk-1-1.png){width=768}\n:::\n:::\n\n\n## Incremental Lists {.incremental}\n\n- First item\n- Second item  \n- Third item\n\n## Two Column Layout\n\n:::: {.columns}\n\n::: {.column width=\"50%\"}\n### Left Column\n- Item A\n- Item B\n- Item C\n:::\n\n::: {.column width=\"50%\"}\n### Right Column\n- Item 1\n- Item 2\n- Item 3\n:::\n\n::::\n\n## Fragment Examples\n\n::: {.fragment}\nFade in\n:::\n\n::: {.fragment .fade-out}\nFade out\n:::\n\n::: {.fragment .highlight-red}\nHighlight red\n:::\n\n::: {.fragment .fade-in-then-semi-out}\nFade in, then semi out\n:::\n\n## Math Equations\n\nWhen $a \\ne 0$, there are two solutions to $(ax^2 + bx + c = 0)$:\n\n$$x = \\frac{-b \\pm \\sqrt{b^2-4ac}}{2a}$$\n\n## Images and Media\n\n![Quarto Logo](https://quarto.org/quarto.png){width=\"300\"}\n\n## Tabset Panel {.tabset}\n\n### Tab A\n\nContent for Tab A\n\n### Tab B\n\nContent for Tab B\n\n### Tab C\n\nContent for Tab C\n\n## Code with Output\n\n\n::: {.cell}\n\n```{.r .cell-code}\n# Summary statistics\nsummary(mtcars$mpg)\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. \n  10.40   15.43   19.20   20.09   22.80   33.90 \n```\n\n\n:::\n:::\n\n\n## Thank You! {.center}\n\n### Questions?\n\n**Contact Information:**\n- Email: your.email@example.com\n- Website: yourwebsite.com\n\n::: {.notes}\nThank the audience and open for questions.\n:::",
+    "supporting": [
+      "presentation_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {
+      "include-after-body": [
+        "\n<script>\n  // htmlwidgets need to know to resize themselves when slides are shown/hidden.\n  // Fire the \"slideenter\" event (handled by htmlwidgets.js) when the current\n  // slide changes (different for each slide format).\n  (function () {\n    // dispatch for htmlwidgets\n    function fireSlideEnter() {\n      const event = window.document.createEvent(\"Event\");\n      event.initEvent(\"slideenter\", true, true);\n      window.document.dispatchEvent(event);\n    }\n\n    function fireSlideChanged(previousSlide, currentSlide) {\n      fireSlideEnter();\n\n      // dispatch for shiny\n      if (window.jQuery) {\n        if (previousSlide) {\n          window.jQuery(previousSlide).trigger(\"hidden\");\n        }\n        if (currentSlide) {\n          window.jQuery(currentSlide).trigger(\"shown\");\n        }\n      }\n    }\n\n    // hookup for slidy\n    if (window.w3c_slidy) {\n      window.w3c_slidy.add_observer(function (slide_num) {\n        // slide_num starts at position 1\n        fireSlideChanged(null, w3c_slidy.slides[slide_num - 1]);\n      });\n    }\n\n  })();\n</script>\n\n"
+      ]
+    },
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

@@ -2,27 +2,39 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://saadarif.github.io/labmembers.html</loc>
-    <lastmod>2025-09-22T21:52:54.341Z</lastmod>
+    <lastmod>2025-09-19T08:33:39.805Z</lastmod>
   </url>
   <url>
-    <loc>https://saadarif.github.io/presentations.html</loc>
-    <lastmod>2025-06-26T08:35:10.985Z</lastmod>
+    <loc>https://saadarif.github.io/about.html</loc>
+    <lastmod>2024-10-08T15:19:48.750Z</lastmod>
   </url>
   <url>
-    <loc>https://saadarif.github.io/people/staff/saadarif.html</loc>
-    <lastmod>2025-09-19T08:30:04.180Z</lastmod>
+    <loc>https://saadarif.github.io/people/staff/danBardey.html</loc>
+    <lastmod>2025-09-19T08:30:04.152Z</lastmod>
+  </url>
+  <url>
+    <loc>https://saadarif.github.io/people/masters/cameronnaismith-robertson.html</loc>
+    <lastmod>2025-08-01T16:26:12.681Z</lastmod>
   </url>
   <url>
     <loc>https://saadarif.github.io/people/undergrad/rebeccajones.html</loc>
-    <lastmod>2025-09-08T20:10:40.471Z</lastmod>
+    <lastmod>2025-08-01T16:26:25.949Z</lastmod>
   </url>
   <url>
-    <loc>https://saadarif.github.io/people/alumni/willmillard.html</loc>
-    <lastmod>2025-09-08T20:10:40.469Z</lastmod>
+    <loc>https://saadarif.github.io/people/undergrad/nour.html</loc>
+    <lastmod>2025-09-22T07:34:56.021Z</lastmod>
+  </url>
+  <url>
+    <loc>https://saadarif.github.io/people/alumni/edyrusso.html</loc>
+    <lastmod>2024-10-08T15:19:48.786Z</lastmod>
+  </url>
+  <url>
+    <loc>https://saadarif.github.io/people/alumni/rebeccaWhitla.html</loc>
+    <lastmod>2025-03-19T14:40:52.857Z</lastmod>
   </url>
   <url>
     <loc>https://saadarif.github.io/people/alumni/reubenkumar.html</loc>
-    <lastmod>2025-09-08T20:10:40.463Z</lastmod>
+    <lastmod>2024-10-08T15:19:48.786Z</lastmod>
   </url>
   <url>
     <loc>https://saadarif.github.io/contact.html</loc>
@@ -30,15 +42,15 @@
   </url>
   <url>
     <loc>https://saadarif.github.io/publications/articles/torres2021.html</loc>
-    <lastmod>2025-09-08T20:10:40.482Z</lastmod>
+    <lastmod>2025-02-04T14:27:22.598Z</lastmod>
   </url>
   <url>
     <loc>https://saadarif.github.io/publications/articles/gasparetal2019.html</loc>
-    <lastmod>2025-09-08T20:10:40.481Z</lastmod>
+    <lastmod>2024-10-08T15:19:48.786Z</lastmod>
   </url>
   <url>
     <loc>https://saadarif.github.io/publications/articles/arifetal2009.html</loc>
-    <lastmod>2025-09-08T20:10:40.478Z</lastmod>
+    <lastmod>2024-10-08T15:19:48.786Z</lastmod>
   </url>
   <url>
     <loc>https://saadarif.github.io/publications/articles/leiteetal2016.html</loc>
@@ -46,154 +58,138 @@
   </url>
   <url>
     <loc>https://saadarif.github.io/publications/articles/baudouinetal2021.html</loc>
-    <lastmod>2025-09-08T20:10:40.481Z</lastmod>
-  </url>
-  <url>
-    <loc>https://saadarif.github.io/publications/articles/nunesetal2013.html</loc>
-    <lastmod>2025-09-08T20:10:40.482Z</lastmod>
-  </url>
-  <url>
-    <loc>https://saadarif.github.io/publications/articles/hagenetal2021.html</loc>
-    <lastmod>2025-09-08T20:10:40.481Z</lastmod>
-  </url>
-  <url>
-    <loc>https://saadarif.github.io/publications/articles/posnienetal2012.html</loc>
-    <lastmod>2025-09-08T20:10:40.482Z</lastmod>
-  </url>
-  <url>
-    <loc>https://saadarif.github.io/publications/articles/arifetal2021.html</loc>
-    <lastmod>2025-09-08T20:10:40.478Z</lastmod>
-  </url>
-  <url>
-    <loc>https://saadarif.github.io/publications/articles/gonzalezetal2023.html</loc>
-    <lastmod>2025-09-08T20:10:40.481Z</lastmod>
-  </url>
-  <url>
-    <loc>https://saadarif.github.io/publications/articles/smithetal2007.html</loc>
-    <lastmod>2025-09-08T20:10:40.482Z</lastmod>
-  </url>
-  <url>
-    <loc>https://saadarif.github.io/oppurtunities.html</loc>
-    <lastmod>2025-09-08T20:10:40.459Z</lastmod>
-  </url>
-  <url>
-    <loc>https://saadarif.github.io/research.html</loc>
-    <lastmod>2025-09-22T21:52:54.342Z</lastmod>
-  </url>
-  <url>
-    <loc>https://saadarif.github.io/index.html</loc>
     <lastmod>2024-10-08T15:19:48.786Z</lastmod>
   </url>
   <url>
-    <loc>https://saadarif.github.io/posts.html</loc>
-    <lastmod>2025-09-08T20:10:40.477Z</lastmod>
+    <loc>https://saadarif.github.io/publications/articles/nunesetal2013.html</loc>
+    <lastmod>2024-10-08T15:19:48.790Z</lastmod>
+  </url>
+  <url>
+    <loc>https://saadarif.github.io/publications/articles/hagenetal2021.html</loc>
+    <lastmod>2024-10-08T15:19:48.786Z</lastmod>
+  </url>
+  <url>
+    <loc>https://saadarif.github.io/publications/articles/posnienetal2012.html</loc>
+    <lastmod>2024-10-08T15:19:48.790Z</lastmod>
+  </url>
+  <url>
+    <loc>https://saadarif.github.io/publications/articles/arifetal2021.html</loc>
+    <lastmod>2024-10-08T15:19:48.786Z</lastmod>
+  </url>
+  <url>
+    <loc>https://saadarif.github.io/publications/articles/gonzalezetal2023.html</loc>
+    <lastmod>2025-03-19T14:38:32.388Z</lastmod>
+  </url>
+  <url>
+    <loc>https://saadarif.github.io/publications/articles/livraghetal2017.html</loc>
+    <lastmod>2024-10-08T15:19:48.790Z</lastmod>
   </url>
   <url>
     <loc>https://saadarif.github.io/publications.html</loc>
     <lastmod>2025-09-19T08:30:04.184Z</lastmod>
   </url>
   <url>
-    <loc>https://saadarif.github.io/publications/articles/livraghetal2017.html</loc>
-    <lastmod>2025-09-08T20:10:40.481Z</lastmod>
-  </url>
-  <url>
-    <loc>https://saadarif.github.io/publications/articles/arifetal2013b.html</loc>
-    <lastmod>2025-09-08T20:10:40.478Z</lastmod>
-  </url>
-  <url>
-    <loc>https://saadarif.github.io/publications/articles/kittelmann2018.html</loc>
-    <lastmod>2025-09-08T20:10:40.481Z</lastmod>
-  </url>
-  <url>
-    <loc>https://saadarif.github.io/publications/articles/arifetal2013a.html</loc>
-    <lastmod>2025-09-08T20:10:40.478Z</lastmod>
-  </url>
-  <url>
-    <loc>https://saadarif.github.io/publications/articles/koenigeretal2019.html</loc>
-    <lastmod>2025-09-08T20:10:40.481Z</lastmod>
-  </url>
-  <url>
-    <loc>https://saadarif.github.io/publications/articles/arifetal2015.html</loc>
-    <lastmod>2025-09-08T20:10:40.478Z</lastmod>
-  </url>
-  <url>
-    <loc>https://saadarif.github.io/publications/articles/arifetal2007.html</loc>
-    <lastmod>2025-09-08T20:10:40.478Z</lastmod>
-  </url>
-  <url>
-    <loc>https://saadarif.github.io/publications/articles/whitlaetal2023.html</loc>
-    <lastmod>2025-09-08T20:10:40.482Z</lastmod>
-  </url>
-  <url>
-    <loc>https://saadarif.github.io/publications/articles/harperetal2021.html</loc>
-    <lastmod>2025-09-08T20:10:40.481Z</lastmod>
-  </url>
-  <url>
-    <loc>https://saadarif.github.io/publications/articles/ebdon2022.html</loc>
-    <lastmod>2025-09-08T20:10:40.481Z</lastmod>
-  </url>
-  <url>
-    <loc>https://saadarif.github.io/publications/articles/wiensetal2010.html</loc>
-    <lastmod>2025-09-08T20:10:40.482Z</lastmod>
-  </url>
-  <url>
-    <loc>https://saadarif.github.io/people/alumni/frankierackham.html</loc>
-    <lastmod>2025-09-08T20:10:40.463Z</lastmod>
-  </url>
-  <url>
-    <loc>https://saadarif.github.io/people/alumni/sarahrdalo.html</loc>
-    <lastmod>2025-09-08T20:10:40.468Z</lastmod>
-  </url>
-  <url>
-    <loc>https://saadarif.github.io/people/alumni/edyrusso.html</loc>
-    <lastmod>2025-09-08T20:10:40.463Z</lastmod>
-  </url>
-  <url>
-    <loc>https://saadarif.github.io/people/undergrad/diskhapadwal.html</loc>
+    <loc>https://saadarif.github.io/posts.html</loc>
     <lastmod>2024-10-08T15:19:48.786Z</lastmod>
   </url>
   <url>
-    <loc>https://saadarif.github.io/people/staff/rebeccaWhitla.html</loc>
-    <lastmod>2025-03-19T14:40:52.857Z</lastmod>
+    <loc>https://saadarif.github.io/presentation.html</loc>
+    <lastmod>2025-10-03T08:57:06.894Z</lastmod>
   </url>
   <url>
-    <loc>https://saadarif.github.io/about.html</loc>
-    <lastmod>2024-10-08T15:19:48.750Z</lastmod>
+    <loc>https://saadarif.github.io/index.html</loc>
+    <lastmod>2025-10-03T08:58:11.946Z</lastmod>
   </url>
   <url>
-    <loc>https://saadarif.github.io/teaching.html</loc>
-    <lastmod>2025-07-08T08:49:36.016Z</lastmod>
+    <loc>https://saadarif.github.io/research.html</loc>
+    <lastmod>2025-09-22T07:40:48.934Z</lastmod>
+  </url>
+  <url>
+    <loc>https://saadarif.github.io/oppurtunities.html</loc>
+    <lastmod>2025-02-04T14:20:53.645Z</lastmod>
+  </url>
+  <url>
+    <loc>https://saadarif.github.io/publications/articles/smithetal2007.html</loc>
+    <lastmod>2024-11-22T14:31:01.878Z</lastmod>
   </url>
   <url>
     <loc>https://saadarif.github.io/publications/articles/arifetal2024.html</loc>
-    <lastmod>2025-09-08T20:10:40.478Z</lastmod>
+    <lastmod>2024-11-22T14:23:05.453Z</lastmod>
   </url>
   <url>
-    <loc>https://saadarif.github.io/people/alumni/rebeccaWhitla.html</loc>
-    <lastmod>2025-09-08T20:10:40.463Z</lastmod>
+    <loc>https://saadarif.github.io/publications/articles/arifetal2013b.html</loc>
+    <lastmod>2024-10-08T15:19:48.786Z</lastmod>
   </url>
   <url>
-    <loc>https://saadarif.github.io/people/masters/cameronnaismith-robertson.html</loc>
-    <lastmod>2025-09-08T20:10:40.469Z</lastmod>
+    <loc>https://saadarif.github.io/publications/articles/kittelmann2018.html</loc>
+    <lastmod>2024-10-08T15:19:48.790Z</lastmod>
+  </url>
+  <url>
+    <loc>https://saadarif.github.io/publications/articles/arifetal2013a.html</loc>
+    <lastmod>2024-10-08T15:19:48.786Z</lastmod>
+  </url>
+  <url>
+    <loc>https://saadarif.github.io/publications/articles/koenigeretal2019.html</loc>
+    <lastmod>2024-10-08T15:19:48.790Z</lastmod>
+  </url>
+  <url>
+    <loc>https://saadarif.github.io/publications/articles/arifetal2015.html</loc>
+    <lastmod>2024-10-08T15:19:48.786Z</lastmod>
+  </url>
+  <url>
+    <loc>https://saadarif.github.io/publications/articles/arifetal2007.html</loc>
+    <lastmod>2024-10-08T15:19:48.786Z</lastmod>
+  </url>
+  <url>
+    <loc>https://saadarif.github.io/publications/articles/whitlaetal2023.html</loc>
+    <lastmod>2024-10-08T15:19:48.790Z</lastmod>
+  </url>
+  <url>
+    <loc>https://saadarif.github.io/publications/articles/harperetal2021.html</loc>
+    <lastmod>2024-10-08T15:19:48.790Z</lastmod>
+  </url>
+  <url>
+    <loc>https://saadarif.github.io/publications/articles/ebdon2022.html</loc>
+    <lastmod>2024-10-08T15:19:48.786Z</lastmod>
+  </url>
+  <url>
+    <loc>https://saadarif.github.io/publications/articles/wiensetal2010.html</loc>
+    <lastmod>2024-11-22T14:29:59.698Z</lastmod>
+  </url>
+  <url>
+    <loc>https://saadarif.github.io/people/alumni/frankierackham.html</loc>
+    <lastmod>2024-10-08T15:19:48.786Z</lastmod>
+  </url>
+  <url>
+    <loc>https://saadarif.github.io/people/alumni/sarahrdalo.html</loc>
+    <lastmod>2024-10-08T15:19:48.786Z</lastmod>
+  </url>
+  <url>
+    <loc>https://saadarif.github.io/people/alumni/willmillard.html</loc>
+    <lastmod>2024-10-08T15:19:48.786Z</lastmod>
   </url>
   <url>
     <loc>https://saadarif.github.io/people/alumni/diskhapadwal.html</loc>
-    <lastmod>2025-09-08T20:10:40.463Z</lastmod>
-  </url>
-  <url>
-    <loc>https://saadarif.github.io/people/undergrad/ryanfisher.html</loc>
-    <lastmod>2025-09-08T20:10:40.477Z</lastmod>
+    <lastmod>2025-07-04T10:03:13.684Z</lastmod>
   </url>
   <url>
     <loc>https://saadarif.github.io/people/undergrad/nyahgrewal.html</loc>
     <lastmod>2025-09-19T08:30:04.184Z</lastmod>
   </url>
   <url>
-    <loc>https://saadarif.github.io/people/staff/danBardey.html</loc>
-    <lastmod>2025-09-19T08:30:04.152Z</lastmod>
+    <loc>https://saadarif.github.io/people/undergrad/ryanfisher.html</loc>
+    <lastmod>2025-08-04T09:26:24.598Z</lastmod>
   </url>
   <url>
-    <loc>https://saadarif.github.io/people/undergrad/nour.html</loc>
-    <lastmod>2025-09-22T21:52:54.342Z</lastmod>
+    <loc>https://saadarif.github.io/people/staff/saadarif.html</loc>
+    <lastmod>2025-09-19T08:30:04.180Z</lastmod>
+  </url>
+  <url>
+    <loc>https://saadarif.github.io/presentations.html</loc>
+    <lastmod>2025-06-26T08:35:10.985Z</lastmod>
+  </url>
+  <url>
+    <loc>https://saadarif.github.io/teaching.html</loc>
+    <lastmod>2025-07-08T08:49:36.016Z</lastmod>
   </url>
 </urlset>
