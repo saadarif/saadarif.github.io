@@ -9,12 +9,12 @@ execute:
 website:
   title: "InsectOmics Lab"
   favicon: ./img/buttgen4.jpg
-#  announcement: 
-#    icon: info-circle-fill
-#    dismissable: true
-#    content: "**Alert** - <ins>Fully funded PhD Studentship</ins> available to study extinction genomics in 🦋 see the **[Opportunities](./oppurtunities.qmd) ** page for more info"
-#    type: dark
-#    position: below-navbar
+  announcement: 
+     icon: info-circle-fill
+     dismissable: true
+     content: "**PhD Studentships available** - Opportunity to study extinction genomics in butterflies available via the [Brookes ILESLA PhD Programme](https://www.brookes.ac.uk/courses/research/ilesla) - **Deadline 8th Jan 2026**, contact me if interested!"
+     type: dark
+     position: below-navbar
   navbar:
     left:
       - href: index.qmd
