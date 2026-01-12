@@ -17,6 +17,8 @@ toc: true
 
 ### Research
 
+-   **PopGroup59, 2026, Lille, France** - *Talk title*: Historical and modern genomes for quantifying temporal genomic erosion in a nationally endangered butterfly.  [Slides](https://saadarif.github.io/PG2026/)
+
 -   [**Biodiversity Genomics, 2024 (BG2024)**](https://www.biodiversitygenomicsconference.org/) - *Talk title*: The last days of *Aporia crataegi* L. in Britain: Evaluating genomic erosion in an extirpated butterfly. [Slides](https://saadarif.github.io/BG2024/)
 
 -   **BMS Summer Seminar, 2024, Oxford Brookes** - *Talk title*: Highthroughput sequencing from museum samples. [Slides](saadarif.github.io/BMSSeminar2024/)
