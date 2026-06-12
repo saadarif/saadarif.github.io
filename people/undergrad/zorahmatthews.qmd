@@ -1,9 +1,9 @@
 ---
-title: "Noureddin Ismail"
-sortby: "Ismail, Noureddin"
+title: "Zorah Matthews"
+sortby: "Matthews, Zorah"
 subtitle: "Undergrad Project Student"
-image: nour.jpg 
-started: "Summer 2025"
+image: ZorahMatthews.jpg 
+started: "Summer 2026"
 ended: "current"
 toc: false
 about:
@@ -24,5 +24,6 @@ about:
 
 :::{#person-profile}
 
-I am an undergraduate Biological Sciences student specialising in Genetics and Genomics. My academic interests lie in bioinformatics, population substructure and genetic epidemiology. I am currently researching the Jordanian population substructure for my research project. Beyond my studies, I take part in the Arab Society and enjoy playing football.
+Zorah Mathews is a second-year Biological Sciences: Genetics and Genomics student with a particular interest in bioinformatics and data analysis. She is currently working on her dissertation project, which investigates the diversity of Lokitandroka spiders in Madagascar. When she's not in the lab, she enjoys swimming, playing tennis, and painting. 
+
 :::

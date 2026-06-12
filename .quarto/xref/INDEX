@@ -160,5 +160,32 @@
   },
   "presentation.qmd": {
     "presentation.html": "895c95a0"
+  },
+  "people/alumni/nour.qmd": {
+    "nour.html": "a5750f77"
+  },
+  "people/alumni/ryanfisher.qmd": {
+    "ryanfisher.html": "3a683315"
+  },
+  "people/alumni/nyahgrewal.qmd": {
+    "nyahgrewal.html": "6d7e6133"
+  },
+  "people/undergrad/zorahmatthews.qmd": {
+    "zorahmatthews.html": "40f73407"
+  },
+  "people/undergrad/robinbryant.qmd": {
+    "robinbryant.html": "f1ac1fc4"
+  },
+  "people/alumni/cameronnaismith-robertson.qmd": {
+    "cameronnaismith-robertson.html": "51dcbfd6"
+  },
+  "publications/articles/beldade2026.qmd": {
+    "beldade2026.html": "de63fe29"
+  },
+  "publications/articles/bardey2026b.qmd": {
+    "bardey2026b.html": "3a27b575"
+  },
+  "publications/articles/bardey2026a.qmd": {
+    "bardey2026a.html": "d7780e68"
   }
 }

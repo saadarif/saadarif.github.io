@@ -1,0 +1,24 @@
+---
+title: "The long and short of it: phylogenomics shows loss of myrmecophagous traits in Holoptilinae and necessitates synonymization of feather-legged assassin bug tribes (Hemiptera: Reduviidae)"
+type: "article"
+author: "Bardey, Weirauch, Hoey-Chamberlain, et al."
+year: "2026"
+publication: "Systematics and Biodiversity"
+doi: "https://doi.org/10.1080/14772000.2026.2633316"
+github: ""
+toc: false
+categories:
+  - phylogenomics
+  - systematics
+  - Reduviidae
+
+---
+
+## Citation
+
+Bardey, D. J., Weirauch, C., Hoey-Chamberlain, R., Tyts, V., Tatarnic, N., Arif, S., & Bulbert, M. W. (2026). The long and short of it: phylogenomics shows loss of myrmecophagous traits in Holoptilinae and necessitates synonymization of feather-legged assassin bug tribes (Hemiptera: Reduviidae). *Systematics and Biodiversity*, **24**(1). https://doi.org/10.1080/14772000.2026.2633316
+
+
+## Abstract
+
+The tribe Aradellini Wygodzinsky & Usinger, 1963 (Hemiptera: Reduviidae: Holoptilinae) has been traditionallyconsidered as the earliest diverging tribe of the feather-legged assassin bugs, lacking many of the diagnostic charactersof the rest of the subfamily. These include the lack of the long antennal and hind-tibial setae, as well as the absence ofthe abdominal trichome – a glandular structure fundamental to prey interactions in the more derived HoloptiliniLepeletier & Serville, 1825. Here, we describe a new monotypic genus, Aratrichous anacomosus gen. et sp. nov., whichshares synapomorphies with members of Aradellini, yet starkly contrasts the tribe’s diagnosis by having a distinctabdominal trichome. This trichome occurs in all instars and in both sexes; although incomplete in the first instar, it isfully developed in later stages. Phylogenomic analysis confirms this new species as sister taxon to the remainingAradellini and places the tribe as a derived lineage within Holoptilini and as sister group to other endemic Australiangenera, thereby refuting the long-held assumption that Aradellini represent the earliest diverging lineage of the entiresubfamily. Consequently, we here synonymize Aradellini with Holoptilini sensu nov. and present a revised diagnosis forthe tribe that includes characters pertaining to forewing venation, vestiture and trichome presence. Furthermore, withinthe Australian Holoptilinae, our findings suggest: a secondary loss of the trichome; a replacement of elongate setae withshort teardrop-shaped setae; and a pronounced broadening of the antennae. We hypothesize that these morphologicalshifts reflect an adaptive transition toward a more myrmecophilous lifestyle, in contrast to the interceptive predatorystrategies typical of other Holoptilinae

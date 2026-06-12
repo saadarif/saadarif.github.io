@@ -1,0 +1,25 @@
+---
+title: "Lost in Transition: Is <em>Ptilocnemus larrakia</em> sp. nov. (Hemiptera: Reduviidae: Holoptilinae) a Missing Link Between Indomalayan and Australasian Feather-Legged Assassin Bugs?
+"
+type: "article"
+author: "Bardey, Weirauch, Arif, et al."
+year: "2026"
+publication: "International Journal of the Heteropterists' Society"
+preprint: ""
+doi: ""
+github: ""
+toc: false
+categories:
+  - systematics
+  - Reduviidae
+
+---
+
+## Citation
+
+
+
+
+## Abstract
+
+Most adult Holoptilinae in the tribe Holoptilini, including the Australian genus Ptilocnemus Westwood, 1840, have an elaborate glandular structure known as a trichome. This trichome interfaces with its ant prey during predation events. Unlike other genera of Holoptilini though, the nymphs of Ptilocnemus lack any resemblance of a trichome. Here we describe a new species, Ptilocnemus larrakia sp. nov., from the Northern Territory that is contrary to expectations. Although leg colouration, and denser clustering of setae on hind tibia have diagnostic significance, the most striking difference is the unique trichome which includes a new element ‘ptb3’. It is also the first Ptilocnemus species where the nymph is known to possess a trichome during the late instar. This latter observation may have significance for the understanding of the evolutionary history of Ptilocnemus. While the phylogeny of Ptilocnemus and related taxa is yet to be resolved, we speculate that the trichome in the nymphs of Ptilocnemus larrakia sp. nov. may be plesiomorphic, suggesting that this species could be an early diverging species of Ptilocnemus. This finding also suggests that the absence of the gland in the nymphs of other Ptilocnemus species is due to Australian Holoptilini experiencing selective pressures not present in other biogeographical regions.

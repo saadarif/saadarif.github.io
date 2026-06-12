@@ -4,7 +4,7 @@ sortby: "Fisher, Ryan"
 subtitle: "Undergrad Project Student"
 image: ryanfisher.jpg 
 started: "Summer 2025"
-ended: "current"
+ended: "Spring 2026"
 toc: false
 about:
   id: person-profile
